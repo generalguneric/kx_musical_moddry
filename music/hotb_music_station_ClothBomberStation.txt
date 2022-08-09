@@ -3116,3 +3116,23 @@ music = {
 		}
 	}
 }
+music = {
+	song = "le_festin"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}

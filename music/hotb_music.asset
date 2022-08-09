@@ -776,3 +776,8 @@ music = {
 	file = "non_je_ne_regrette_rien.ogg"
 	volume = 1.25
 }
+music = {
+	name = "le_festin"
+	file = "le_festin.ogg"
+	volume = 1.25
+}
