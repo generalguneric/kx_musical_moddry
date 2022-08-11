@@ -1,0 +1,25 @@
+music_station = "africaaddio"
+
+music = {
+	song = "ast_along_the_road_to_gundagai"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AST
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = AST
+			}		
+		}
+	}
+}
+
+
+
