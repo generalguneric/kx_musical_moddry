@@ -1,0 +1,25 @@
+music_station = "reichspaktradio"
+
+music = {
+	song = "ger_die_wacht_am_rhein"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}
+
+
+
