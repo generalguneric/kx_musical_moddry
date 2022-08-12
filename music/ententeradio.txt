@@ -1,4 +1,4 @@
-music_station = "africaaddio"
+music_station = "ententeradio"
 
 music = {
 	song = "ast_along_the_road_to_gundagai"
