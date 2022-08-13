@@ -1,0 +1,25 @@
+music_station = "internationaleradio"
+
+music = {
+	song = "syn_fra_la_capitaine_au_mur"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AST
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = AST
+			}		
+		}
+	}
+}
+
+
+
