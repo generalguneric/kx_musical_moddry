@@ -1,0 +1,397 @@
+#Radio Ireland
+music = {
+	name = "the_foggy_dew"
+	file = "ire_the_foggy_dew.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "soldierssong"
+	file = "ire_soldierssong.ogg"
+	volume = 0.4
+}
+
+music = {
+	name = "irish_jaunting_car"
+	file = "ire_irish_jaunting_car.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "oro_abhaile"
+	file = "ire_oro_abhaile.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "god_save_ireland"
+	file = "ire_god_save_ireland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rising_moon"
+	file = "ire_rising_moon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nation_once_again"
+	file = "ire_nation_once_again.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "last_rose"
+	file = "ire_last_rose.ogg"
+	volume = 0.90
+}
+
+music = {
+	name = "let_erin_remember"
+	file = "uls_let_erin_remember.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "odonnell_abu"
+	file = "ire_odonnell_abu.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "danny_boy"
+	file = "ire_danny_boy.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "a_row_in_the_town"
+	file = "ire_a_row_in_the_town.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "black_velvet_band"
+	file = "ire_black_velvet_band.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kelly_the_boy_from_killane"
+	file = "ire_kelly_the_boy_from_killane.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "oneills_march"
+	file = "ire_oneills_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kevin_barry"
+	file = "ire_kevin_barry.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "the_boys_of_wexford"
+	file = "ire_the_boys_of_wexford.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_minstrel_boy"
+	file = "ire_the_minstrel_boy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AllForMeGrog"
+	file = "AllForMeGrog.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AmhranNaBhFiann"
+	file = "AmhranNaBhFiann.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AnIrishSymphony"
+	file = "AnIrishSymphony.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "BaidinFheilimi"
+	file = "BaidinFheilimi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "BritsGetOut"
+	file = "BritsGetOut.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Bron"
+	file = "Bron.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ComeOutYeBlackAndTans"
+	file = "ComeOutYeBlackAndTans.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "CooleysTheDawnTheMullingarRaces"
+	file = "CooleysTheDawnTheMullingarRaces.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "DrunkenSailor"
+	file = "DrunkenSailor.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "FollowMeUpToCarlow"
+	file = "FollowMeUpToCarlow.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GeeseInTheBog"
+	file = "GeeseInTheBog.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GeneralMulcahyMarch"
+	file = "GeneralMulcahyMarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "goodbye_mike_goodbye_pat"
+	file = "goodbye_mike_goodbye_pat.ogg"
+	volume = 1
+}
+
+music = {
+	name = "IllWalkBesideYou"
+	file = "IllWalkBesideYou.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "JohnnyIHardlyKnewYe"
+	file = "JohnnyIHardlyKnewYe.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MarchOfTheKingOfLaois"
+	file = "MarchOfTheKingOfLaois.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MerrilyKissedTheQuaker"
+	file = "MerrilyKissedTheQuaker.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MicksMarch"
+	file = "MicksMarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MiseEire"
+	file = "MiseEire.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "millpond"
+	file = "millpond.ogg"
+	volume = 1
+}
+
+music = {
+	name = "MoGhileMear"
+	file = "MoGhileMear.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MollyOnTheShore"
+	file = "MollyOnTheShore.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ODonnellAbuInstrumental"
+	file = "ODonnellAbuInstrumental.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "OSullivansMarch"
+	file = "OSullivansMarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RockyRoadToDublin"
+	file = "RockyRoadToDublin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ShoresOfBotanyBay"
+	file = "ShoresOfBotanyBay.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "StarOfTheCountyDown"
+	file = "StarOfTheCountyDown.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SaintPatricksDay"
+	file = "SaintPatricksDay.ogg"
+	volume = 0.65
+}
+
+
+music = {
+	name = "TheJollyTinker"
+	file = "TheJollyTinker.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheLeavingOfLiverpool"
+	file = "TheLeavingOfLiverpool.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheMoonshiner"
+	file = "TheMoonshiner.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheMusicalPriest"
+	file = "TheMusicalPriest.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheRareOldMountainDew"
+	file = "TheRareOldMountainDew.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_spinning_wheel"
+	file = "the_spinning_wheel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "TheWildRover"
+	file = "TheWildRover.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TimpanReel"
+	file = "TimpanReel.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WeileWaile"
+	file = "WeileWaile.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WearingOfTheGreen"
+	file = "WearingOfTheGreen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "what_will_you_do_love"
+	file = "what_will_you_do_love.ogg"
+	volume = 1
+}
+
+music = {
+	name = "WhenIrishEyesAreSmiling"
+	file = "WhenIrishEyesAreSmiling.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WhiskeyInTheJar"
+	file = "WhiskeyInTheJar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "whistle_daughter_whistle"
+	file = "whistle_daughter_whistle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WildColonialBoy"
+	file = "WildColonialBoy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GodSaveIreland"
+	file = "GodSaveIreland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ANationOnceAgain"
+	file = "ANationOnceAgain.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "OroSeDoBheathaBhaile"
+	file = "OroSeDoBheathaBhaile.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ASoldiersSong"
+	file = "ASoldiersSong.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ODonnellAbu"
+	file = "ODonnellAbu.ogg"
+	volume = 0.65
+}
