@@ -191,6 +191,32 @@ music = {
 }
 
 music = {
+	song = "man_from_daily_mail"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+			tag = IRE
+			tag = WAL
+			tag = SCT
+			tag = NEE
+
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = IRE
+				tag = WAL
+				tag = SCT
+				tag = NEE
+			}
+		}
+	}
+}
+
+music = {
 	song = "a_row_in_the_town"
 
 	chance = {
