@@ -4,5 +4,5 @@ tags={
 }
 name="Kaiserredux Music Mod"
 picture="thumbnail.png"
-supported_version="1.11.12"
+supported_version="1.11.*"
 remote_file_id="2846026190"

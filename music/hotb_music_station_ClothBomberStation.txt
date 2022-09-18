@@ -2946,3 +2946,41 @@ music = {
 		}
 	}
 }
+music = {
+	song = "osmaniye_marsi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TUR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TUR
+			}
+		}
+	}
+}
+music = {
+	song = "reveillez_vous_picards"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BEL
+				tag = WLL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = BEL
+				tag = WLL
+			}
+		}
+	}
+}

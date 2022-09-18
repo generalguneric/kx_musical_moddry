@@ -781,3 +781,13 @@ music = {
 	file = "le_festin.ogg"
 	volume = 1.25
 }
+music = {
+	name = "osmaniye_marsi"
+	file = "osmaniye_marsi.ogg"
+	volume = 1.25
+}
+music = {
+	name = "reveillez_vous_picards"
+	file = "reveillez_vous_picards.ogg"
+	volume = 1.25
+}
