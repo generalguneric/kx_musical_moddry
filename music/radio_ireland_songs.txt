@@ -20,7 +20,7 @@ music = {
 				tag = WAL
 				tag = SCT
 			}
-
+			has_socialist_government = yes
 		}
 	}
 }
