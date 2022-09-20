@@ -751,3 +751,53 @@ music = {
 	file = "reveillez_vous_picards.ogg"
 	volume = 1.25
 }
+music = {
+	name = "green_mountaineer"
+	file = "green_mountaineer.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gangstas_paradise"
+	file = "gangstas_paradise.ogg"
+	volume = 1.25
+}
+music = {
+	name = "le_mer_waves"
+	file = "le_mer_waves.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kyrie_eleison"
+	file = "kyrie_eleison.ogg"
+	volume = 1.25
+}
+music = {
+	name = "waltz_aminor"
+	file = "waltz_aminor.ogg"
+	volume = 1.25
+}
+music = {
+	name = "flute_concerto_eminor"
+	file = "flute_concerto_eminor.ogg"
+	volume = 1.25
+}
+music = {
+	name = "larlesienne_farandole"
+	file = "larlesienne_farandole.ogg"
+	volume = 1.25
+}
+music = {
+	name = "concerto_two_violins"
+	file = "concerto_two_violins.ogg"
+	volume = 1.25
+}
+music = {
+	name = "cinderellas_waltz"
+	file = "cinderellas_waltz.ogg"
+	volume = 1.25
+}
+music = {
+	name = "flute_sonatas_lalumage"
+	file = "flute_sonatas_lalumage.ogg"
+	volume = 1.25
+}

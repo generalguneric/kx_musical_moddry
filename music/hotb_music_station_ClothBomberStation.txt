@@ -2984,3 +2984,110 @@ music = {
 		}
 	}
 }
+music = {
+	song = "green_mountaineer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NEE
+		}
+	}
+}
+music = {
+	song = "gangstas_paradise"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NYC
+		}
+	}
+}
+music = {
+	song = "le_mer_waves"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "kyrie_eleison"
+
+	chance = {
+		modifier = {
+			factor = 1
+	}
+}
+music = {
+	song = "waltz_aminor"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "flute_concerto_eminor"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "larlesienne_farandole"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "concerto_two_violins"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "cinderellas_waltz"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "flute_sonatas_lalumage"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+
+
+
