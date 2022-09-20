@@ -45,6 +45,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "BrianBorusMarch"
+	file = "radio_ireland/BrianBorusMarch.ogg"
+	volume = 1.25
+}
+music = {
 	name = "the_foggy_dew"
 	file = "radio_ireland/ire_the_foggy_dew.ogg"
 	volume = 0.65
