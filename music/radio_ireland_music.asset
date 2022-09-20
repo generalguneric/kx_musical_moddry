@@ -1,442 +1,442 @@
 #Radio Ireland
 music = {
 	name = "the_starry_plough"
-	file = "the_starry_plough.ogg"
+	file = "radio_ireland/the_starry_plough.ogg"
 	volume = 1.25
 }
 music = {
 	name = "national_anthem_of_ireland"
-	file = "national_anthem_of_ireland.ogg"
+	file = "radio_ireland/national_anthem_of_ireland.ogg"
 	volume = 1.25
 }
 music = {
 	name = "national_anthem_of_ireland_english"
-	file = "national_anthem_of_ireland_english.ogg"
+	file = "radio_ireland/national_anthem_of_ireland_english.ogg"
 	volume = 1.25
 }
 music = {
 	name = "go_on_home_british_soldiers"
-	file = "go_on_home_british_soldiers.ogg"
+	file = "radio_ireland/go_on_home_british_soldiers.ogg"
 	volume = 1.25
 }
 music = {
 	name = "come_out_ye_black_and_tans"
-	file = "come_out_ye_black_and_tans.ogg"
+	file = "radio_ireland/come_out_ye_black_and_tans.ogg"
 	volume = 1.25
 }
 music = {
 	name = "kinky_boots"
-	file = "kinky_boots.ogg"
+	file = "radio_ireland/kinky_boots.ogg"
 	volume = 1.25
 }
 music = {
 	name = "a_nation_once_again"
-	file = "a_nation_once_again.ogg"
+	file = "radio_ireland/a_nation_once_again.ogg"
 	volume = 1.25
 }
 music = {
 	name = "foggy_dew"
-	file = "foggy_dew.ogg"
+	file = "radio_ireland/foggy_dew.ogg"
 	volume = 1.25
 }
 music = {
 	name = "man_from_daily_mail"
-	file = "man_from_daily_mail.ogg"
+	file = "radio_ireland/man_from_daily_mail.ogg"
 	volume = 1.25
 }
 music = {
 	name = "the_foggy_dew"
-	file = "ire_the_foggy_dew.ogg"
+	file = "radio_ireland/ire_the_foggy_dew.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "soldierssong"
-	file = "ire_soldierssong.ogg"
+	file = "radio_ireland/ire_soldierssong.ogg"
 	volume = 0.4
 }
 
 music = {
 	name = "irish_jaunting_car"
-	file = "ire_irish_jaunting_car.ogg"
+	file = "radio_ireland/ire_irish_jaunting_car.ogg"
 	volume = 0.6
 }
 
 music = {
 	name = "oro_abhaile"
-	file = "ire_oro_abhaile.ogg"
+	file = "radio_ireland/ire_oro_abhaile.ogg"
 	volume = 0.6
 }
 
 music = {
 	name = "god_save_ireland"
-	file = "ire_god_save_ireland.ogg"
+	file = "radio_ireland/ire_god_save_ireland.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "rising_moon"
-	file = "ire_rising_moon.ogg"
+	file = "radio_ireland/ire_rising_moon.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "nation_once_again"
-	file = "ire_nation_once_again.ogg"
+	file = "radio_ireland/ire_nation_once_again.ogg"
 	volume = 0.7
 }
 
 music = {
 	name = "last_rose"
-	file = "ire_last_rose.ogg"
+	file = "radio_ireland/ire_last_rose.ogg"
 	volume = 0.90
 }
 
 music = {
 	name = "let_erin_remember"
-	file = "uls_let_erin_remember.ogg"
+	file = "radio_ireland/uls_let_erin_remember.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "odonnell_abu"
-	file = "ire_odonnell_abu.ogg"
+	file = "radio_ireland/ire_odonnell_abu.ogg"
 	volume = 0.75
 }
 
 music = {
 	name = "danny_boy"
-	file = "ire_danny_boy.ogg"
+	file = "radio_ireland/ire_danny_boy.ogg"
 	volume = 0.6
 }
 
 music = {
 	name = "a_row_in_the_town"
-	file = "ire_a_row_in_the_town.ogg"
+	file = "radio_ireland/ire_a_row_in_the_town.ogg"
 	volume = 0.6
 }
 
 music = {
 	name = "black_velvet_band"
-	file = "ire_black_velvet_band.ogg"
+	file = "radio_ireland/ire_black_velvet_band.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "kelly_the_boy_from_killane"
-	file = "ire_kelly_the_boy_from_killane.ogg"
+	file = "radio_ireland/ire_kelly_the_boy_from_killane.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "oneills_march"
-	file = "ire_oneills_march.ogg"
+	file = "radio_ireland/ire_oneills_march.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "kevin_barry"
-	file = "ire_kevin_barry.ogg"
+	file = "radio_ireland/ire_kevin_barry.ogg"
 	volume = 0.75
 }
 
 music = {
 	name = "the_boys_of_wexford"
-	file = "ire_the_boys_of_wexford.ogg"
+	file = "radio_ireland/ire_the_boys_of_wexford.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "the_minstrel_boy"
-	file = "ire_the_minstrel_boy.ogg"
+	file = "radio_ireland/ire_the_minstrel_boy.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "AllForMeGrog"
-	file = "AllForMeGrog.ogg"
+	file = "radio_ireland/AllForMeGrog.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "AmhranNaBhFiann"
-	file = "AmhranNaBhFiann.ogg"
+	file = "radio_ireland/AmhranNaBhFiann.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "AnIrishSymphony"
-	file = "AnIrishSymphony.ogg"
+	file = "radio_ireland/AnIrishSymphony.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "BaidinFheilimi"
-	file = "BaidinFheilimi.ogg"
+	file = "radio_ireland/BaidinFheilimi.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "BritsGetOut"
-	file = "BritsGetOut.ogg"
+	file = "radio_ireland/BritsGetOut.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "Bron"
-	file = "Bron.ogg"
+	file = "radio_ireland/Bron.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "ComeOutYeBlackAndTans"
-	file = "ComeOutYeBlackAndTans.ogg"
+	file = "radio_ireland/ComeOutYeBlackAndTans.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "CooleysTheDawnTheMullingarRaces"
-	file = "CooleysTheDawnTheMullingarRaces.ogg"
+	file = "radio_ireland/CooleysTheDawnTheMullingarRaces.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "DrunkenSailor"
-	file = "DrunkenSailor.ogg"
+	file = "radio_ireland/DrunkenSailor.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "FollowMeUpToCarlow"
-	file = "FollowMeUpToCarlow.ogg"
+	file = "radio_ireland/FollowMeUpToCarlow.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "GeeseInTheBog"
-	file = "GeeseInTheBog.ogg"
+	file = "radio_ireland/GeeseInTheBog.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "GeneralMulcahyMarch"
-	file = "GeneralMulcahyMarch.ogg"
+	file = "radio_ireland/GeneralMulcahyMarch.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "goodbye_mike_goodbye_pat"
-	file = "goodbye_mike_goodbye_pat.ogg"
+	file = "radio_ireland/goodbye_mike_goodbye_pat.ogg"
 	volume = 1
 }
 
 music = {
 	name = "IllWalkBesideYou"
-	file = "IllWalkBesideYou.ogg"
+	file = "radio_ireland/IllWalkBesideYou.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "JohnnyIHardlyKnewYe"
-	file = "JohnnyIHardlyKnewYe.ogg"
+	file = "radio_ireland/JohnnyIHardlyKnewYe.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "MarchOfTheKingOfLaois"
-	file = "MarchOfTheKingOfLaois.ogg"
+	file = "radio_ireland/MarchOfTheKingOfLaois.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "MerrilyKissedTheQuaker"
-	file = "MerrilyKissedTheQuaker.ogg"
+	file = "radio_ireland/MerrilyKissedTheQuaker.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "MicksMarch"
-	file = "MicksMarch.ogg"
+	file = "radio_ireland/MicksMarch.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "MiseEire"
-	file = "MiseEire.ogg"
+	file = "radio_ireland/MiseEire.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "millpond"
-	file = "millpond.ogg"
+	file = "radio_ireland/millpond.ogg"
 	volume = 1
 }
 
 music = {
 	name = "MoGhileMear"
-	file = "MoGhileMear.ogg"
+	file = "radio_ireland/MoGhileMear.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "MollyOnTheShore"
-	file = "MollyOnTheShore.ogg"
+	file = "radio_ireland/MollyOnTheShore.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "ODonnellAbuInstrumental"
-	file = "ODonnellAbuInstrumental.ogg"
+	file = "radio_ireland/ODonnellAbuInstrumental.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "OSullivansMarch"
-	file = "OSullivansMarch.ogg"
+	file = "radio_ireland/OSullivansMarch.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "RockyRoadToDublin"
-	file = "RockyRoadToDublin.ogg"
+	file = "radio_ireland/RockyRoadToDublin.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "ShoresOfBotanyBay"
-	file = "ShoresOfBotanyBay.ogg"
+	file = "radio_ireland/ShoresOfBotanyBay.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "StarOfTheCountyDown"
-	file = "StarOfTheCountyDown.ogg"
+	file = "radio_ireland/StarOfTheCountyDown.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "SaintPatricksDay"
-	file = "SaintPatricksDay.ogg"
+	file = "radio_ireland/SaintPatricksDay.ogg"
 	volume = 0.65
 }
 
 
 music = {
 	name = "TheJollyTinker"
-	file = "TheJollyTinker.ogg"
+	file = "radio_ireland/TheJollyTinker.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "TheLeavingOfLiverpool"
-	file = "TheLeavingOfLiverpool.ogg"
+	file = "radio_ireland/TheLeavingOfLiverpool.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "TheMoonshiner"
-	file = "TheMoonshiner.ogg"
+	file = "radio_ireland/TheMoonshiner.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "TheMusicalPriest"
-	file = "TheMusicalPriest.ogg"
+	file = "radio_ireland/TheMusicalPriest.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "TheRareOldMountainDew"
-	file = "TheRareOldMountainDew.ogg"
+	file = "radio_ireland/TheRareOldMountainDew.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "the_spinning_wheel"
-	file = "the_spinning_wheel.ogg"
+	file = "radio_ireland/the_spinning_wheel.ogg"
 	volume = 1
 }
 
 music = {
 	name = "TheWildRover"
-	file = "TheWildRover.ogg"
+	file = "radio_ireland/TheWildRover.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "TimpanReel"
-	file = "TimpanReel.ogg"
+	file = "radio_ireland/TimpanReel.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "WeileWaile"
-	file = "WeileWaile.ogg"
+	file = "radio_ireland/WeileWaile.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "WearingOfTheGreen"
-	file = "WearingOfTheGreen.ogg"
+	file = "radio_ireland/WearingOfTheGreen.ogg"
 	volume = 1
 }
 
 music = {
 	name = "what_will_you_do_love"
-	file = "what_will_you_do_love.ogg"
+	file = "radio_ireland/what_will_you_do_love.ogg"
 	volume = 1
 }
 
 music = {
 	name = "WhenIrishEyesAreSmiling"
-	file = "WhenIrishEyesAreSmiling.ogg"
+	file = "radio_ireland/WhenIrishEyesAreSmiling.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "WhiskeyInTheJar"
-	file = "WhiskeyInTheJar.ogg"
+	file = "radio_ireland/WhiskeyInTheJar.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "whistle_daughter_whistle"
-	file = "whistle_daughter_whistle.ogg"
+	file = "radio_ireland/whistle_daughter_whistle.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "WildColonialBoy"
-	file = "WildColonialBoy.ogg"
+	file = "radio_ireland/WildColonialBoy.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "GodSaveIreland"
-	file = "GodSaveIreland.ogg"
+	file = "radio_ireland/GodSaveIreland.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "ANationOnceAgain"
-	file = "ANationOnceAgain.ogg"
+	file = "radio_ireland/ANationOnceAgain.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "OroSeDoBheathaBhaile"
-	file = "OroSeDoBheathaBhaile.ogg"
+	file = "radio_ireland/OroSeDoBheathaBhaile.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "ASoldiersSong"
-	file = "ASoldiersSong.ogg"
+	file = "radio_ireland/ASoldiersSong.ogg"
 	volume = 0.65
 }
 
 music = {
 	name = "ODonnellAbu"
-	file = "ODonnellAbu.ogg"
+	file = "radio_ireland/ODonnellAbu.ogg"
 	volume = 0.65
 }
