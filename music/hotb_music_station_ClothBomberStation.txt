@@ -3021,7 +3021,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0.5
 		}
 	}
 }
@@ -3030,7 +3030,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0.5
 	}
 }
 music = {
@@ -3038,7 +3038,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0.5
 		}
 	}
 }
@@ -3047,7 +3047,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0.5
 		}
 	}
 }
@@ -3056,7 +3056,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0.5
 		}
 	}
 }
@@ -3065,7 +3065,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0.5
 		}
 	}
 }
@@ -3074,7 +3074,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0.5
 		}
 	}
 }
@@ -3083,7 +3083,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0.5
 		}
 	}
 }
