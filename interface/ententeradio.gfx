@@ -1,7 +1,7 @@
 spriteTypes = {
 	spriteType = {
 		name = "GFX_entente_album_art"
-		texturefile = "gfx//interface//topbar//musicplayer//entente_album_art.png"
+		texturefile = "gfx/interface/topbar/musicplayer/entente_album_art.png"
 		noOfFrames = 2
 	}
 }
