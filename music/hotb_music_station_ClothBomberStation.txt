@@ -1187,3 +1187,69 @@ music = {
 		}
 	}
 }
+music = {
+	song = "reflection_moon_erquan_pool"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = QIE
+				tag = FNG
+				tag = CHI
+				tag = LEP
+				tag = ANQ
+				tag = YUN
+				tag = GXC
+				tag = HNN
+				tag = SHX
+				tag = SQI
+				tag = XSM
+				tag = SIK
+				tag = SZC
+				tag = LEC
+				tag = PRC
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = QIE
+				tag = FNG
+				tag = CHI
+				tag = LEP
+				tag = ANQ
+				tag = YUN
+				tag = GXC
+				tag = HNN
+				tag = SHX
+				tag = SQI
+				tag = XSM
+				tag = SIK
+				tag = SZC
+				tag = LEC
+				tag = PRC
+			}
+		}
+	}
+}
+music = {
+	song = "trezire_de_spirit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ROM
+				tag = TRS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ROM
+				tag = TRS
+			}
+		}
+	}
+}

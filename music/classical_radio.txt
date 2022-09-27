@@ -1,7 +1,43 @@
 music_station = "classical_radio"
 
 music = {
+	song = "dvorak_symphony_no9_one"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "dvorak_symphony_no9_two"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "dvorak_symphony_no9_three"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
 	song = "dvorak_symphony_no9"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "waltzes_allegro_vivaceb"
 
 	chance = {
 		modifier = {
@@ -28,7 +64,43 @@ music = {
 	}
 }
 music = {
+	song = "dies_irae"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
 	song = "waltz_aminor"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "revolutionary_etude"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "nocturne_opnine_notwo"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "nocturne_csharp_minor"
 
 	chance = {
 		modifier = {
@@ -90,7 +162,58 @@ music = {
 		}
 	}
 }
+music = {
+	song = "waltz_no_two"
 
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "valse_sentimentale"
 
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "polovstian_dances"
 
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "samson_delilah"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "chromatic_fantasia"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "on_hills_manchuria"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
 

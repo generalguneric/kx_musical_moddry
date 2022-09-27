@@ -1,6 +1,26 @@
 music = {
+	name = "dvorak_symphony_no9_one"
+	file = "classical_radio/dvorak_symphony_no9_one.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dvorak_symphony_no9_two"
+	file = "classical_radio/dvorak_symphony_no9_two.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dvorak_symphony_no9_three"
+	file = "classical_radio/dvorak_symphony_no9_three.ogg"
+	volume = 1.25
+}
+music = {
 	name = "dvorak_symphony_no9"
 	file = "classical_radio/dvorak_symphony_no9.ogg"
+	volume = 1.25
+}
+music = {
+	name = "waltzes_allegro_vivaceb"
+	file = "classical_radio/waltzes_allegro_vivaceb.ogg"
 	volume = 1.25
 }
 music = {
@@ -14,8 +34,28 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "dies_irae"
+	file = "classical_radio/dies_irae.ogg"
+	volume = 1.25
+}
+music = {
 	name = "waltz_aminor"
 	file = "classical_radio/waltz_aminor.ogg"
+	volume = 1.25
+}
+music = {
+	name = "revolutionary_etude"
+	file = "classical_radio/revolutionary_etude.ogg"
+	volume = 1.25
+}
+music = {
+	name = "nocturne_opnine_notwo"
+	file = "classical_radio/nocturne_opnine_notwo.ogg"
+	volume = 1.25
+}
+music = {
+	name = "nocturne_csharp_minor"
+	file = "classical_radio/nocturne_csharp_minor.ogg"
 	volume = 1.25
 }
 music = {
@@ -48,4 +88,33 @@ music = {
 	file = "classical_radio/flute_sonatas_lalumage.ogg"
 	volume = 1.25
 }
-
+music = {
+	name = "waltz_no_two"
+	file = "classical_radio/waltz_no_two.ogg"
+	volume = 1.25
+}
+music = {
+	name = "valse_sentimentale"
+	file = "classical_radio/valse_sentimentale.ogg"
+	volume = 1.25
+}
+music = {
+	name = "polovstian_dances"
+	file = "classical_radio/polovstian_dances.ogg"
+	volume = 1.25
+}
+music = {
+	name = "samson_delilah"
+	file = "classical_radio/samson_delilah.ogg"
+	volume = 1.25
+}
+music = {
+	name = "chromatic_fantasia"
+	file = "classical_radio/chromatic_fantasia.ogg"
+	volume = 1.25
+}
+music = {
+	name = "on_hills_manchuria"
+	file = "classical_radio/on_hills_manchuria.ogg"
+	volume = 1.25
+}

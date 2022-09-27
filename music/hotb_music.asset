@@ -264,3 +264,13 @@ music = {
 	file = "reveillez_vous_picards.ogg"
 	volume = 1.25
 }
+music = {
+	name = "reflection_moon_erquan_pool"
+	file = "reflection_moon_erquan_pool.ogg"
+	volume = 1.25
+}
+music = {
+	name = "trezire_de_spirit"
+	file = "trezire_de_spirit.ogg"
+	volume = 1.25
+}
