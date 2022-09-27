@@ -1,0 +1,305 @@
+music = {
+	name = "7thcavmarch"
+	file = "america_radio/7thcavmarch.ogg"
+	volume = 1.25
+}
+music = {
+	name = "everymanaking"
+	file = "america_radio/everymanaking.ogg"
+	volume = 1.25
+}
+music = {
+	name = "maidensprayer"
+	file = "america_radio/maidensprayer.ogg"
+	volume = 1.25
+}
+music = {
+	name = "bonnieblueflag"
+	file = "america_radio/bonnieblueflag.ogg"
+	volume = 1.25
+}
+music = {
+	name = "bunkerhill"
+	file = "america_radio/bunkerhill.ogg"
+	volume = 1.25
+}
+music = {
+	name = "columbiagemoftheocean"
+	file = "america_radio/columbiagemoftheocean.ogg"
+	volume = 1.25
+}
+music = {
+	name = "hailcolumbia"
+	file = "america_radio/hailcolumbia.ogg"
+	volume = 1.25
+}
+music = {
+	name = "heebiejeebies"
+	file = "america_radio/heebiejeebies.ogg"
+	volume = 1.25
+}
+music = {
+	name = "hellonthewabashfifeanddrum"
+	file = "america_radio/hellonthewabashfifeanddrum.ogg"
+	volume = 1.25
+}
+music = {
+	name = "jubaaliresgospelnoah"
+	file = "america_radio/jubaaliresgospelnoah.ogg"
+	volume = 1.25
+}
+music = {
+	name = "theyellowroseoftexas"
+	file = "america_radio/theyellowroseoftexas.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kingcottonmarch"
+	file = "america_radio/kingcottonmarch.ogg"
+	volume = 1.25
+}
+music = {
+	name = "mechanizedmarch"
+	file = "america_radio/mechanizedmarch.ogg"
+	volume = 1.25
+}
+music = {
+	name = "mickeymouseclubmarch"
+	file = "america_radio/mickeymouseclubmarch.ogg"
+	volume = 1.25
+}
+music = {
+	name = "iloveyoucali"
+	file = "america_radio/iloveyoucali.ogg"
+	volume = 1.25
+}
+music = {
+	name = "takemehome"
+	file = "america_radio/takemehome.ogg"
+	volume = 1.25
+}
+music = {
+	name = "sixteentons"
+	file = "america_radio/sixteentons.ogg"
+	volume = 1.25
+}
+music = {
+	name = "fightforyournation"
+	file = "america_radio/fightforyournation.ogg"
+	volume = 1.25
+}
+music = {
+	name = "hailtothechief"
+	file = "america_radio/hailtothechief.ogg"
+	volume = 1.25
+}
+music = {
+	name = "yankeedoodle"
+	file = "america_radio/yankeedoodle.ogg"
+	volume = 1.25
+}
+music = {
+	name = "anythinggoes"
+	file = "america_radio/anythinggoes.ogg"
+	volume = 1.25
+}
+music = {
+	name = "godwilldefendtheright"
+	file = "america_radio/godwilldefendtheright.ogg"
+	volume = 1.25
+}
+music = {
+	name = "johnsawduhnumbuh"
+	file = "america_radio/johnsawduhnumbuh.ogg"
+	volume = 1.25
+}
+music = {
+	name = "mygodisarock"
+	file = "america_radio/mygodisarock.ogg"
+	volume = 1.25
+}
+music = {
+	name = "presidenthoovermarch"
+	file = "america_radio/presidenthoovermarch.ogg"
+	volume = 1.25
+}
+music = {
+	name = "thebanneroflabour"
+	file = "america_radio/thebanneroflabour.ogg"
+	volume = 1.25
+}
+music = {
+	name = "thehuntersofkentucky"
+	file = "america_radio/thehuntersofkentucky.ogg"
+	volume = 1.25
+}
+music = {
+	name = "thelandsong"
+	file = "america_radio/thelandsong.ogg"
+	volume = 1.25
+}
+music = {
+	name = "thereispowerinaunion"
+	file = "america_radio/thereispowerinaunion.ogg"
+	volume = 1.25
+}
+music = {
+	name = "thesouth"
+	file = "america_radio/thesouth.ogg"
+	volume = 1.25
+}
+music = {
+	name = "workingmanunion"
+	file = "america_radio/workingmanunion.ogg"
+	volume = 1.25
+}
+music = {
+	name = "germanyellowrose"
+	file = "america_radio/germanyellowrose.ogg"
+	volume = 1.25
+}
+music = {
+	name = "lonestarforever"
+	file = "america_radio/the_lone_star_forever.ogg"
+	volume = 1.25
+}
+music = {
+	name = "spaceisindeedtheplace"
+	file = "america_radio/space_is_the_place.ogg"
+	volume = 1.25
+}
+music = {
+	name = "enlightenment"
+	file = "america_radio/enlightenment.ogg"
+	volume = 1.25
+}
+music = {
+	name = "new_york"
+	file = "america_radio/new_york.ogg"
+	volume = 1.25
+}
+music = {
+	name = "manhattan"
+	file = "america_radio/manhattan.ogg"
+	volume = 1.25
+}
+music = {
+	name = "autumninnyc"
+	file = "america_radio/autumninnyc.ogg"
+	volume = 1.25
+}
+music = {
+	name = "The_Battle_Of_New_Orleans"
+	file = "america_radio/The_Battle_Of_New_Orleans.ogg"
+	volume = 1.25
+}
+music = {
+	name = "big_iron"
+	file = "america_radio/big_iron.ogg"
+	volume = 1.25
+}
+music = {
+	name = "el_paso_trilogy"
+	file = "america_radio/el_paso_trilogy.ogg"
+	volume = 1.25
+}
+music = {
+	name = "the_masters_call_marty_robbins"
+	file = "america_radio/the_masters_call_marty_robbins.ogg"
+	volume = 1.25
+}
+music = {
+	name = "johnny_cash_folsom_prison_blues"
+	file = "america_radio/johnny_cash_folsom_prison_blues.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ballad_of_ira"
+	file = "america_radio/ballad_of_ira.ogg"
+	volume = 1.25
+}
+music = {
+	name = "hooghan"
+	file = "america_radio/hooghan.ogg"
+	volume = 1.25
+}
+music = {
+	name = "billie_holiday_strange_fruit"
+	file = "america_radio/billie_holiday_strange_fruit.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gloomy_sunday_billie_holiday"
+	file = "america_radio/gloomy_sunday_billie_holiday.ogg"
+	volume = 1.25
+}
+music = {
+	name = "pass_the_ammo"
+	file = "america_radio/pass_the_ammo.ogg"
+	volume = 1.25
+}
+music = {
+	name = "over_there"
+	file = "america_radio/over_there.ogg"
+	volume = 1.25
+}
+music = {
+	name = "king_in_yellow"
+	file = "america_radio/king_in_yellow.ogg"
+	volume = 1.25
+}
+music = {
+	name = "fishmen"
+	file = "america_radio/fishmen.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dixie_union"
+	file = "america_radio/dixie_union.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dixie_confed"
+	file = "america_radio/dixie_confed.ogg"
+	volume = 1.25
+}
+music = {
+	name = "battle_cry_of_freedom"
+	file = "america_radio/battle_cry_of_freedom.ogg"
+	volume = 1.25
+}
+music = {
+	name = "battle_cry_of_freedom_confed"
+	file = "america_radio/battle_cry_of_freedom_confed.ogg"
+	volume = 1.25
+}
+music = {
+	name = "robesonussr"
+	file = "america_radio/robesonussr.ogg"
+	volume = 1.25
+}
+music = {
+	name = "robesonwarszawianka"
+	file = "america_radio/robesonwarszawianka.ogg"
+	volume = 1.25
+}
+music = {
+	name = "pendergast"
+	file = "america_radio/pendergast.ogg"
+	volume = 1.25
+}
+music = {
+	name = "capone"
+	file = "america_radio/capone.ogg"
+	volume = 1.25
+}
+music = {
+	name = "green_mountaineer"
+	file = "america_radio/green_mountaineer.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gangstas_paradise"
+	file = "america_radio/gangstas_paradise.ogg"
+	volume = 1.25
+}

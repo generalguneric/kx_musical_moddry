@@ -1,13 +1,115 @@
-#####################################################################
-#####															#####
-#####						AFRICA UPDATE  				                #####
-#####															#####
-#####							                                #####
-#####															#####
-#####################################################################
-
 music = {
 	name = "ast_along_the_road_to_gundagai"
 	file = "ententeradio/ast_along_the_road_to_gundagai.ogg"
+	volume = 1.25
+}
+music = {
+	name = "farewell_to_nova_scotia"
+	file = "ententeradio/farewell_to_nova_scotia.ogg"
+	volume = 1.25
+}
+music = {
+	name = "twa_recuiting_sergeants"
+	file = "ententeradio/twa_recuiting_sergeants.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marechal_nous_voila"
+	file = "ententeradio/marechal_nous_voila.ogg"
+	volume = 1.25
+}
+music = {
+	name = "la_france_de_demain"
+	file = "ententeradio/la_france_de_demain.ogg"
+	volume = 1.25
+}
+music = {
+	name = "verdun_on_ne_passe_pas"
+	file = "ententeradio/verdun_on_ne_passe_pas.ogg"
+	volume = 1.25
+}
+music = {
+	name = "alsace_et_lorriane"
+	file = "ententeradio/alsace_et_lorriane.ogg"
+	volume = 1.25
+}
+music = {
+	name = "bonjour_mon_vieux_paris"
+	file = "ententeradio/bonjour_mon_vieux_paris.ogg"
+	volume = 1.25
+}
+music = {
+	name = "chanson_de_loignon"
+	file = "ententeradio/chanson_de_loignon.ogg"
+	volume = 1.25
+}
+music = {
+	name = "parant_pour_la_syrie"
+	file = "ententeradio/parant_pour_la_syrie.ogg"
+	volume = 1.25
+}
+music = {
+	name = "jeanne_dearc_song"
+	file = "ententeradio/jeanne_dearc_song.ogg"
+	volume = 1.25
+}
+music = {
+	name = "la_royale"
+	file = "ententeradio/la_royale.ogg"
+	volume = 1.25
+}
+music = {
+	name = "douce_france"
+	file = "ententeradio/douce_france.ogg"
+	volume = 1.25
+}
+music = {
+	name = "boum"
+	file = "ententeradio/boum.ogg"
+	volume = 1.25
+}
+music = {
+	name = "la_mer"
+	file = "ententeradio/la_mer.ogg"
+	volume = 1.25
+}
+music = {
+	name = "the_last_time_i_saw_paris"
+	file = "ententeradio/the_last_time_i_saw_paris.ogg"
+	volume = 1.25
+}
+music = {
+	name = "le_roi_louis"
+	file = "ententeradio/le_roi_louis.ogg"
+	volume = 1.25
+}
+music = {
+	name = "la_contre_marseillaise"
+	file = "ententeradio/la_contre_marseillaise.ogg"
+	volume = 1.25
+}
+music = {
+	name = "au_31_du_mois_daout"
+	file = "ententeradio/fra_au_31_du_mois_daout.ogg"
+	volume = 1.25
+}
+music = {
+	name = "la_vie_en_rose"
+	file = "ententeradio/la_vie_en_rose.ogg"
+	volume = 1.25
+}
+music = {
+	name = "milord"
+	file = "ententeradio/milord.ogg"
+	volume = 1.25
+}
+music = {
+	name = "non_je_ne_regrette_rien"
+	file = "ententeradio/non_je_ne_regrette_rien.ogg"
+	volume = 1.25
+}
+music = {
+	name = "le_festin"
+	file = "ententeradio/le_festin.ogg"
 	volume = 1.25
 }

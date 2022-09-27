@@ -1,11 +1,23 @@
-#####################################################################
-#####															#####
-#####						AFRICA UPDATE  				                #####
-#####															#####
-#####							                                #####
-#####															#####
-#####################################################################
-
+music = {
+	name = "heiasafari"
+	file = "reichspaktradio/heiasafari.ogg"
+	volume = 1.25
+}
+music = {
+	name = "heiasafari2"
+	file = "reichspaktradio/heiasafari2.ogg"
+	volume = 1.25
+}
+music = {
+	name = "diewachtamrhein"
+	file = "reichspaktradio/diewachtamrhein.ogg"
+	volume = 1.25
+}
+music = {
+	name = "diewachtamrheinsanta"
+	file = "reichspaktradio/diewachtamrheinsanta.ogg"
+	volume = 1.25
+}
 music = {
 	name = "ger_die_wacht_am_rhein"
 	file = "reichspaktradio/ger_die_wacht_am_rhein.ogg"

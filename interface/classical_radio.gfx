@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_classical_radio_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/classical_radio_album_art.png"
+		noOfFrames = 2
+	}
+}
