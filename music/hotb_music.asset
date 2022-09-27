@@ -801,3 +801,8 @@ music = {
 	file = "flute_sonatas_lalumage.ogg"
 	volume = 1.25
 }
+music = {
+	name = "montagues_and_capulets"
+	file = "montagues_and_capulets.ogg"
+	volume = 1.25
+}

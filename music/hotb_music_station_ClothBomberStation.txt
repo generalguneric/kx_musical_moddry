@@ -3088,3 +3088,12 @@ music = {
 		}
 	}
 }
+music = {
+	song = "montagues_and_capulets"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
