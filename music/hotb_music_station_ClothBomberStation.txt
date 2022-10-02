@@ -1253,3 +1253,596 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "ukr_zaphorozian_cossack_march"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_hej_stepamy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_pour_brothers_crystal_bowls"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_hey_hu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_taras_bulba"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_hei_vy_striltsi_sichoviyi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_khloptsi_z_lisu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_od_sinogo_donu_do_syvykh_karpat"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_tam_pid_peremyshlem"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_u_luzi_chervona_kalyna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_voiska_zaporozhskogo_voyn_znamenytyi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_zaporozkyi_kozak_dvichi_ne_vmirae"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_anthem_of_ukraine"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_oy_na_hori_ta_y_zhentsi_zhnut"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_yshly_selom_partyzany"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_ekh_yabluchko"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_internatsional"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_lyubo_bratsi_lyubo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_zrodilis_my_velykoii_hodyny"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_my_smilo_v_bii_pidem"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_khay_zhyve_vilna_ukraina"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_hei_sokoly"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_khloptsi_pidemo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_ne_pora"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_marsh_ukraina_chornymy_khmarami"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_rozpriahaite_khloptsi_koni"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_ykhav_kozak_za_dunai"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_za_ukrainu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_ty_zh_mene_pidmanula"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_vichnyi_revoliutsoner"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_nich_iaka_misiachna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_anthem_with_words"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_nas_vesha_ne_tam_zustrila"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_zavtra_v_daleku_dorohu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_rozmova_z_otamanom"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_pishnia_pro_petliuru"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
+music = {
+	song = "ukr_yurii_tiutiunnyk"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UKR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UKR
+		}
+	}
+}
