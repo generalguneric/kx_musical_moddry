@@ -113,8 +113,15 @@ music = {
 	file = "africaaddio/sudwesterlied.ogg"
 	volume = 1.25
 }
+
 music = {
 	name = "bobozos_pride"
 	file = "africaaddio/bobozos_pride.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "midab_gumaysi_diida"
+	file = "africaaddio/midab_gumaysi_diida.ogg"
 	volume = 1.25
 }
