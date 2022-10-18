@@ -486,4 +486,27 @@ music = {
 	}
 }
 
+music = {
+	song = "aabe_siyaad"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SOM
+					tag = DJI
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = SOM
+				tag = DJI
+			}		
+		}
+	}
+}
+
 

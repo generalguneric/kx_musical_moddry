@@ -125,3 +125,9 @@ music = {
 	file = "africaaddio/midab_gumaysi_diida.ogg"
 	volume = 1.25
 }
+
+music = {
+	name = "aabe_siyaad"
+	file = "africaaddio/aabe_siyaad.ogg"
+	volume = 1.25
+}
