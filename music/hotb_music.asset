@@ -2,7 +2,7 @@
 
 music = {
 	name = "friendsonotherside"
-	file = "audio/unitedstates/friends_on_the_other_side.ogg"
+	file = "audio/america_radio/friends_on_the_other_side.ogg"
 	volume = 1.25
 }
 music = {
