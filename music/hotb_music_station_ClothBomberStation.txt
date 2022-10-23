@@ -1253,3 +1253,23 @@ music = {
 		}
 	}
 }
+music = {
+	song = "rose_rose_i_love_you"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_english_tag = yes
+                tag = LEC
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_english_tag = yes
+                tag = LEC
+			}
+		}
+	}
+}

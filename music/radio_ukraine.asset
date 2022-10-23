@@ -1,7 +1,7 @@
 ### SPECIAL
 
 music = {
-	name = "anthem_of_ukraine"
+	name = "ukr_anthem_of_ukraine"
 	file = "radio_ukraine/ukr_anthem_of_ukraine.ogg"
 	volume = 1.25
 }
