@@ -509,4 +509,25 @@ music = {
 	}
 }
 
+music = {
+	song = "snake_eater"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MSF
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MSF
+			}		
+		}
+	}
+}
+
 
