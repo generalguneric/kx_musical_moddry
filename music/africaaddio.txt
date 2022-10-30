@@ -542,6 +542,7 @@ music = {
 				OR = {
 					tag = MSF
 					tag = UMN
+					tag = COS
 				}
 			}
 		}
@@ -550,6 +551,7 @@ music = {
 			OR = {
 				tag = MSF
 				tag = UMN
+				tag = COS
 			}		
 		}
 	}
