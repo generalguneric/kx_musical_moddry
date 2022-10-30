@@ -518,6 +518,7 @@ music = {
 			NOT = {
 				OR = {
 					tag = MSF
+					tag = UMN
 				}
 			}
 		}
@@ -525,6 +526,7 @@ music = {
 			factor = 2
 			OR = {
 				tag = MSF
+				tag = UMN
 			}		
 		}
 	}
