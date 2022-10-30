@@ -137,3 +137,9 @@ music = {
 	file = "africaaddio/snake_eater.ogg"
 	volume = 1.25
 }
+
+music = {
+	name = "peace_walker"
+	file = "africaaddio/peace_walker.ogg"
+	volume = 1.25
+}
