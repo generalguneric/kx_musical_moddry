@@ -1209,3 +1209,23 @@ music = {
 		}
 	}
 }
+music = {
+	song = "canto_dei_sanfedisti"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SIC
+				tag = SRI
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = SIC
+				tag = SRI
+			}
+		}
+	}
+}

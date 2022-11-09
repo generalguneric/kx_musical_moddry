@@ -264,3 +264,8 @@ music = {
 	file = "rose_rose_i_love_you.ogg"
 	volume = 1.25
 }
+music = {
+	name = "canto_dei_sanfedisti"
+	file = "canto_dei_sanfedisti.ogg"
+	volume = 1.25
+}
