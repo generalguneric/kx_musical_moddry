@@ -303,3 +303,18 @@ music = {
 	file = "america_radio/gangstas_paradise.ogg"
 	volume = 1.25
 }
+music = {
+	name = "smile"
+	file = "america_radio/smile.ogg"
+	volume = 1.25
+}
+music = {
+	name = "little_second_hand_store"
+	file = "america_radio/little_second_hand_store.ogg"
+	volume = 1.25
+}
+music = {
+	name = "change_my_plan"
+	file = "america_radio/change_my_plan.ogg"
+	volume = 1.25
+}
