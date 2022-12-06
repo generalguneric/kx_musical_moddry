@@ -318,3 +318,8 @@ music = {
 	file = "america_radio/change_my_plan.ogg"
 	volume = 1.25
 }
+music = {
+	name = "in_other_words"
+	file = "america_radio/in_other_words.ogg"
+	volume = 1.25
+}

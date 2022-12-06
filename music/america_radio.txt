@@ -1319,3 +1319,37 @@ music = {
 		}
 	}
 }
+music = {
+	song = "in_other_words"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = TXS
+				tag = WCC
+                tag = BBR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = TXS
+				tag = WCC
+                tag = BBR
+			}
+		}
+	}
+}
