@@ -146,24 +146,24 @@ music = {
 
 music = {
 	name = "liberialandofliberty"
-	file = "IN1822FROMFARACROSSTHESEA.ogg"
+	file = "africaaddio/IN1822FROMFARACROSSTHESEA.ogg"
 	volume = 1.25
 }
 
 music = {
 	name = "tubmansoildersneverdie"
-	file = "tubman_march_old_soldiers_never_die.ogg"
+	file = "africaaddio/tubman_march_old_soldiers_never_die.ogg"
 	volume = 1.25
 }
 
 music = {
 	name = "nanakru"
-	file = "nana_kru.ogg"
+	file = "africaaddio/nana_kru.ogg"
 	volume = 1.25
 }
 
 music = {
 	name = "allhailliberia"
-	file = "all_hail_liberia_hail.ogg"
+	file = "africaaddio/all_hail_liberia_hail.ogg"
 	volume = 1.25
 }
