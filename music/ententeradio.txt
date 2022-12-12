@@ -21,6 +21,30 @@ music = {
 	}
 }
 music = {
+	song = "well_never_let_the_old_flag_fall"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CAN
+					tag = SCT
+					tag = GBR
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = SCT
+				tag = GBR
+			}		
+		}
+	}
+}
+music = {
 	song = "farewell_to_nova_scotia"
 
 	chance = {

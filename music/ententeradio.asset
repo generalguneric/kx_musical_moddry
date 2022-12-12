@@ -4,6 +4,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "well_never_let_the_old_flag_fall"
+	file = "ententeradio/well_never_let_the_old_flag_fall.ogg"
+	volume = 1.25
+}
+music = {
 	name = "farewell_to_nova_scotia"
 	file = "ententeradio/farewell_to_nova_scotia.ogg"
 	volume = 1.25
