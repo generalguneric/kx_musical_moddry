@@ -1229,3 +1229,74 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "fortunate_son"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+				tag = GAL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+				tag = GAL
+			}
+		}
+	}
+}
+
+music = {
+	song = "paint_it_black"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+			}
+		}
+	}
+}
+
+music = {
+	song = "rot_und_schwarz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+			}
+		}
+	}
+}

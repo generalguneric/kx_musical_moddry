@@ -269,3 +269,18 @@ music = {
 	file = "canto_dei_sanfedisti.ogg"
 	volume = 1.25
 }
+music = {
+	name = "fortunate_son"
+	file = "fortunate_son.ogg"
+	volume = 1.25
+}
+music = {
+	name = "paint_it_black"
+	file = "paint_it_black.ogg"
+	volume = 1.25
+}
+music = {
+	name = "rot_und_schwarz"
+	file = "rot_und_schwarz.ogg"
+	volume = 1.25
+}
