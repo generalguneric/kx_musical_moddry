@@ -1300,3 +1300,53 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "anthem_of_the_agni_kai"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TIB
+				tag = SKM
+				tag = BHU
+				tag = MON
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TIB
+				tag = SKM
+				tag = BHU
+				tag = MON
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_last_agni_kai_orchestral_version"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TIB
+				tag = SKM
+				tag = BHU
+				tag = MON
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TIB
+				tag = SKM
+				tag = BHU
+				tag = MON
+			}
+		}
+	}
+}

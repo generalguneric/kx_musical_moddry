@@ -284,3 +284,13 @@ music = {
 	file = "rot_und_schwarz.ogg"
 	volume = 1.25
 }
+music = {
+	name = "anthem_of_the_agni_kai"
+	file = "anthem_of_the_agni_kai.ogg"
+	volume = 1.25
+}
+music = {
+	name = "the_last_agni_kai_orchestral_version"
+	file = "the_last_agni_kai_orchestral_version.ogg"
+	volume = 1.25
+}
