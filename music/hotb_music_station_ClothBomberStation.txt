@@ -1350,3 +1350,28 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "shambhala"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TIB
+				tag = SKM
+				tag = BHU
+				tag = MON
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TIB
+				tag = SKM
+				tag = BHU
+				tag = MON
+			}
+		}
+	}
+}

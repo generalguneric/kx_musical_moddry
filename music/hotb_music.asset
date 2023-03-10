@@ -294,3 +294,8 @@ music = {
 	file = "the_last_agni_kai_orchestral_version.ogg"
 	volume = 1.25
 }
+music = {
+	name = "shambhala"
+	file = "shambhala.ogg"
+	volume = 1.25
+}
