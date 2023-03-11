@@ -167,3 +167,9 @@ music = {
 	file = "africaaddio/all_hail_liberia_hail.ogg"
 	volume = 1.25
 }
+
+music = {
+	name = "its_a_long_way_to_mukumbura"
+	file = "africaaddio/its_a_long_way_to_mukumbura.ogg"
+	volume = 1.25
+}

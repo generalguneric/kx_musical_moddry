@@ -621,5 +621,23 @@ music = {
 		}
 	}
 }
+music = {
+	song = "its_a_long_way_to_mukumbura"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ZIM
+				tag = CIV
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ZIM
+			tag = CIV
+		}
+	}
+}
 
 
