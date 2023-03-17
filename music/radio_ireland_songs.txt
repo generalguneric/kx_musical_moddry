@@ -217,6 +217,32 @@ music = {
 }
 
 music = {
+	song = "fenian_record_player"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+			tag = IRE
+			tag = WAL
+			tag = SCT
+			tag = NEE
+
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = IRE
+				tag = WAL
+				tag = SCT
+				tag = NEE
+			}
+		}
+	}
+}
+
+music = {
 	song = "BrianBorusMarch"
 
 	chance = {
