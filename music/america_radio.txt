@@ -1353,3 +1353,26 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "devil_went_down_to_georgia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+			tag = TXS
+			tag = COR
+			tag = GEO
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TXS
+				tag = COR
+				tag = GEO
+			}
+		}
+	}
+}
