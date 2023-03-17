@@ -45,6 +45,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "brian_borus_march"
+	file = "radio_ireland/ire_brian_borus_march.ogg"
+	volume = 1.25
+}
+music = {
 	name = "BrianBorusMarch"
 	file = "radio_ireland/BrianBorusMarch.ogg"
 	volume = 1.25
