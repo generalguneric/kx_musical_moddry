@@ -299,3 +299,38 @@ music = {
 	file = "shambhala.ogg"
 	volume = 1.25
 }
+music = {
+	name = "qendrojme_si_malet"
+	file = "qendrojme_si_malet.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ballin_lart"
+	file = "ballin_lart.ogg"
+	volume = 1.25
+}
+music = {
+	name = "buze_adriatikut"
+	file = "buze_adriatikut.ogg"
+	volume = 1.25
+}
+music = {
+	name = "mes_flamujsh"
+	file = "mes_flamujsh.ogg"
+	volume = 1.25
+}
+music = {
+	name = "lule_tbukura"
+	file = "lule_tbukura.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ne_tiranen_tone"
+	file = "ne_tiranen_tone.ogg"
+	volume = 1.25
+}
+music = {
+	name = "albanian"
+	file = "albanian.ogg"
+	volume = 1.25
+}

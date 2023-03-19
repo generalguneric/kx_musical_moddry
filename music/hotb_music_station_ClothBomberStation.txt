@@ -1375,3 +1375,136 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "qendrojme_si_malet"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ALB
+			}
+		}
+	}
+}
+
+music = {
+	song = "ballin_lart"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ALB
+			}
+		}
+	}
+}
+
+music = {
+	song = "buze_adriatikut"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ALB
+			}
+		}
+	}
+}
+
+music = {
+	song = "mes_flamujsh"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ALB
+			}
+		}
+	}
+}
+
+music = {
+	song = "lule_tbukura"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ALB
+			}
+		}
+	}
+}
+
+music = {
+	song = "ne_tiranen_tone"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ALB
+			}
+		}
+	}
+}
+
+music = {
+	song = "albanian"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ALB
+			}
+		}
+	}
+}
