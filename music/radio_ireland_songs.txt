@@ -243,6 +243,34 @@ music = {
 }
 
 music = {
+	song = "no_one_as_irish_as_barack_obama"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+			tag = IRE
+			tag = WAL
+			tag = SCT
+			tag = NEE
+			tag = KIK
+
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = IRE
+				tag = WAL
+				tag = SCT
+				tag = NEE
+				tag = KIK
+			}
+		}
+	}
+}
+
+music = {
 	song = "BrianBorusMarch"
 
 	chance = {
