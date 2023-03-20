@@ -1,0 +1,924 @@
+music_station = "christmasradio"
+
+music = {
+	song = "killarney"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "belfast"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "diewachtamrheinsantaism"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "godrest"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "carrolling"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "manger"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "goodking"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "threeking"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "traveller"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "child"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "night"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "cake"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "allnight"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "raindeer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "merrychristmas"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+					tag = IRE
+			}		
+		}
+	}
+}
+music = {
+	song = "bingsanta"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+
+			}		
+		}
+	}
+}
+music = {
+	song = "party"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+
+			}		
+		}
+	}
+}
+music = {
+	song = "marshmellow"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "nutin"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+
+music = {
+	song = "willy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+
+music = {
+	song = "singin_raindeer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "christmas_auld"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "snow"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "holly"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "reform"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "money"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "bells"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "havemerry"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "ride"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "swing"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "rednose"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "empty"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "song"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "sleighbells"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "willytwo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "sound"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "nutcracker"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "comintotown"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "wonderland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "ridetwo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "dontneed"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "rock"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "holynight"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}

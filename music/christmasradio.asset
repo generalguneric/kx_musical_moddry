@@ -1,0 +1,223 @@
+#####################################################################
+#####															#####
+#####					Christmas Bros...        		        #####
+#####															#####
+#####							                                #####
+#####															#####
+#####################################################################
+
+music = {
+	name = "killarney"
+	file = "christmas/killarney.ogg"
+	volume = 1.25
+}
+music = {
+	name = "belfast"
+	file = "christmas/belfast.ogg"
+	volume = 1.25
+}
+music = {
+	name = "diewachtamrheinsantaism"
+	file = "reichspaktradio/diewachtamrheinsanta.ogg"
+	volume = 1.25
+}
+music = {
+	name = "godrest"
+	file = "christmas/godrest.ogg"
+	volume = 1.25
+}
+music = {
+	name = "carrolling"
+	file = "christmas/carrolling.ogg"
+	volume = 1.25
+}
+music = {
+	name = "manger"
+	file = "christmas/manger.ogg"
+	volume = 1.25
+}
+music = {
+	name = "goodking"
+	file = "christmas/goodking.ogg"
+	volume = 1.25
+}
+music = {
+	name = "threeking"
+	file = "christmas/threeking.ogg"
+	volume = 1.25
+}
+music = {
+	name = "traveller"
+	file = "christmas/traveller.ogg"
+	volume = 1.25
+}
+music = {
+	name = "child"
+	file = "christmas/child.ogg"
+	volume = 1.25
+}
+music = {
+	name = "night"
+	file = "christmas/night.ogg"
+	volume = 1.25
+}
+music = {
+	name = "cake"
+	file = "christmas/cake.ogg"
+	volume = 1.25
+}
+music = {
+	name = "allnight"
+	file = "christmas/allnight.ogg"
+	volume = 1.25
+}
+music = {
+	name = "raindeer"
+	file = "christmas/raindeer.ogg"
+	volume = 1.25
+}
+music = {
+	name = "merrychristmas"
+	file = "christmas/merrychristmas.ogg"
+	volume = 1.25
+}
+music = {
+	name = "bingsanta"
+	file = "christmas/bingsanta.ogg"
+	volume = 1.25
+}
+music = {
+	name = "party"
+	file = "christmas/party.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marshmellow"
+	file = "christmas/marshmellow.ogg"
+	volume = 1.25
+}
+music = {
+	name = "nutin"
+	file = "christmas/nutin.ogg"
+	volume = 1.25
+}
+music = {
+	name = "willy"
+	file = "christmas/willy.ogg"
+	volume = 1.25
+}
+music = {
+	name = "singin_raindeer"
+	file = "christmas/singin_raindeer.ogg"
+	volume = 1.25
+}
+music = {
+	name = "christmas_auld"
+	file = "christmas/christmas_auld.ogg"
+	volume = 1.25
+}
+music = {
+	name = "snow"
+	file = "christmas/snow.ogg"
+	volume = 1.25
+}
+music = {
+	name = "holly"
+	file = "christmas/holly.ogg"
+	volume = 1.25
+}
+music = {
+	name = "reform"
+	file = "christmas/reform.ogg"
+	volume = 1.25
+}
+music = {
+	name = "money"
+	file = "christmas/money.ogg"
+	volume = 1.25
+}
+music = {
+	name = "bells"
+	file = "christmas/bells.ogg"
+	volume = 1.25
+}
+music = {
+	name = "havemerry"
+	file = "christmas/havemerry.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ride"
+	file = "christmas/ride.ogg"
+	volume = 1.25
+}
+music = {
+	name = "swing"
+	file = "christmas/swing.ogg"
+	volume = 1.25
+}
+music = {
+	name = "rednose"
+	file = "christmas/rednose.ogg"
+	volume = 1.25
+}
+music = {
+	name = "empty"
+	file = "christmas/empty.ogg"
+	volume = 1.25
+}
+music = {
+	name = "song"
+	file = "christmas/song.ogg"
+	volume = 1.25
+}
+music = {
+	name = "sleighbells"
+	file = "christmas/sleighbells.ogg"
+	volume = 1.25
+}
+music = {
+	name = "willytwo"
+	file = "christmas/willytwo.ogg"
+	volume = 1.25
+}
+music = {
+	name = "sound"
+	file = "christmas/sound.ogg"
+	volume = 1.25
+}
+music = {
+	name = "nutcracker"
+	file = "christmas/nutcracker.ogg"
+	volume = 1.25
+}
+music = {
+	name = "comintotown"
+	file = "christmas/comintotown.ogg"
+	volume = 1.25
+}
+music = {
+	name = "wonderland"
+	file = "christmas/wonderland.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ridetwo"
+	file = "christmas/ridetwo.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dontneed"
+	file = "christmas/dontneed.ogg"
+	volume = 1.25
+}
+music = {
+	name = "rock"
+	file = "christmas/rock.ogg"
+	volume = 1.25
+}
+music = {
+	name = "holynight"
+	file = "christmas/holynight.ogg"
+	volume = 1.25
+}
