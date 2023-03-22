@@ -639,5 +639,21 @@ music = {
 		}
 	}
 }
+music = {
+	song = "bokassa_march"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CEA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CEA
+		}
+	}
+}
 
 
