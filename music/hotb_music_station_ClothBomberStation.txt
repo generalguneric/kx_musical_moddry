@@ -1508,3 +1508,30 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "drum_bun"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ROM
+				tag = BAN
+				tag = TRS
+				tag = BUK
+				tag = MOL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ROM
+				tag = BAN
+				tag = TRS
+				tag = BUK
+				tag = MOL
+			}
+		}
+	}
+}
