@@ -339,3 +339,13 @@ music = {
 	file = "drum_bun.ogg"
 	volume = 1.25
 }
+music = {
+	name = "bang_bang"
+	file = "bang_bang.ogg"
+	volume = 1.25
+}
+music = {
+	name = "anything_for_you"
+	file = "anything_for_you.ogg"
+	volume = 1.25
+}

@@ -1535,3 +1535,69 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "bang_bang"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = QIE
+				tag = FNG
+				tag = CHI
+				tag = LEP
+				tag = ANQ
+				tag = YUN
+				tag = GXC
+				tag = HNN
+				tag = SHX
+				tag = SQI
+				tag = XSM
+				tag = SIK
+				tag = SZC
+				tag = LEC
+				tag = PRC
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = QIE
+				tag = FNG
+				tag = CHI
+				tag = LEP
+				tag = ANQ
+				tag = YUN
+				tag = GXC
+				tag = HNN
+				tag = SHX
+				tag = SQI
+				tag = XSM
+				tag = SIK
+				tag = SZC
+				tag = LEC
+				tag = PRC
+			}
+		}
+	}
+}
+
+music = {
+	song = "anything_for_you"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SIA
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = SIA
+			}
+		}
+	}
+}
