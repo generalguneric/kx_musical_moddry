@@ -118,3 +118,19 @@ music = {
 	file = "classical_radio/on_hills_manchuria.ogg"
 	volume = 1.25
 }
+music = {
+	name = "waltz_of_the_flowers"
+	file = "classical_radio/waltz_of_the_flowers.ogg"
+	volume = 1.25
+}
+music = {
+	name = "1812_overture"
+	file = "classical_radio/1812_overture.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dance_of_the_swans"
+	file = "classical_radio/dance_of_the_swans.ogg"
+	volume = 1.25
+}
+

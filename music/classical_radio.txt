@@ -216,4 +216,31 @@ music = {
 		}
 	}
 }
+music = {
+	song = "waltz_of_the_flowers"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "1812_overture"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "dance_of_the_swans"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
 
