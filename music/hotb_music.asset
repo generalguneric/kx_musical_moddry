@@ -349,3 +349,78 @@ music = {
 	file = "anything_for_you.ogg"
 	volume = 1.25
 }
+music = {
+	name = "brother_louie"
+	file = "brother_louie.ogg"
+	volume = 1.25
+}
+music = {
+	name = "chollima_on_wing"
+	file = "chollima_on_wing.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dash_to_future"
+	file = "dash_to_future.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dont_ask_my_name"
+	file = "dont_ask_my_name.ogg"
+	volume = 1.25
+}
+music = {
+	name = "footsteps"
+	file = "footsteps.ogg"
+	volume = 1.25
+}
+music = {
+	name = "footsteps_soldiers"
+	file = "footsteps_soldiers.ogg"
+	volume = 1.25
+}
+music = {
+	name = "horse_hooves_on_mount_paektu"
+	file = "horse_hooves_on_mount_paektu.ogg"
+	volume = 1.25
+}
+music = {
+	name = "living_like_those_days"
+	file = "living_like_those_days.ogg"
+	volume = 1.25
+}
+music = {
+	name = "memories"
+	file = "memories.ogg"
+	volume = 1.25
+}
+music = {
+	name = "night_lights_train_travels_kim"
+	file = "night_lights_train_travels_kim.ogg"
+	volume = 1.25
+}
+music = {
+	name = "thank_you_comrade_kim_jong_il"
+	file = "thank_you_comrade_kim_jong_il.ogg"
+	volume = 1.25
+}
+music = {
+	name = "we_are_shield_sky"
+	file = "we_are_shield_sky.ogg"
+	volume = 1.25
+}
+music = {
+	name = "we_will_go_to_mount_paektu"
+	file = "we_will_go_to_mount_paektu.ogg"
+	volume = 1.25
+}
+music = {
+	name = "whistle"
+	file = "whistle.ogg"
+	volume = 1.25
+}
+music = {
+	name = "young_people_farm"
+	file = "young_people_farm.ogg"
+	volume = 1.25
+}
