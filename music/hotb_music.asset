@@ -424,3 +424,8 @@ music = {
 	file = "young_people_farm.ogg"
 	volume = 1.25
 }
+music = {
+	name = "dief_chief"
+	file = "dief_chief.ogg"
+	volume = 1.25
+}

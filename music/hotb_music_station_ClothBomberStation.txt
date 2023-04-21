@@ -1886,3 +1886,22 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "dief_chief"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+			}
+		}
+	}
+}
