@@ -55,6 +55,15 @@ music = {
 	}
 }
 music = {
+	song = "confutatis_lacrimosa"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
 	song = "kyrie_eleison"
 
 	chance = {
@@ -65,6 +74,24 @@ music = {
 }
 music = {
 	song = "dies_irae"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "confutatis"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "lacrimosa"
 
 	chance = {
 		modifier = {

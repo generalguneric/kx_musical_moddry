@@ -1601,3 +1601,288 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "brother_louie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "chollima_on_wing"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "dash_to_future"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "dont_ask_my_name"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "footsteps"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "footsteps_soldiers"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "horse_hooves_on_mount_paektu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "living_like_those_days"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "memories"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "night_lights_train_travels_kim"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "thank_you_comrade_kim_jong_il"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "we_are_shield_sky"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "we_will_go_to_mount_paektu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "whistle"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}
+
+music = {
+	song = "young_people_farm"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KOR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = KOR
+			}
+		}
+	}
+}

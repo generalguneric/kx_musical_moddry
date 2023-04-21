@@ -29,6 +29,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "confutatis_lacrimosa"
+	file = "classical_radio/confutatis_lacrimosa.ogg"
+	volume = 1.25
+}
+music = {
 	name = "kyrie_eleison"
 	file = "classical_radio/kyrie_eleison.ogg"
 	volume = 1.25
@@ -36,6 +41,16 @@ music = {
 music = {
 	name = "dies_irae"
 	file = "classical_radio/dies_irae.ogg"
+	volume = 1.25
+}
+music = {
+	name = "confutatis"
+	file = "classical_radio/confutatis.ogg"
+	volume = 1.25
+}
+music = {
+	name = "lacrimosa"
+	file = "classical_radio/lacrimosa.ogg"
 	volume = 1.25
 }
 music = {
