@@ -429,3 +429,8 @@ music = {
 	file = "dief_chief.ogg"
 	volume = 1.25
 }
+music = {
+	name = "ccf"
+	file = "ccf.ogg"
+	volume = 1.25
+}
