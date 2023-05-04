@@ -270,4 +270,48 @@ music = {
 		}
 	}
 }
+music = {
+	song = "an_die_freude_1"
 
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "an_die_freude_2"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "an_die_freude_3"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "an_die_freude_4"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "an_die_freude_5"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}

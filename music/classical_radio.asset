@@ -148,4 +148,29 @@ music = {
 	file = "classical_radio/dance_of_the_swans.ogg"
 	volume = 1.25
 }
+music = {
+	name = "an_die_freude_1"
+	file = "classical_radio/an_die_freude_1.ogg"
+	volume = 1.25
+}
+music = {
+	name = "an_die_freude_2"
+	file = "classical_radio/an_die_freude_2.ogg"
+	volume = 1.25
+}
+music = {
+	name = "an_die_freude_3"
+	file = "classical_radio/an_die_freude_3.ogg"
+	volume = 1.25
+}
+music = {
+	name = "an_die_freude_4"
+	file = "classical_radio/an_die_freude_4.ogg"
+	volume = 1.25
+}
+music = {
+	name = "an_die_freude_5"
+	file = "classical_radio/an_die_freude_5.ogg"
+	volume = 1.25
+}
 
