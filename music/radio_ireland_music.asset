@@ -55,7 +55,7 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "no_one_as_irish_as_barack_obama"
+	name = "connolly_was_there"
 	file = "radio_ireland/connolly_was_there.ogg"
 	volume = 1.25
 }
