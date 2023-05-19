@@ -439,3 +439,8 @@ music = {
 	file = "war_of_1812_canadian.ogg"
 	volume = 1.25
 }
+music = {
+	name = "el_vaquero"
+	file = "el_vaquero.ogg"
+	volume = 1.25
+}

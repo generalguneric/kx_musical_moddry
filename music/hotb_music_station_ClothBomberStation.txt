@@ -1943,3 +1943,24 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "el_vaquero"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ARZ
+				tag = MEX
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ARZ
+				tag = MEX
+			}
+		}
+	}
+}
