@@ -459,5 +459,59 @@ music = {
 	}
 }
 
+music = {
+	song = "dief_chief"
 
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+			}
+		}
+	}
+}
 
+music = {
+	song = "ccf"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+			}
+		}
+	}
+}
+
+music = {
+	song = "war_of_1812_canadian"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+			}
+		}
+	}
+}

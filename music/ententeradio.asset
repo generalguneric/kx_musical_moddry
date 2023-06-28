@@ -118,3 +118,18 @@ music = {
 	file = "ententeradio/le_festin.ogg"
 	volume = 1.25
 }
+music = {
+	name = "dief_chief"
+	file = "dief_chief.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ccf"
+	file = "ccf.ogg"
+	volume = 1.25
+}
+music = {
+	name = "war_of_1812_canadian"
+	file = "war_of_1812_canadian.ogg"
+	volume = 1.25
+}

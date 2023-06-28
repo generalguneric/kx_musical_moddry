@@ -425,21 +425,6 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "dief_chief"
-	file = "dief_chief.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ccf"
-	file = "ccf.ogg"
-	volume = 1.25
-}
-music = {
-	name = "war_of_1812_canadian"
-	file = "war_of_1812_canadian.ogg"
-	volume = 1.25
-}
-music = {
 	name = "el_vaquero"
 	file = "el_vaquero.ogg"
 	volume = 1.25
