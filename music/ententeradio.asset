@@ -120,16 +120,16 @@ music = {
 }
 music = {
 	name = "dief_chief"
-	file = "dief_chief.ogg"
+	file = "ententeradio/dief_chief.ogg"
 	volume = 1.25
 }
 music = {
 	name = "ccf"
-	file = "ccf.ogg"
+	file = "ententeradio/ccf.ogg"
 	volume = 1.25
 }
 music = {
 	name = "war_of_1812_canadian"
-	file = "war_of_1812_canadian.ogg"
+	file = "ententeradio/war_of_1812_canadian.ogg"
 	volume = 1.25
 }
