@@ -265,11 +265,6 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "ukr_anthem_of_ukraine"
-	file = "radio_ukraine/ukr_anthem_of_ukraine.ogg"
-	volume = 1.25
-}
-music = {
 	name = "canto_dei_sanfedisti"
 	file = "canto_dei_sanfedisti.ogg"
 	volume = 1.25
@@ -385,16 +380,6 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "kub_tam_shli_dva_brata"
-	file = "radio_ukraine/kub_tam_shli_dva_brata.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_tam_pid_peremyshlem"
-	file = "radio_ukraine/ukr_tam_pid_peremyshlem.ogg"
-	volume = 1.25
-}
-music = {
 	name = "horse_hooves_on_mount_paektu"
 	file = "horse_hooves_on_mount_paektu.ogg"
 	volume = 1.25
@@ -445,113 +430,8 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "ukr_zaporozkyi_kozak_dvichi_ne_vmirae"
-	file = "radio_ukraine/ukr_zaporozkyi_kozak_dvichi_ne_vmirae.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_zavtra_v_daleku_dorohu"
-	file = "radio_ukraine/ukr_zavtra_v_daleku_dorohu.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_zrodilis_my_velykoii_hodyny"
-	file = "radio_ukraine/ukr_zrodilis_my_velykoii_hodyny.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_kyiv_march_archangel_michael_"
-	file = "radio_ukraine/ukr_kyiv_march_archangel_michael_.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_chy_chyly_s_te_ridni_brattia"
-	file = "radio_ukraine/ukr_chy_chyly_s_te_ridni_brattia.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_od_sianu_do_donu_doroha_lezhit"
-	file = "radio_ukraine/ukr_od_sianu_do_donu_doroha_lezhit.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_llietsia_pisnia_burevisna"
-	file = "radio_ukraine/ukr_llietsia_pisnia_burevisna.ogg"
-	volume = 1.25
-}
-music = {
 	name = "whr_bitva_pad_vorsaj"
 	file = "radio_ukraine/whr_bitva_pad_vorsaj.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_my_idem_vpered"
-	file = "radio_ukraine/ukr_my_idem_vpered.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_pisnia_pro_otamana_zelenoho"
-	file = "radio_ukraine/ukr_pisnia_pro_otamana_zelenoho.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_hei_ne_dyvuite_dobrii_liudi"
-	file = "radio_ukraine/ukr_hei_ne_dyvuite_dobrii_liudi.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_marsh_bohdan_khmelnytskyi"
-	file = "radio_ukraine/ukr_marsh_bohdan_khmelnytskyi.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_nasha_slavna_ukraina"
-	file = "radio_ukraine/ukr_nasha_slavna_ukraina.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_shaliyte"
-	file = "radio_ukraine/ukr_shaliyte.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_lenta_za_lentoiu"
-	file = "radio_ukraine/ukr_lenta_za_lentoiu.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_vesna"
-	file = "radio_ukraine/ukr_vesna.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_stiah"
-	file = "radio_ukraine/ukr_stiah.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_cossack_march"
-	file = "radio_ukraine/ukr_cossack_march.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_kozatskyi_marsh"
-	file = "radio_ukraine/ukr_kozatskyi_marsh.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_oda_do_radosti"
-	file = "radio_ukraine/ukr_oda_do_radosti.ogg"
-	volume = 1.25
-}
-music = {
-	name = "ukr_varshavianka"
-	file = "radio_ukraine/ukr_varshavianka.ogg"
-	volume = 1.25
-}
-music = {
-	name = "crm_ant_enkenem"
-	file = "radio_ukraine/crm_ant_enkenem.ogg"
 	volume = 1.25
 }
 music = {

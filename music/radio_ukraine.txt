@@ -7,12 +7,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -23,12 +23,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -39,12 +39,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -55,12 +55,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -71,12 +71,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -87,12 +87,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -103,12 +103,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -119,12 +119,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -135,12 +135,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -151,12 +151,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -167,12 +167,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -183,12 +183,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -199,12 +199,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -215,12 +215,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -231,12 +231,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -247,12 +247,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -263,12 +263,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -279,12 +279,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -295,12 +295,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -311,12 +311,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -327,12 +327,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -343,12 +343,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -359,12 +359,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -375,12 +375,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -391,12 +391,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -407,12 +407,16 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				tag = KUB
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			OR = {
+				is_ukrainian_tag = yes
+				tag = KUB
+			}
 		}
 	}
 }
@@ -423,12 +427,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -439,12 +443,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -455,12 +459,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -471,12 +475,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -487,12 +491,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -503,12 +507,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -519,12 +523,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -535,12 +539,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -551,12 +555,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -567,12 +571,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
 		}
 	}
 }
@@ -583,12 +587,321 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = UKR
+				is_ukrainian_tag = yes
 			}
 		}
 		modifier = {
 			factor = 2
-			tag = UKR
+			is_ukrainian_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "ukr_my_idem_vpered"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_pisnia_pro_otamana_zelenoho"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_hei_ne_dyvuite_dobrii_liudi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_marsh_bohdan_khmelnytskyi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_nasha_slavna_ukraina"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_shaliyte"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_lenta_za_lentoiu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_vesna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_stiah"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_cossack_march"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_kozatskyi_marsh"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_oda_do_radosti"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_varshavianka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_kyiv_march_archangel_michael_"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_chy_chyly_s_te_ridni_brattia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_od_sianu_do_donu_doroha_lezhit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_llietsia_pisnia_burevisna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "kub_tam_shli_dva_brata"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ukrainian_tag = yes
+				tag = KUB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_ukrainian_tag = yes
+				tag = KUB
+			}
+		}
+	}
+}
+music = {
+	song = "crm_ant_enkenem"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CRM
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CRM
 		}
 	}
 }
