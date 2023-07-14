@@ -276,6 +276,21 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "ukr_z_pid_vrazhoi_okhrany"
+	file = "radio_ukraine/ukr_z_pid_vrazhoi_okhrany.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ukr_poslukhai_kokhana_divchyno"
+	file = "radio_ukraine/ukr_poslukhai_kokhana_divchyno.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ukr_shaliyte_2"
+	file = "radio_ukraine/ukr_shaliyte_2.ogg"
+	volume = 1.25
+}
+music = {
 	name = "crm_ant_enkenem"
 	file = "radio_ukraine/crm_ant_enkenem.ogg"
 	volume = 1.25

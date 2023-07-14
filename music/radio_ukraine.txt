@@ -6,9 +6,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -22,9 +20,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -38,9 +34,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -54,9 +48,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -70,9 +62,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -86,9 +76,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -102,9 +90,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -118,9 +104,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -134,9 +118,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -150,9 +132,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -166,9 +146,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -182,13 +160,13 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
+			has_socialist_government = no
 		}
 		modifier = {
 			factor = 2
 			is_ukrainian_tag = yes
+			has_socialist_government = yes
 		}
 	}
 }
@@ -198,9 +176,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -214,9 +190,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -230,9 +204,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -246,13 +218,13 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
+			has_socialist_government = no
 		}
 		modifier = {
 			factor = 2
 			is_ukrainian_tag = yes
+			has_socialist_government = yes
 		}
 	}
 }
@@ -262,13 +234,13 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
+			has_socialist_government = no
 		}
 		modifier = {
 			factor = 2
 			is_ukrainian_tag = yes
+			has_socialist_government = yes
 		}
 	}
 }
@@ -278,13 +250,13 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
+			has_socialist_government = no
 		}
 		modifier = {
 			factor = 2
 			is_ukrainian_tag = yes
+			has_socialist_government = yes
 		}
 	}
 }
@@ -294,9 +266,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -310,9 +280,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -326,9 +294,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -342,9 +308,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -358,9 +322,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -374,9 +336,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -390,9 +350,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -426,9 +384,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -442,9 +398,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -458,9 +412,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -474,9 +426,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -490,9 +440,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -506,9 +454,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -522,9 +468,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -538,9 +482,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -554,9 +496,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -570,9 +510,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -586,9 +524,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -603,9 +539,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -619,13 +553,13 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
+			has_socialist_government = no
 		}
 		modifier = {
 			factor = 2
 			is_ukrainian_tag = yes
+			has_socialist_government = yes
 		}
 	}
 }
@@ -635,9 +569,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -651,9 +583,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -667,9 +597,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -683,13 +611,13 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
+			has_socialist_government = no
 		}
 		modifier = {
 			factor = 2
 			is_ukrainian_tag = yes
+			has_socialist_government = yes
 		}
 	}
 }
@@ -699,9 +627,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -715,9 +641,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -731,9 +655,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -747,9 +669,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -763,9 +683,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -779,9 +697,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -795,13 +711,13 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
+			has_socialist_government = no
 		}
 		modifier = {
 			factor = 2
 			is_ukrainian_tag = yes
+			has_socialist_government = yes
 		}
 	}
 }
@@ -811,9 +727,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -827,9 +741,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -843,9 +755,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -859,9 +769,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-			}
+			is_ukrainian_tag = no
 		}
 		modifier = {
 			factor = 2
@@ -889,6 +797,51 @@ music = {
 		}
 	}
 }
+music = {
+	song = "ukr_z_pid_vrazhoi_okhrany"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_ukrainian_tag = no
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_poslukhai_kokhana_divchyno"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_ukrainian_tag = no
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+		}
+	}
+}
+music = {
+	song = "ukr_shaliyte_2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_ukrainian_tag = no
+			has_socialist_government = no
+		}
+		modifier = {
+			factor = 2
+			is_ukrainian_tag = yes
+			has_socialist_government = yes
+		}
+	}
+}
+
 music = {
 	song = "crm_ant_enkenem"
 
