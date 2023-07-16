@@ -328,3 +328,8 @@ music = {
 	file = "america_radio/devil_went_down_to_georgia.ogg"
 	volume = 1.25
 }
+music = {
+	name = "north_to_alaska"
+	file = "america_radio/north_to_alaska.ogg"
+	volume = 1.25
+}

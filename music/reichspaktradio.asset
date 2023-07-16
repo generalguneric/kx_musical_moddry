@@ -23,3 +23,28 @@ music = {
 	file = "reichspaktradio/ger_die_wacht_am_rhein.ogg"
 	volume = 1.25
 }
+music = {
+	name = "der_tod_in_flandern"
+	file = "reichspaktradio/der_tod_in_flandern.ogg"
+	volume = 1.25
+}
+music = {
+	name = "erika"
+	file = "reichspaktradio/erika.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gori_kaseki"
+	file = "reichspaktradio/gori_kaseki.ogg"
+	volume = 1.25
+}
+music = {
+	name = "schwarzer_haufen_choir"
+	file = "reichspaktradio/schwarzer_haufen_choir.ogg"
+	volume = 1.25
+}
+music = {
+	name = "schwarzer_haufen_folk"
+	file = "reichspaktradio/schwarzer_haufen_folk.ogg"
+	volume = 1.25
+}

@@ -84,3 +84,103 @@ music = {
 		}
 	}
 }
+music = {
+	song = "der_tod_in_flandern"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}
+music = {
+	song = "erika"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}
+music = {
+	song = "gori_kaseki"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}
+music = {
+	song = "schwarzer_haufen_choir"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}
+music = {
+	song = "schwarzer_haufen_folk"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}

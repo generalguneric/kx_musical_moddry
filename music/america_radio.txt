@@ -1353,7 +1353,6 @@ music = {
 		}
 	}
 }
-
 music = {
 	song = "devil_went_down_to_georgia"
 
@@ -1373,6 +1372,22 @@ music = {
 				tag = COR
 				tag = GEO
 			}
+		}
+	}
+}
+music = {
+	song = "north_to_alaska"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALA
 		}
 	}
 }
