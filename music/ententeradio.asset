@@ -94,6 +94,16 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "le_chanson_monsieur_henri"
+	file = "ententeradio/le_chanson_monsieur_henri.ogg"
+	volume = 1.25
+}
+music = {
+	name = "monsieur_delbee"
+	file = "ententeradio/monsieur_delbee.ogg"
+	volume = 1.25
+}
+music = {
 	name = "au_31_du_mois_daout"
 	file = "ententeradio/fra_au_31_du_mois_daout.ogg"
 	volume = 1.25
@@ -131,5 +141,35 @@ music = {
 music = {
 	name = "war_of_1812_canadian"
 	file = "ententeradio/war_of_1812_canadian.ogg"
+	volume = 1.25
+}
+music = {
+	name = "maple_leaf_forever"
+	file = "ententeradio/maple_leaf_forever.ogg"
+	volume = 1.25
+}
+music = {
+	name = "barretts_privateers_folk"
+	file = "ententeradio/barretts_privateers_folk.ogg"
+	volume = 1.25
+}
+music = {
+	name = "barretts_privateers_shanty"
+	file = "ententeradio/barretts_privateers_shanty.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ode_newfoundland_choir"
+	file = "ententeradio/ode_newfoundland_choir.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ode_newfoundland_folk"
+	file = "ententeradio/ode_newfoundland_folk.ogg"
+	volume = 1.25
+}
+music = {
+	name = "flag_newfoundland"
+	file = "ententeradio/flag_newfoundland.ogg"
 	volume = 1.25
 }

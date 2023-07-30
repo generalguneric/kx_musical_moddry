@@ -359,6 +359,42 @@ music = {
 	}
 }
 music = {
+	song = "le_chanson_monsieur_henri"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFA
+			}
+		}
+	}
+}
+music = {
+	song = "monsieur_delbee"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFA
+			}
+		}
+	}
+}
+music = {
 	song = "au_31_du_mois_daout"
 
 	chance = {
@@ -458,7 +494,6 @@ music = {
 		}
 	}
 }
-
 music = {
 	song = "dief_chief"
 
@@ -477,7 +512,6 @@ music = {
 		}
 	}
 }
-
 music = {
 	song = "ccf"
 
@@ -496,7 +530,6 @@ music = {
 		}
 	}
 }
-
 music = {
 	song = "war_of_1812_canadian"
 
@@ -511,6 +544,124 @@ music = {
 			factor = 2
 			OR = {
 				tag = CAN
+			}
+		}
+	}
+}
+music = {
+	song = "maple_leaf_forever"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+			}
+		}
+	}
+}
+music = {
+	song = "barretts_privateers_folk"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "barretts_privateers_shanty"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "ode_newfoundland_choir"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "ode_newfoundland_folk"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "flag_newfoundland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
 			}
 		}
 	}
