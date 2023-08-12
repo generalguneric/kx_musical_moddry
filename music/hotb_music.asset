@@ -190,7 +190,7 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "bella_ciao"
+	name = "kx_bella_ciao"
 	file = "bella_ciao.ogg"
 	volume = 1.25
 }

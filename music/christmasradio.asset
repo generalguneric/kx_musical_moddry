@@ -57,7 +57,7 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "night"
+	name = "kx_night"
 	file = "christmas/night.ogg"
 	volume = 1.25
 }
@@ -162,7 +162,7 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "empty"
+	name = "kx_empty"
 	file = "christmas/empty.ogg"
 	volume = 1.25
 }

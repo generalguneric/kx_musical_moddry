@@ -244,7 +244,7 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "king_in_yellow"
+	name = "kx_king_in_yellow"
 	file = "america_radio/king_in_yellow.ogg"
 	volume = 1.25
 }
