@@ -439,3 +439,97 @@ music = {
 	file = "radio_ukraine/whr_pahonia.ogg"
 	volume = 1.25
 }
+
+music = {
+	name = "whr_kasinery"
+	file = "radio_ukraine/whr_kasinery.ogg"
+	volume = 1.25
+}
+music = {
+	name = "alo_eldin_qorghany"
+	file = "alo_eldin_qorghany.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "alo_alash_marshy"
+	file = "alo_alash_marshy.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "alo_men_qazaqpyn"
+	file = "alo_men_qazaqpyn.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "alo_kazakhstan_anthem"
+	file = "alo_kazakhstan_anthem.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "alo_amangeldi_imanuly_marshy"
+	file = "alo_amangeldi_imanuly_marshy.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "alo_menin_qazaqstanym"
+	file = "alo_menin_qazaqstanym.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "alo_march_of_ablai_khan"
+	file = "alo_march_of_ablai_khan.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "trk_hoy_ishchilar"
+	file = "trk_hoy_ishchilar.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "trk_askaron"
+	file = "trk_askaron.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "trk_fire_of_zoroaster"
+	file = "trk_fire_of_zoroaster.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "trk_marti_tochiki"
+	file = "trk_marti_tochiki.ogg"
+	volume = 1.25
+}
+music = {
+	name = "trk_ozbekiston_marshi"
+	file = "trk_ozbekiston_marshi.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "trk_ay_churek"
+	file = "trk_ay_churek.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "trk_watan_nirden_bashlanyar"
+	file = "trk_watan_nirden_bashlanyar.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "trk_kyrgyz_march"
+	file = "trk_kyrgyz_march.ogg"
+	volume = 1.25
+}

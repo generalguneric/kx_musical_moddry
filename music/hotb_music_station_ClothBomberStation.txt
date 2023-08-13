@@ -1980,3 +1980,277 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "whr_kasinery"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = WHR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = WHR
+		}
+	}
+}
+
+music = {
+	song = "alo_eldin_qorghany"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+
+music = {
+	song = "alo_alash_marshy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+
+music = {
+	song = "alo_men_qazaqpyn"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+music = {
+	song = "alo_march_of_ablai_khan"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+
+music = {
+	song = "alo_amangeldi_imanuly_marshy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+
+music = {
+	song = "alo_menin_qazaqstanym"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+
+music = {
+	song = "trk_hoy_ishchilar"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TRK
+				tag = KYR
+				tag = UZB
+			}
+			has_socialist_government = no
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TRK
+				tag = KYR
+				tag = UZB
+			}
+			has_socialist_government = yes
+		}
+	}
+}
+
+music = {
+	song = "trk_askaron"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TRK
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = TRK
+		}
+	}
+}
+
+music = {
+	song = "trk_marti_tochiki"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TRK
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = TRK
+		}
+	}
+}
+
+music = {
+	song = "trk_fire_of_zoroaster"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TRK
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = TRK
+		}
+	}
+}
+
+music = {
+	song = "trk_ozbekiston_marshi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TRK
+				tag = UZB
+				tag = KYR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TRK
+				tag = UZB
+				tag = KYR
+			}
+		}
+	}
+}
+
+music = {
+	song = "trk_ay_churek"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TRK
+				tag = UZB
+				tag = KYR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TRK
+				tag = UZB
+				tag = KYR
+			}
+		}
+	}
+}
+
+music = {
+	song = "trk_watan_nirden_bashlanyar"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = UZB
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = UZB
+		}
+	}
+}
+
+music = {
+	song = "trk_kyrgyz_march"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = KYR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = KYR
+		}
+	}
+}
