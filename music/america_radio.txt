@@ -923,7 +923,7 @@ music = {
 	}
 }
 music = {
-	song = "king_in_yellow"
+	song = "kx_king_in_yellow"
 
 	chance = {
 		modifier = {

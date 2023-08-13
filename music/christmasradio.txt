@@ -221,7 +221,7 @@ music = {
 	}
 }
 music = {
-	song = "night"
+	song = "kx_night"
 
 	chance = {
 		modifier = {
@@ -671,7 +671,7 @@ music = {
 	}
 }
 music = {
-	song = "empty"
+	song = "kx_empty"
 
 	chance = {
 		modifier = {

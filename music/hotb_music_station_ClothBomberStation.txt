@@ -792,7 +792,7 @@ music = {
 }
 
 music = {
-	song = "bella_ciao"
+	song = "kx_bella_ciao"
 
 	chance = {
 		modifier = {
