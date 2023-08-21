@@ -430,6 +430,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "zifna"
+	file = "zifna.ogg"
+	volume = 1.25
+}
+music = {
 	name = "whr_bitva_pad_vorsaj"
 	file = "radio_ukraine/whr_bitva_pad_vorsaj.ogg"
 	volume = 1.25

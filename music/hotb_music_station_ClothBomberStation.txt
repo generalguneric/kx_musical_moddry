@@ -1949,6 +1949,22 @@ music = {
 	}
 }
 music = {
+	song = "zifna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MLT
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = MLT
+		}
+	}
+}
+music = {
 	song = "whr_bitva_pad_vorsaj"
 
 	chance = {
