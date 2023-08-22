@@ -872,6 +872,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "krummavsur"
 
@@ -901,6 +902,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "slandsklukk"
 
@@ -930,6 +932,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "lafur_liljurs"
 
@@ -959,6 +962,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "sprengisandi"
 
@@ -988,6 +992,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "tyrkjarnid"
 
@@ -1017,6 +1022,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "rose_rose_i_love_you"
 
@@ -1059,6 +1065,7 @@ music = {
 		}	
 	}
 }
+
 music = {
 	song = "moldau"
 
@@ -1085,6 +1092,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "osmaniye_marsi"
 
@@ -1103,6 +1111,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "reveillez_vous_picards"
 
@@ -1123,6 +1132,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "reflection_moon_erquan_pool"
 
@@ -1169,6 +1179,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "trezire_de_spirit"
 
@@ -1189,6 +1200,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "rose_rose_i_love_you"
 
@@ -1208,6 +1220,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "canto_dei_sanfedisti"
 
@@ -1949,22 +1962,6 @@ music = {
 	}
 }
 music = {
-	song = "zifna"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MLT
-			}
-		}
-		modifier = {
-			factor = 2
-			tag = MLT
-		}
-	}
-}
-music = {
 	song = "whr_bitva_pad_vorsaj"
 
 	chance = {
@@ -2267,6 +2264,142 @@ music = {
 		modifier = {
 			factor = 2
 			tag = KYR
+		}
+	}
+}
+
+music = {
+	song = "zifna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MLT
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = MLT
+		}
+	}
+}
+
+music = {
+	song = "ceddin_deden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TUR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = TUR
+		}
+	}
+}
+
+music = {
+	song = "maori_battalion_march_victory"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NZL
+		}
+	}
+}
+
+music = {
+	song = "kingitanga"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NZL
+		}
+	}
+}
+
+music = {
+	song = "poi_e"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NZL
+		}
+	}
+}
+
+music = {
+	song = "pipiwharauroa_red_lips"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NZL
+		}
+	}
+}
+
+music = {
+	song = "taranaki_patere"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NZL
+		}
+	}
+}
+
+music = {
+	song = "kotahitanga_union"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NZL
 		}
 	}
 }

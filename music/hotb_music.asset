@@ -430,11 +430,6 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "zifna"
-	file = "zifna.ogg"
-	volume = 1.25
-}
-music = {
 	name = "whr_bitva_pad_vorsaj"
 	file = "radio_ukraine/whr_bitva_pad_vorsaj.ogg"
 	volume = 1.25
@@ -444,7 +439,6 @@ music = {
 	file = "radio_ukraine/whr_pahonia.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "whr_kasinery"
 	file = "radio_ukraine/whr_kasinery.ogg"
@@ -455,61 +449,51 @@ music = {
 	file = "alo_eldin_qorghany.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "alo_alash_marshy"
 	file = "alo_alash_marshy.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "alo_men_qazaqpyn"
 	file = "alo_men_qazaqpyn.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "alo_kazakhstan_anthem"
 	file = "alo_kazakhstan_anthem.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "alo_amangeldi_imanuly_marshy"
 	file = "alo_amangeldi_imanuly_marshy.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "alo_menin_qazaqstanym"
 	file = "alo_menin_qazaqstanym.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "alo_march_of_ablai_khan"
 	file = "alo_march_of_ablai_khan.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "trk_hoy_ishchilar"
 	file = "trk_hoy_ishchilar.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "trk_askaron"
 	file = "trk_askaron.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "trk_fire_of_zoroaster"
 	file = "trk_fire_of_zoroaster.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "trk_marti_tochiki"
 	file = "trk_marti_tochiki.ogg"
@@ -520,21 +504,58 @@ music = {
 	file = "trk_ozbekiston_marshi.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "trk_ay_churek"
 	file = "trk_ay_churek.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "trk_watan_nirden_bashlanyar"
 	file = "trk_watan_nirden_bashlanyar.ogg"
 	volume = 1.25
 }
-
 music = {
 	name = "trk_kyrgyz_march"
 	file = "trk_kyrgyz_march.ogg"
+	volume = 1.25
+}
+music = {
+	name = "zifna"
+	file = "zifna.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ceddin_deden"
+	file = "ceddin_deden.ogg"
+	volume = 1.25
+}
+music = {
+	name = "maori_battalion_march_victory"
+	file = "maori_battalion_march_victory.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kingitanga"
+	file = "kingitanga.ogg"
+	volume = 1.25
+}
+music = {
+	name = "poi_e"
+	file = "poi_e.ogg"
+	volume = 1.25
+}
+music = {
+	name = "pipiwharauroa_red_lips"
+	file = "pipiwharauroa_red_lips.ogg"
+	volume = 1.25
+}
+music = {
+	name = "taranaki_patere"
+	file = "taranaki_patere.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kotahitanga_union"
+	file = "kotahitanga_union.ogg"
 	volume = 1.25
 }
