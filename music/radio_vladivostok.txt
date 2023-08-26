@@ -1,0 +1,1061 @@
+music_station = "radio_vladivostok"
+
+
+### Russian Tags ###
+
+music = {
+	song = "kalinka"
+	chance = {
+		modifier = { factor = 0		is_russian_speaking_tag = no }
+		modifier = { factor = 2		is_russian_speaking_tag = yes }
+	}
+}
+music = {
+	song = "rus_korobeiniki"
+	chance = {
+		modifier = { factor = 0		is_russian_speaking_tag = no }
+		modifier = { factor = 2		is_russian_speaking_tag = yes }
+	}
+}
+music = {
+	song = "we_weren_t_home"
+	chance = {
+		modifier = { factor = 0		is_russian_speaking_tag = no }
+		modifier = { factor = 2		is_russian_speaking_tag = yes }
+	}
+}
+music = {
+	song = "varyag"
+	chance = {
+		modifier = { factor = 0		is_russian_speaking_tag = no }
+		modifier = { factor = 2		is_russian_speaking_tag = yes }
+	}
+}
+music = {
+	song = "three_tankers"
+	chance = {
+		modifier = { factor = 0		is_russian_speaking_tag = no }
+		modifier = { factor = 2		is_russian_speaking_tag = yes }
+	}
+}
+music = {
+	song = "onwards"
+	chance = {
+		modifier = { factor = 0		is_russian_speaking_tag = no }
+		modifier = { factor = 2		is_russian_speaking_tag = yes }
+	}
+}
+music = {
+	song = "katusha"
+	chance = {
+		modifier = { factor = 0		is_russian_speaking_tag = no }
+		modifier = { factor = 2		is_russian_speaking_tag = yes }
+	}
+}
+music = {
+	song = "transbaikal"
+	chance = {
+		modifier = { factor = 0		is_russian_speaking_tag = no }
+		modifier = { factor = 2		is_russian_speaking_tag = yes }
+	}
+}
+# Monarchy
+music = {
+	song = "god_save_the_tsar_russia"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = RUS
+					RUS_russian_monarch = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				tag = RUS
+				RUS_russian_monarch = yes
+			}
+		}
+	}
+}
+music = {
+	song = "march_of_preobrazhensk_regiment"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = RUS
+					RUS_russian_monarch = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				tag = RUS
+				RUS_russian_monarch = yes
+			}
+		}
+	}
+}
+music = {
+	song = "rus_falcons_soar_up_like_eagles"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = RUS
+					RUS_russian_monarch = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				tag = RUS
+				RUS_russian_monarch = yes
+			}
+		}
+	}
+}
+music = {
+	song = "glory_to"
+	chance = {
+		modifier = { factor = 0		NOT = { tag = RUS } }
+		modifier = { factor = 2		tag = RUS }
+	}
+}
+music = {
+	song = "junckers_song"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = RUS
+					RUS_russian_monarch = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				tag = RUS
+				RUS_russian_monarch = yes
+			}
+		}
+	}
+}
+
+# Democratic
+music = {
+	song = "amur_waves"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+	}
+}
+music = {
+	song = "on_the_hills_of_manchuria"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+	}
+}
+music = {
+	song = "farewell_to_slavianka"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+	}
+}
+music = {
+	song = "swan_lake_waltz"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+	}
+}
+music = {
+	song = "dance_of_the_swans"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+	}
+}
+music = {
+	song = "dance_of_the_knights"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+	}
+}
+music = {
+	song = "borodino_march"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+	}
+}
+
+# CONSERVATIVE
+
+music = {
+	song = "patriotic_song"
+	chance = {
+		modifier = { factor = 0		NOT = { tag = RUS } }
+		modifier = { factor = 2		tag = RUS }
+	}
+}
+music = {
+	song = "song_of_the_siberian_riflemen"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+				has_authoritarian_government = yes
+			}
+		}
+	}
+}
+
+music = {
+	song = "rus_izhevsk_regiment"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+				has_authoritarian_government = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "rus_regiments_marching"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = SIB
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+				has_authoritarian_government = yes
+			}
+		}
+	}
+}
+
+# SYNDICALIST
+
+music = {
+	song = "polyushko_polye"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					has_socialist_government = yes
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+music = {
+	song = "song_of_far_eastern_army"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+music = {
+	song = "over_hills"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+music = {
+	song = "the_cossacks"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = KUB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = KUB
+				}
+			}
+		}
+	}
+}
+music = {
+	song = "song_of_cavalry"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+music = {
+	song = "division_song"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+music = {
+	song = "song_of_the_commune"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_artillerymans_song"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_march_of_the_pilots"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_lenin_is_so_young"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+music = {
+	song = "sov_konarmeiskaya"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_our_locomotive"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_smelo_tovarischi"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_red_army_strongest"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_marsellieza"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_iron_infantry"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "sov_red_commanders_college"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					OR = {
+						is_russian_speaking_tag = yes
+						tag = SIB
+					}
+					has_socialist_government = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			AND = {
+				has_socialist_government = yes
+				OR = {
+					is_russian_speaking_tag = yes
+					tag = SIB
+				}
+			}
+		}
+	}
+}
+
+### DKB - Don Kuban Union ###
+
+music = {
+	song = "when_we_were_at_war"
+	chance = {
+		modifier = { 
+			factor = 0		
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+			}
+		}
+		modifier = { 
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+			}
+		}
+	}
+}
+
+music = {
+	song = "rus_drozdovsky"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+music = {
+	song = "rus_markov"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+music = {
+	song = "rus_kornilov"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+music = {
+	song = "rus_alekseev"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+music = {
+	song = "syn_rus_capital_oppresses_us"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				has_socialist_government = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_russian_speaking_tag = yes
+			has_socialist_government = yes
+		}
+	}
+}
+
+music = {
+	song = "rus_soldiers_dance"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+			}
+		}
+	}
+}
+
+music = {
+	song = "rus_preobrazhensky"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+			}
+		}
+	}
+}
+
+music = {
+	song = "rus_clouds"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "kuban_you_is_our_homeland"
+	chance = {
+		modifier = { 
+			factor = 0		
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+			}
+		}
+		modifier = { 
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+			}
+		}
+	}
+}
+music = {
+	song = "kub_tam_shli_dva_brata"
+	chance = {
+		modifier = { 
+			factor = 0		
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+			}
+		}
+		modifier = { 
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+			}
+		}
+	}
+}
+music = {
+	song = "dkb_oysya"
+	chance = {
+		modifier = { 
+			factor = 0		
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+			}
+		}
+		modifier = { 
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+			}
+		}
+	}
+}

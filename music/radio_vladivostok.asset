@@ -1,0 +1,272 @@
+### SPECIAL
+
+### radio_vladivostokn Tags ###
+
+music = {
+	name = "kalinka"
+	file = "radio_vladivostok/rus_kalinka.ogg"
+	volume = 0.85
+}
+music = {
+	name = "rus_korobeiniki"
+	file = "radio_vladivostok/rus_korobeiniki.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "we_weren_t_home"
+	file = "radio_vladivostok/rus_we_weren_t_home.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "varyag"
+	file = "radio_vladivostok/rus_varyag.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "three_tankers"
+	file = "radio_vladivostok/rus_three_tankers.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "onwards"
+	file = "radio_vladivostok/rus_onwards.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "katusha"
+	file = "radio_vladivostok/rus_katusha.ogg"
+	volume = 0.85
+}
+
+# radio_vladivostok Conservative
+
+music = {
+	name = "patriotic_song"
+	file = "radio_vladivostok/rus_patriotic_song.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "transbaikal"
+	file = "radio_vladivostok/rus_transbaikal.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "glory_to"
+	file = "radio_vladivostok/rus_glory_to.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "march_of_preobrazhensk_regiment"
+	file = "radio_vladivostok/rus_march_of_preobrazhensk_regiment.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "borodino_march"
+	file = "radio_vladivostok/rus_borodino_march.ogg"
+	volume = 0.85
+}
+
+# radio_vladivostok SYNDIE
+
+music = {
+	name = "polyushko_polye"
+	file = "radio_vladivostok/sov_polyushko_polye.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "song_of_far_eastern_army"
+	file = "radio_vladivostok/sov_song_of_far_eastern_army.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "over_hills"
+	file = "radio_vladivostok/sov_over_hills.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "the_cossacks"
+	file = "radio_vladivostok/sov_the_cossacks.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "song_of_cavalry"
+	file = "radio_vladivostok/sov_song_of_cavalry.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "division_song"
+	file = "radio_vladivostok/sov_division_song.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "song_of_the_commune"
+	file = "radio_vladivostok/syn_rus_song_of_the_commune.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_artillerymans_song"
+	file = "radio_vladivostok/sov_artillerymans_song.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_march_of_the_pilots"
+	file = "radio_vladivostok/sov_march_of_the_pilots.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_lenin_is_so_young"
+	file = "radio_vladivostok/sov_lenin_is_so_young.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_konarmeiskaya"
+	file = "radio_vladivostok/sov_konarmeiskaya.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_our_locomotive"
+	file = "radio_vladivostok/sov_our_locomotive.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_red_army_strongest"
+	file = "radio_vladivostok/sov_red_army_strongest.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_marsellieza"
+	file = "radio_vladivostok/sov_marsellieza.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_iron_infantry"
+	file = "radio_vladivostok/sov_iron_infantry.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_red_commanders_college"
+	file = "radio_vladivostok/sov_red_commanders_college.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "sov_smelo_tovarischi"
+	file = "radio_vladivostok/sov_smelo_tovarischi.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "dance_of_the_knights"
+	file = "radio_vladivostok/rus_dance_of_the_knights.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "dance_of_the_swans"
+	file = "radio_vladivostok/rus_dance_of_the_swans.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "swan_lake_waltz"
+	file = "radio_vladivostok/rus_swan_lake_waltz.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "on_the_hills_of_manchuria"
+	file = "radio_vladivostok/rus_on_the_hills_of_manchuria.ogg"
+	volume = 0.95
+}
+
+music = {
+	name = "amur_waves"
+	file = "radio_vladivostok/rus_amur_waves.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "farewell_to_slavianka"
+	file = "radio_vladivostok/rus_farewell_to_slavianka.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "god_save_the_tsar_russia"
+	file = "radio_vladivostok/rus_god_save_the_tsar.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "junckers_song"
+	file = "radio_vladivostok/rus_junckers_song.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "song_of_the_siberian_riflemen"
+	file = "radio_vladivostok/rus_song_of_the_siberian_riflemen.ogg"
+	volume = 0.85
+}
+
+### DKB - Don-Kuban Union ###
+
+music = {
+	name = "when_we_were_at_war"
+	file = "radio_vladivostok/rus_when_we_were_at_war.ogg"
+	volume = 0.85
+}
+music = {
+	name = "kub_tam_shli_dva_brata"
+	file = "radio_vladivostok/kub_tam_shli_dva_brata.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kuban_you_is_our_homeland"
+	file = "radio_vladivostok/kos_kuban_you_is_our_homeland.ogg"
+	volume = 0.85
+}
+music = {
+	name = "dkb_oysya"
+	file = "radio_vladivostok/dkb_oysya.ogg"
+	volume = 0.85
+}
+music = {
+	name = "rus_falcons_soar_up_like_eagles"
+	file = "radio_vladivostok/rus_falcons_soar_up_like_eagles.ogg"
+	volume = 0.85
+}
+music = {
+	name = "rus_regiments_marching"
+	file = "radio_vladivostok/rus_regiments_marching.ogg"
+	volume = 0.85
+}
+music = {
+	name = "rus_izhevsk_regiment"
+	file = "radio_vladivostok/rus_izhevsk_regiment.ogg"
+	volume = 0.85
+}

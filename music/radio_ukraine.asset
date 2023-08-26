@@ -205,11 +205,7 @@ music = {
 	file = "radio_ukraine/ukr_llietsia_pisnia_burevisna.ogg"
 	volume = 1.25
 }
-music = {
-	name = "kub_tam_shli_dva_brata"
-	file = "radio_ukraine/kub_tam_shli_dva_brata.ogg"
-	volume = 1.25
-}
+
 music = {
 	name = "ukr_my_idem_vpered"
 	file = "radio_ukraine/ukr_my_idem_vpered.ogg"

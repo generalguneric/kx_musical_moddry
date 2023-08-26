@@ -778,26 +778,6 @@ music = {
 	}
 }
 music = {
-	song = "kub_tam_shli_dva_brata"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_ukrainian_tag = yes
-				tag = KUB
-			}
-		}
-		modifier = {
-			factor = 2
-			OR = {
-				is_ukrainian_tag = yes
-				tag = KUB
-			}
-		}
-	}
-}
-music = {
 	song = "ukr_z_pid_vrazhoi_okhrany"
 
 	chance = {
@@ -858,3 +838,4 @@ music = {
 		}
 	}
 }
+
