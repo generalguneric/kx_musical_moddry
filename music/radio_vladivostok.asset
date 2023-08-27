@@ -122,19 +122,19 @@ music = {
 music = {
 	name = "sov_artillerymans_song"
 	file = "radio_vladivostok/sov_artillerymans_song.ogg"
-	volume = 0.95
+	volume = 1.10
 }
 
 music = {
 	name = "sov_march_of_the_pilots"
 	file = "radio_vladivostok/sov_march_of_the_pilots.ogg"
-	volume = 0.95
+	volume = 1.15
 }
 
 music = {
 	name = "sov_lenin_is_so_young"
 	file = "radio_vladivostok/sov_lenin_is_so_young.ogg"
-	volume = 0.95
+	volume = 1.2
 }
 
 music = {
@@ -146,7 +146,7 @@ music = {
 music = {
 	name = "sov_our_locomotive"
 	file = "radio_vladivostok/sov_our_locomotive.ogg"
-	volume = 0.95
+	volume = 1.10
 }
 
 music = {
@@ -247,7 +247,7 @@ music = {
 }
 music = {
 	name = "kuban_you_is_our_homeland"
-	file = "radio_vladivostok/kos_kuban_you_is_our_homeland.ogg"
+	file = "radio_vladivostok/kos_kuban_you_are_our_homeland.ogg"
 	volume = 0.85
 }
 music = {
