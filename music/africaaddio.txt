@@ -172,6 +172,37 @@ music = {
 }
 
 music = {
+	song = "roland_the_headless_thompson_gunner"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+			}		
+		}
+	}
+}
+
+music = {
 	song = "inhliziyo_yami"
 
 	chance = {
@@ -330,6 +361,31 @@ music = {
 			factor = 2
 			OR = {
 				tag = SAF
+				tag = ZIM
+			}		
+		}
+	}
+}
+
+music = {
+	song = "never_met_a_nice_south_african"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+					tag = SFR
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = SAF
+				tag = SFR
 				tag = ZIM
 			}		
 		}

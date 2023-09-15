@@ -49,6 +49,12 @@ music = {
 }
 
 music = {
+	name = "roland_the_headless_thompson_gunner"
+	file = "africaaddio/roland_the_headless_thompson_gunner.ogg"
+	volume = 1.25
+}
+
+music = {
 	name = "inhliziyo_yami"
 	file = "africaaddio/inhliziyo_yami.ogg"
 	volume = 1.25
@@ -81,6 +87,12 @@ music = {
 music = {
 	name = "so_long_europe"
 	file = "africaaddio/so_long_europe.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "never_met_a_nice_south_african"
+	file = "africaaddio/never_met_a_nice_south_african.ogg"
 	volume = 1.25
 }
 
