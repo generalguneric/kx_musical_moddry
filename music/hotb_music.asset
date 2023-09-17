@@ -559,3 +559,8 @@ music = {
 	file = "kotahitanga_union.ogg"
 	volume = 1.25
 }
+music = {
+	name = "beginning"
+	file = "beginning.ogg"
+	volume = 1.25
+}

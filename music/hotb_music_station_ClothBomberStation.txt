@@ -2258,3 +2258,24 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "beginning"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ROM
+				tag = TRS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ROM
+				tag = TRS
+			}
+		}
+	}
+}
