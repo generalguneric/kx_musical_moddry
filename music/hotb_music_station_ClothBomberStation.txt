@@ -2279,3 +2279,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "sarzamine_man"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AFG
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = AFG
+		}
+	}
+}

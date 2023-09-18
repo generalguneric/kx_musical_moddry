@@ -564,3 +564,8 @@ music = {
 	file = "beginning.ogg"
 	volume = 1.25
 }
+music = {
+	name = "sarzamine_man"
+	file = "sarzamine_man.ogg"
+	volume = 1.25
+}
