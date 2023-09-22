@@ -784,7 +784,7 @@ music = {
 			factor = 0
 			NOT = {
 				tag = MEX
-				tag = NNV
+				tag = NVN
 				tag = TXS
 				tag = ARZ
 
@@ -1388,6 +1388,39 @@ music = {
 		modifier = {
 			factor = 2
 			tag = ALA
+		}
+	}
+}
+music = {
+	song = "indian_love_call"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALA
+				tag = NVN
+				tag = TXS
+				tag = ARZ
+				tag = TEX
+				tag = WCC
+				tag = COR
+				tag = CAL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ALA
+				tag = NVN
+				tag = TXS
+				tag = ARZ
+				tag = TEX
+				tag = WCC
+				tag = COR
+				tag = CAL
+			}
+
 		}
 	}
 }
