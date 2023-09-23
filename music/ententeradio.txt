@@ -666,3 +666,63 @@ music = {
 		}
 	}
 }
+music = {
+	song = "rebel_ship"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "garb_old_gaul"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "banks_newfoundland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}

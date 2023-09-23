@@ -173,3 +173,18 @@ music = {
 	file = "ententeradio/flag_newfoundland.ogg"
 	volume = 1.25
 }
+music = {
+	name = "rebel_ship"
+	file = "ententeradio/rebel_ship.ogg"
+	volume = 1.25
+}
+music = {
+	name = "garb_old_gaul"
+	file = "ententeradio/garb_old_gaul.ogg"
+	volume = 1.25
+}
+music = {
+	name = "banks_newfoundland"
+	file = "ententeradio/banks_newfoundland.ogg"
+	volume = 1.25
+}
