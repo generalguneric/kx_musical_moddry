@@ -726,3 +726,43 @@ music = {
 		}
 	}
 }
+music = {
+	song = "coaker"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "coaker_instrumental"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}

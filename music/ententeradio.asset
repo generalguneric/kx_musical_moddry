@@ -188,3 +188,13 @@ music = {
 	file = "ententeradio/banks_newfoundland.ogg"
 	volume = 1.25
 }
+music = {
+	name = "coaker"
+	file = "ententeradio/coaker.ogg"
+	volume = 1.25
+}
+music = {
+	name = "coaker_instrumental"
+	file = "ententeradio/coaker_instrumental.ogg"
+	volume = 1.25
+}
