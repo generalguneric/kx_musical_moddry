@@ -712,4 +712,29 @@ music = {
 	}
 }
 
+music = {
+	song = "zombie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+				tag = NGR
+				tag = HAU
+				tag = KBR
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NGR
+				tag = HAU
+				tag = KBR
+			}
+		}
+	}
+}
+
 

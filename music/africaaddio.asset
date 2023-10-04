@@ -191,3 +191,9 @@ music = {
 	file = "africaaddio/bokassa_march.ogg"
 	volume = 1.25
 }
+
+music = {
+	name = "zombie"
+	file = "africaaddio/zombie.ogg"
+	volume = 1.25
+}
