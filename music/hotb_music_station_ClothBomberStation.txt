@@ -2296,3 +2296,57 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "inno_di_garibaldi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "la_brigata_garibaldi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}

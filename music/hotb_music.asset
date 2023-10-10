@@ -569,3 +569,13 @@ music = {
 	file = "sarzamine_man.ogg"
 	volume = 1.25
 }
+music = {
+	name = "inno_di_garibaldi"
+	file = "inno_di_garibaldi.ogg"
+	volume = 1.25
+}
+music = {
+	name = "la_brigata_garibaldi"
+	file = "la_brigata_garibaldi.ogg"
+	volume = 1.25
+}
