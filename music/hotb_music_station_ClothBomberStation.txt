@@ -1968,6 +1968,23 @@ music = {
 }
 
 music = {
+	song = "alo_menin_qazaqstanym_2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+
+music = {
 	song = "trk_hoy_ishchilar"
 
 	chance = {
@@ -1988,6 +2005,52 @@ music = {
 				tag = UZB
 			}
 			has_socialist_government = yes
+		}
+	}
+}
+music = {
+	song = "trk_star_of_the_east"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TRK
+				tag = KYR
+				tag = UZB
+			}
+			has_socialist_government = no
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TRK
+				tag = KYR
+				tag = UZB
+			}
+			has_socialist_government = yes
+		}
+	}
+}
+music = {
+	song = "trk_anayurt_marshi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TRK
+				tag = KYR
+				tag = UZB
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TRK
+				tag = KYR
+				tag = UZB
+			}
 		}
 	}
 }

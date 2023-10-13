@@ -480,6 +480,21 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "alo_menin_qazaqstanym_2"
+	file = "alo_menin_qazaqstanym_2.ogg"
+	volume = 1.25
+}
+music = {
+	name = "trk_star_of_the_east"
+	file = "trk_star_of_the_east.ogg"
+	volume = 1.25
+}
+music = {
+	name = "trk_anayurt_marshi"
+	file = "trk_anayurt_marshi.ogg"
+	volume = 1.25
+}
+music = {
 	name = "trk_hoy_ishchilar"
 	file = "trk_hoy_ishchilar.ogg"
 	volume = 1.25
