@@ -230,7 +230,7 @@ music = {
 	}
 }
 music = {
-	song = "dance_of_the_swans"
+	song = "rus_dance_of_the_swans"
 	chance = {
 		modifier = {
 			factor = 0

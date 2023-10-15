@@ -186,7 +186,7 @@ music = {
 }
 
 music = {
-	name = "dance_of_the_swans"
+	name = "rus_dance_of_the_swans"
 	file = "radio_vladivostok/rus_dance_of_the_swans.ogg"
 	volume = 0.85
 }
