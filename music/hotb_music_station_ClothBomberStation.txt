@@ -2413,3 +2413,84 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "divina_patria"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "divina_patria_rare"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "divina_patria_technobalilla"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}

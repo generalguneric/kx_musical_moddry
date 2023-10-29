@@ -589,3 +589,18 @@ music = {
 	file = "la_brigata_garibaldi.ogg"
 	volume = 1.25
 }
+music = {
+	name = "divina_patria"
+	file = "divina_patria.ogg"
+	volume = 1.25
+}
+music = {
+	name = "divina_patria_rare"
+	file = "divina_patria_rare.ogg"
+	volume = 1.25
+}
+music = {
+	name = "divina_patria_technobalilla"
+	file = "divina_patria_technobalilla.ogg"
+	volume = 1.25
+}
