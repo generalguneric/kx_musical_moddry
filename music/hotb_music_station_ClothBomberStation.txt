@@ -2494,3 +2494,32 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "tokyo_fantasy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+				tag = JAP
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+				tag = JAP
+			}
+		}
+	}
+}
