@@ -1481,3 +1481,36 @@ music = {
 	}
 }
 
+music = {
+	song = "nelsons_farewell"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = IRE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = IRE
+		}
+	}
+}
+
+music = {
+	song = "up_went_nelson"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = IRE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = IRE
+		}
+	}
+}
