@@ -338,3 +338,13 @@ music = {
 	file = "america_radio/indian_love_call.ogg"
 	volume = 1.25
 }
+music = {
+	name = "lone_star"
+	file = "america_radio/lone_star.ogg"
+	volume = 1.25
+}
+music = {
+	name = "noah"
+	file = "america_radio/noah.ogg"
+	volume = 1.25
+}

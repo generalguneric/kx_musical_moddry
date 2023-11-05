@@ -1424,3 +1424,63 @@ music = {
 		}
 	}
 }
+music = {
+	song = "lone_star"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "noah"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+			}
+		}
+	}
+}
