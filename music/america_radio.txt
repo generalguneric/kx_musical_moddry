@@ -1484,3 +1484,131 @@ music = {
 		}
 	}
 }
+music = {
+	song = "roses_of_picardy_instrumental"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+				tag = ENG
+				tag = GBR
+				tag = CAN
+				tag = AST
+				tag = NZL
+				tag = SAF
+				tag = SFR
+				tag = DEH
+                tag = ZAM
+				tag = ZIM
+				tag = KEN
+				tag = NGR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+				tag = ENG
+				tag = GBR
+				tag = CAN
+				tag = AST
+				tag = NZL
+				tag = SAF
+				tag = SFR
+				tag = DEH
+                tag = ZAM
+				tag = ZIM
+				tag = KEN
+				tag = NGR
+			}
+		}
+	}
+}
+music = {
+	song = "roses_of_picardy_mario_lanza"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+				tag = ENG
+				tag = GBR
+				tag = CAN
+				tag = AST
+				tag = NZL
+				tag = SAF
+				tag = SFR
+				tag = DEH
+                tag = ZAM
+				tag = ZIM
+				tag = KEN
+				tag = NGR
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+				tag = ENG
+				tag = GBR
+				tag = CAN
+				tag = AST
+				tag = NZL
+				tag = SAF
+				tag = SFR
+				tag = DEH
+                tag = ZAM
+				tag = ZIM
+				tag = KEN
+				tag = NGR
+			}
+		}
+	}
+}

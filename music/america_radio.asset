@@ -348,3 +348,13 @@ music = {
 	file = "america_radio/noah.ogg"
 	volume = 1.25
 }
+music = {
+	name = "roses_of_picardy_instrumental"
+	file = "america_radio/roses_of_picardy_instrumental.ogg"
+	volume = 1.25
+}
+music = {
+	name = "roses_of_picardy_mario_lanza"
+	file = "america_radio/roses_of_picardy_mario_lanza.ogg"
+	volume = 1.25
+}
