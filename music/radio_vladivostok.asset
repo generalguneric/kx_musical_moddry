@@ -228,6 +228,12 @@ music = {
 }
 
 music = {
+	name = "my_army"
+	file = "radio_vladivostok/rus_my_army.ogg"
+	volume = 0.85
+}
+
+music = {
 	name = "song_of_the_siberian_riflemen"
 	file = "radio_vladivostok/rus_song_of_the_siberian_riflemen.ogg"
 	volume = 0.85

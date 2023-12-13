@@ -287,6 +287,21 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "ukr_yunatska_pisnia"
+	file = "radio_ukraine/ukr_yunatska_pisnia.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ukr_pisnia_pro_dnipro"
+	file = "radio_ukraine/ukr_pisnia_pro_dnipro.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ukr_nash_zavod"
+	file = "radio_ukraine/ukr_nash_zavod.ogg"
+	volume = 1.25
+}
+music = {
 	name = "crm_ant_enkenem"
 	file = "radio_ukraine/crm_ant_enkenem.ogg"
 	volume = 1.25

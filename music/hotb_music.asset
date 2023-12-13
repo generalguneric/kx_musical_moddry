@@ -609,3 +609,8 @@ music = {
 	file = "tokyo_fantasy.ogg"
 	volume = 1.25
 }
+music = {
+	name = "vapaussoturin_valloituslaulu"
+	file = "fin_vapaussoturin_valloituslaulu.ogg"
+	volume = 1.25
+}
