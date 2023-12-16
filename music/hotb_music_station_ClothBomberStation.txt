@@ -2539,3 +2539,24 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "guerra_la_burguesia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ARG
+				tag = FOP
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ARG
+				tag = FOP
+			}
+		}
+	}
+}

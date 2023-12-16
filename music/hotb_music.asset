@@ -614,3 +614,8 @@ music = {
 	file = "fin_vapaussoturin_valloituslaulu.ogg"
 	volume = 1.25
 }
+music = {
+	name = "guerra_la_burguesia"
+	file = "guerra_la_burguesia.ogg"
+	volume = 1.25
+}
