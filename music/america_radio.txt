@@ -1612,3 +1612,19 @@ music = {
 		}
 	}
 }
+music = {
+	song = "hawaii_five_o"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HAW
+			}
+		}
+		modifier = {
+			factor = 2
+				tag = HAW
+		}
+	}
+}
