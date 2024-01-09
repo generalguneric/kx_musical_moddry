@@ -198,3 +198,13 @@ music = {
 	file = "ententeradio/coaker_instrumental.ogg"
 	volume = 1.25
 }
+music = {
+	name = "the_idiot"
+	file = "ententeradio/the_idiot.ogg"
+	volume = 1.25
+}
+music = {
+	name = "northwest_passage"
+	file = "ententeradio/northwest_passage.ogg"
+	volume = 1.25
+}

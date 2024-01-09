@@ -766,3 +766,43 @@ music = {
 		}
 	}
 }
+music = {
+	song = "the_idiot"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "northwest_passage"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
