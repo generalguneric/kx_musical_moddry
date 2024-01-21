@@ -1503,18 +1503,6 @@ music = {
 				tag = ALA
 				tag = NVN
 				tag = ARZ
-				tag = ENG
-				tag = GBR
-				tag = CAN
-				tag = AST
-				tag = NZL
-				tag = SAF
-				tag = SFR
-				tag = DEH
-                tag = ZAM
-				tag = ZIM
-				tag = KEN
-				tag = NGR
 			}
 		}
 		modifier = {
@@ -1532,18 +1520,6 @@ music = {
 				tag = ALA
 				tag = NVN
 				tag = ARZ
-				tag = ENG
-				tag = GBR
-				tag = CAN
-				tag = AST
-				tag = NZL
-				tag = SAF
-				tag = SFR
-				tag = DEH
-                tag = ZAM
-				tag = ZIM
-				tag = KEN
-				tag = NGR
 			}
 		}
 	}
@@ -1567,18 +1543,6 @@ music = {
 				tag = ALA
 				tag = NVN
 				tag = ARZ
-				tag = ENG
-				tag = GBR
-				tag = CAN
-				tag = AST
-				tag = NZL
-				tag = SAF
-				tag = SFR
-				tag = DEH
-                tag = ZAM
-				tag = ZIM
-				tag = KEN
-				tag = NGR
 			}
 		}
 		modifier = {
@@ -1596,18 +1560,6 @@ music = {
 				tag = ALA
 				tag = NVN
 				tag = ARZ
-				tag = ENG
-				tag = GBR
-				tag = CAN
-				tag = AST
-				tag = NZL
-				tag = SAF
-				tag = SFR
-				tag = DEH
-                tag = ZAM
-				tag = ZIM
-				tag = KEN
-				tag = NGR
 			}
 		}
 	}
@@ -1625,6 +1577,78 @@ music = {
 		modifier = {
 			factor = 2
 				tag = HAW
+		}
+	}
+}
+music = {
+	song = "hold_fort"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 2
+				tag = CSA
+		}
+	}
+}
+music = {
+	song = "southern_soldier_boy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 2
+				tag = COR
+		}
+	}
+}
+music = {
+	song = "you_rascal_you"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+			}
 		}
 	}
 }

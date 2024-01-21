@@ -363,3 +363,18 @@ music = {
 	file = "america_radio/roses_of_picardy_mario_lanza.ogg"
 	volume = 1.25
 }
+music = {
+	name = "hold_fort"
+	file = "america_radio/hold_fort.ogg"
+	volume = 1.25
+}
+music = {
+	name = "southern_soldier_boy"
+	file = "america_radio/southern_soldier_boy.ogg"
+	volume = 1.25
+}
+music = {
+	name = "you_rascal_you"
+	file = "america_radio/you_rascal_you.ogg"
+	volume = 1.25
+}
