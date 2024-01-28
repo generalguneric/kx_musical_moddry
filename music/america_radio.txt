@@ -1652,3 +1652,43 @@ music = {
 		}
 	}
 }
+music = {
+	song = "take_me_home_country_roads"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = WCC
+                tag = BBR
+				tag = TXS
+				tag = ALA
+				tag = NVN
+				tag = ARZ
+			}
+		}
+	}
+}
