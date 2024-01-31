@@ -440,6 +440,16 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "alo_emanet"
+	file = "alo_emanet.ogg"
+	volume = 1.25
+}
+music = {
+	name = "alo_alaqannan_usqan_aqqwim"
+	file = "alo_alaqannan_usqan_aqqwim.ogg"
+	volume = 1.25
+}
+music = {
 	name = "alo_eldin_qorghany"
 	file = "alo_eldin_qorghany.ogg"
 	volume = 1.25

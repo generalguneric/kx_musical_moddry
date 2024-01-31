@@ -1867,6 +1867,40 @@ music = {
 }
 
 music = {
+	song = "alo_emanet"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+
+music = {
+	song = "alo_alaqannan_usqan_aqqwim"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALO
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = ALO
+		}
+	}
+}
+
+music = {
 	song = "alo_eldin_qorghany"
 
 	chance = {
