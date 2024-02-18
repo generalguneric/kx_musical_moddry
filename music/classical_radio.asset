@@ -173,4 +173,8 @@ music = {
 	file = "classical_radio/an_die_freude_5.ogg"
 	volume = 1.25
 }
-
+music = {
+	name = "violin_concerto_aminor"
+	file = "classical_radio/violin_concerto_aminor.ogg"
+	volume = 1.25
+}

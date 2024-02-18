@@ -315,3 +315,12 @@ music = {
 		}
 	}
 }
+music = {
+	song = "violin_concerto_aminor"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
