@@ -324,3 +324,21 @@ music = {
 		}
 	}
 }
+music = {
+	song = "stabat_mater"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "geschichten_wienerwald"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}

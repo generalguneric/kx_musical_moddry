@@ -178,3 +178,13 @@ music = {
 	file = "classical_radio/violin_concerto_aminor.ogg"
 	volume = 1.25
 }
+music = {
+	name = "stabat_mater"
+	file = "classical_radio/stabat_mater.ogg"
+	volume = 1.25
+}
+music = {
+	name = "geschichten_wienerwald"
+	file = "classical_radio/geschichten_wienerwald.ogg"
+	volume = 1.25
+}
