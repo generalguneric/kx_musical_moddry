@@ -383,3 +383,13 @@ music = {
 	file = "america_radio/take_me_home_country_roads.ogg"
 	volume = 1.25
 }
+music = {
+	name = "afl_cio_love_song"
+	file = "america_radio/afl_cio_love_song.ogg"
+	volume = 1.25
+}
+music = {
+	name = "teamsters_song"
+	file = "america_radio/teamsters_song.ogg"
+	volume = 1.25
+}
