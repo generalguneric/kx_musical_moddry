@@ -12,7 +12,7 @@ music = {
 # SPECIAL
 
 music = {
-	song = "friendsonotherside"
+	song = "friends_on_the_other_side"
 
 	chance = {
 		modifier = {

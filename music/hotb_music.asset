@@ -1,8 +1,8 @@
 ### SPECIAL
 
 music = {
-	name = "friendsonotherside"
-	file = "america_radio/friends_on_the_other_side.ogg"
+	name = "friends_on_the_other_side"
+	file = "friends_on_the_other_side.ogg"
 	volume = 1.25
 }
 music = {
