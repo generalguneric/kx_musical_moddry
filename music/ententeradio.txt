@@ -647,6 +647,26 @@ music = {
 	}
 }
 music = {
+	song = "ode_to_newfoundland_instrumental"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CAN
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
 	song = "flag_newfoundland"
 
 	chance = {

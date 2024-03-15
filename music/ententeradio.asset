@@ -169,6 +169,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "ode_to_newfoundland_instrumental"
+	file = "ententeradio/ode_to_newfoundland_instrumental.ogg"
+	volume = 1.25
+}
+music = {
 	name = "flag_newfoundland"
 	file = "ententeradio/flag_newfoundland.ogg"
 	volume = 1.25
