@@ -1724,3 +1724,19 @@ music = {
 		}
 	}
 }
+music = {
+	song = "mississippi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 2
+				tag = COR
+		}
+	}
+}
