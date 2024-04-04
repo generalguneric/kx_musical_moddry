@@ -213,3 +213,8 @@ music = {
 	file = "ententeradio/northwest_passage.ogg"
 	volume = 1.25
 }
+music = {
+	name = "house_of_orange"
+	file = "ententeradio/house_of_orange.ogg"
+	volume = 1.25
+}
