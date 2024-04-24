@@ -98,3 +98,13 @@ music = {
 	file = "internationaleradio/with_my_little_stick_blackpool_rock.ogg"
 	volume = 1.25
 }
+music = {
+	name = "freie_deutsche_jugend"
+	file = "internationaleradio/freie_deutsche_jugend.ogg"
+	volume = 1.25
+}
+music = {
+	name = "der_heimliche_aufmarsch"
+	file = "internationaleradio/der_heimliche_aufmarsch.ogg"
+	volume = 1.25
+}

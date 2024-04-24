@@ -184,3 +184,63 @@ music = {
 		}
 	}
 }
+music = {
+	song = "kaiser_wilhelm_siegesmarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}
+music = {
+	song = "wir_wollen_unsern_alten_kaiser_wilhelm_wiederhaben"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}
+music = {
+	song = "wo_tausend_krieger_fielen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GER
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GER
+			}		
+		}
+	}
+}
