@@ -342,3 +342,21 @@ music = {
 		}
 	}
 }
+music = {
+	song = "ballade_noone_gminor"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "prelude_csharp_minor"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}

@@ -188,3 +188,13 @@ music = {
 	file = "classical_radio/geschichten_wienerwald.ogg"
 	volume = 1.25
 }
+music = {
+	name = "ballade_noone_gminor"
+	file = "classical_radio/ballade_noone_gminor.ogg"
+	volume = 1.25
+}
+music = {
+	name = "prelude_csharp_minor"
+	file = "classical_radio/prelude_csharp_minor.ogg"
+	volume = 1.25
+}
