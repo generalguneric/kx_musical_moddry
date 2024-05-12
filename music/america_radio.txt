@@ -1740,3 +1740,19 @@ music = {
 		}
 	}
 }
+music = {
+	song = "john_browns_body"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CSA
+		}
+	}
+}

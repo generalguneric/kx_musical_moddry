@@ -398,3 +398,8 @@ music = {
 	file = "america_radio/mississippi.ogg"
 	volume = 1.25
 }
+music = {
+	name = "john_browns_body"
+	file = "america_radio/john_browns_body.ogg"
+	volume = 1.25
+}

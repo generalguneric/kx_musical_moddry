@@ -117,8 +117,8 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "snow"
-	file = "christmas/snow.ogg"
+	name = "let_it_snow"
+	file = "christmas/let_it_snow.ogg"
 	volume = 1.25
 }
 music = {
@@ -167,8 +167,8 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "song"
-	file = "christmas/song.ogg"
+	name = "christmas_song"
+	file = "christmas/christmas_song.ogg"
 	volume = 1.25
 }
 music = {
@@ -182,8 +182,8 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "sound"
-	file = "christmas/sound.ogg"
+	name = "sound_christmas"
+	file = "christmas/sound_christmas.ogg"
 	volume = 1.25
 }
 music = {
