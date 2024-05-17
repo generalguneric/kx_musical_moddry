@@ -737,4 +737,29 @@ music = {
 	}
 }
 
+music = {
+	song = "angola_e_nossa"
 
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+				tag = POR
+				tag = ANG
+				tag = MZB
+				tag = CVG
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = POR
+				tag = ANG
+				tag = MZB
+				tag = CVG
+			}
+		}
+	}
+}

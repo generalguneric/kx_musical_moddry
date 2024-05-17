@@ -48,3 +48,18 @@ music = {
 	file = "reichspaktradio/schwarzer_haufen_folk.ogg"
 	volume = 1.25
 }
+music = {
+	name = "kaiser_wilhelm_siegesmarsch"
+	file = "reichspaktradio/kaiser_wilhelm_siegesmarsch.ogg"
+	volume = 1.25
+}
+music = {
+	name = "wir_wollen_unsern_alten_kaiser_wilhelm_wiederhaben"
+	file = "reichspaktradio/wir_wollen_unsern_alten_kaiser_wilhelm_wiederhaben.ogg"
+	volume = 1.25
+}
+music = {
+	name = "wo_tausend_krieger_fielen"
+	file = "reichspaktradio/wo_tausend_krieger_fielen.ogg"
+	volume = 1.25
+}

@@ -402,3 +402,41 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "freie_deutsche_jugend"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GRU
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GRU
+			}
+		}
+	}
+}
+
+music = {
+	song = "der_heimliche_aufmarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GRU
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GRU
+			}
+		}
+	}
+}

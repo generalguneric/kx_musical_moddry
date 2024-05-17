@@ -1692,3 +1692,67 @@ music = {
 		}
 	}
 }
+music = {
+	song = "afl_cio_love_song"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CSA
+		}
+	}
+}
+music = {
+	song = "teamsters_song"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CSA
+		}
+	}
+}
+music = {
+	song = "mississippi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 2
+				tag = COR
+		}
+	}
+}
+music = {
+	song = "john_browns_body"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CSA
+		}
+	}
+}

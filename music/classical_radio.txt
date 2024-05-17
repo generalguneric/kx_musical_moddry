@@ -315,3 +315,48 @@ music = {
 		}
 	}
 }
+music = {
+	song = "violin_concerto_aminor"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "stabat_mater"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "geschichten_wienerwald"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "ballade_noone_gminor"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
+music = {
+	song = "prelude_csharp_minor"
+
+	chance = {
+		modifier = {
+			factor = 0.25
+		}
+	}
+}
