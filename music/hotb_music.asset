@@ -110,6 +110,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "ballad_of_the_alamo"
+	file = "ballad_of_the_alamo.ogg"
+	volume = 1.25
+}
+music = {
 	name = "mexican_anthem"
 	file = "mexican_anthem.ogg"
 	volume = 1.25

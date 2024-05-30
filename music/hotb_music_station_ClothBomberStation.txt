@@ -318,6 +318,31 @@ music = {
 }
 
 music = {
+	song = "ballad_of_the_alamo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MEX
+				tag = YUC
+				tag = TXS
+				tag = ARZ
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MEX
+				tag = ARZ
+				tag = YUC
+				tag = TXS
+			}
+		}
+	}
+}
+
+music = {
 	song = "mexican_anthem"
 
 	chance = {
