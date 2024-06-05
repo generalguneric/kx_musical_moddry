@@ -559,3 +559,8 @@ music = {
 	file = "guerra_la_burguesia.ogg"
 	volume = 1.25
 }
+music = {
+	name = "going_forth_carrying_weapon"
+	file = "going_forth_carrying_weapon.ogg"
+	volume = 1.25
+}

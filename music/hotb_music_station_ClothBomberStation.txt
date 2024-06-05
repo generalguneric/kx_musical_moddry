@@ -2310,3 +2310,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "going_forth_carrying_weapon"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = EGY
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = EGY
+		}
+	}
+}
