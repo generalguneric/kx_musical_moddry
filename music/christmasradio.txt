@@ -482,7 +482,7 @@ music = {
 	}
 }
 music = {
-	song = "let_it_snow"
+	song = "let_it_snow_song"
 
 	chance = {
 		modifier = {
