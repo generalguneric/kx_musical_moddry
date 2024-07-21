@@ -377,24 +377,6 @@ music = {
 	}
 }
 music = {
-	song = "monsieur_delbee"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 2
-			OR = {
-				tag = NFA
-			}
-		}
-	}
-}
-music = {
 	song = "au_31_du_mois_daout"
 
 	chance = {
