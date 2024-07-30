@@ -1756,3 +1756,363 @@ music = {
 		}
 	}
 }
+music = {
+	song = "san_antonio"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "beautiful_texas"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "tuckaway"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "confess"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "whosorrynow"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "yessuh"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "pappykiss"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "coquette"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "wishin_song"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "bearcat"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "dreamofyou"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "cowboyssweetheart"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "gotdablues"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "hangoverblues"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "chinatown"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "passthebuscits"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "oldyazhoo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+music = {
+	song = "lovenothinbut"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}

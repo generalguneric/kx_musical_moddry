@@ -403,3 +403,93 @@ music = {
 	file = "america_radio/john_browns_body.ogg"
 	volume = 1.25
 }
+music = {
+	name = "san_antonio"
+	file = "america_radio/san_antonio.ogg"
+	volume = 1.25
+}
+music = {
+	name = "beautiful_texas"
+	file = "america_radio/beautiful_texas.ogg"
+	volume = 1.25
+}
+music = {
+	name = "tuckaway"
+	file = "america_radio/tuckaway.ogg"
+	volume = 1.25
+}
+music = {
+	name = "confess"
+	file = "america_radio/confess.ogg"
+	volume = 1.25
+}
+music = {
+	name = "whosorrynow"
+	file = "america_radio/whosorrynow.ogg"
+	volume = 1.25
+}
+music = {
+	name = "yessuh"
+	file = "america_radio/yessuh.ogg"
+	volume = 1.25
+}
+music = {
+	name = "pappykiss"
+	file = "america_radio/pappykiss.ogg"
+	volume = 1.25
+}
+music = {
+	name = "coquette"
+	file = "america_radio/coquette.ogg"
+	volume = 1.25
+}
+music = {
+	name = "wishin_song"
+	file = "america_radio/wishin_song.ogg"
+	volume = 1.25
+}
+music = {
+	name = "bearcat"
+	file = "america_radio/bearcat.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dreamofyou"
+	file = "america_radio/dreamofyou.ogg"
+	volume = 1.25
+}
+music = {
+	name = "cowboyssweetheart"
+	file = "america_radio/cowboyssweetheart.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gotdablues"
+	file = "america_radio/gotdablues.ogg"
+	volume = 1.25
+}
+music = {
+	name = "hangoverblues"
+	file = "america_radio/hangoverblues.ogg"
+	volume = 1.25
+}
+music = {
+	name = "chinatown"
+	file = "america_radio/chinatown.ogg"
+	volume = 1.25
+}
+music = {
+	name = "passthebuscits"
+	file = "america_radio/passthebuscits.ogg"
+	volume = 1.25
+}
+music = {
+	name = "oldyazhoo"
+	file = "america_radio/oldyazhoo.ogg"
+	volume = 1.25
+}
+music = {
+	name = "lovenothinbut"
+	file = "america_radio/lovenothinbut.ogg"
+	volume = 1.25
+}
