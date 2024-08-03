@@ -189,8 +189,58 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "coaker"
-	file = "ententeradio/coaker.ogg"
+	name = "old_polina"
+	file = "ententeradio/old_polina.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kelligrews_soiree"
+	file = "ententeradio/kelligrews_soiree.ogg"
+	volume = 1.25
+}
+music = {
+	name = "shes_like_the_swallow"
+	file = "ententeradio/shes_like_the_swallow.ogg"
+	volume = 1.25
+}
+music = {
+	name = "squid_jiggin_ground"
+	file = "ententeradio/squid_jiggin_ground.ogg"
+	volume = 1.25
+}
+music = {
+	name = "jack_was_every_inch_a_sailor"
+	file = "ententeradio/jack_was_every_inch_a_sailor.ogg"
+	volume = 1.25
+}
+music = {
+	name = "tickle_cove_pond"
+	file = "ententeradio/tickle_cove_pond.ogg"
+	volume = 1.25
+}
+music = {
+	name = "now_im_sixty_four"
+	file = "ententeradio/now_im_sixty_four.ogg"
+	volume = 1.25
+}
+music = {
+	name = "hard_hard_times"
+	file = "ententeradio/hard_hard_times.ogg"
+	volume = 1.25
+}
+music = {
+	name = "lukeys_boat"
+	file = "ententeradio/lukeys_boat.ogg"
+	volume = 1.25
+}
+music = {
+	name = "no_more_fish_no_fishermen"
+	file = "ententeradio/no_more_fish_no_fishermen.ogg"
+	volume = 1.25
+}
+music = {
+	name = "well_rant_and_well_roar"
+	file = "ententeradio/well_rant_and_well_roar.ogg"
 	volume = 1.25
 }
 music = {

@@ -769,6 +769,204 @@ music = {
 	}
 }
 music = {
+	song = "old_polina"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "kelligrews_soiree"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "shes_like_the_swallow"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "squid_jiggin_ground"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "jack_was_every_inch_a_sailor"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "tickle_cove_pond"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "now_im_sixty_four"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "hard_hard_times"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "lukeys_boat"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "no_more_fish_no_fishermen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "well_rant_and_well_roar"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
 	song = "the_idiot"
 
 	chance = {
