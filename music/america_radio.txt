@@ -113,6 +113,22 @@ music = {
 	}
 }
 music = {
+	song = "heebiejeebies"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BBR
+		}
+	}
+}
+music = {
 	song = "go_down_moses"
 
 	chance = {
