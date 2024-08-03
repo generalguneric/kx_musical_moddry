@@ -39,6 +39,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "go_down_moses"
+	file = "america_radio/go_down_moses.ogg"
+	volume = 1.25
+}
+music = {
 	name = "hellonthewabashfifeanddrum"
 	file = "america_radio/hellonthewabashfifeanddrum.ogg"
 	volume = 1.25

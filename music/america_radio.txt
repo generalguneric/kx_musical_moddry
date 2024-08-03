@@ -113,7 +113,7 @@ music = {
 	}
 }
 music = {
-	song = "heebiejeebies"
+	song = "go_down_moses"
 
 	chance = {
 		modifier = {
