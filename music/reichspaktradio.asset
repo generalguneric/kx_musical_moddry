@@ -63,3 +63,8 @@ music = {
 	file = "reichspaktradio/wo_tausend_krieger_fielen.ogg"
 	volume = 1.25
 }
+music = {
+	name = "ceddin_deden_german"
+	file = "reichspaktradio/ceddin_deden_german.ogg"
+	volume = 1.25
+}

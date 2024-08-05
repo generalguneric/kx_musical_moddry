@@ -569,3 +569,8 @@ music = {
 	file = "yma_o_hyd.ogg"
 	volume = 1.25
 }
+music = {
+	name = "nikriz_pesrev"
+	file = "nikriz_pesrev.ogg"
+	volume = 1.25
+}

@@ -71,16 +71,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
 			}
 		}
 		modifier = {
 			factor = 2
-			OR = {
-				tag = GER
-			}		
+			tag = GER		
 		}
 	}
 }
@@ -91,16 +87,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
 			}
 		}
 		modifier = {
 			factor = 2
-			OR = {
-				tag = GER
-			}		
+			tag = GER		
 		}
 	}
 }
@@ -111,16 +103,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
 			}
 		}
 		modifier = {
 			factor = 2
-			OR = {
-				tag = GER
-			}		
+			tag = GER		
 		}
 	}
 }
@@ -131,16 +119,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
 			}
 		}
 		modifier = {
 			factor = 2
-			OR = {
-				tag = GER
-			}		
+			tag = GER		
 		}
 	}
 }
@@ -151,16 +135,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
 			}
 		}
 		modifier = {
 			factor = 2
-			OR = {
-				tag = GER
-			}		
+			tag = GER		
 		}
 	}
 }
@@ -171,16 +151,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
 			}
 		}
 		modifier = {
 			factor = 2
-			OR = {
-				tag = GER
-			}		
+			tag = GER		
 		}
 	}
 }
@@ -191,16 +167,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
 			}
 		}
 		modifier = {
 			factor = 2
-			OR = {
-				tag = GER
-			}		
+			tag = GER		
 		}
 	}
 }
@@ -211,16 +183,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
 			}
 		}
 		modifier = {
 			factor = 2
-			OR = {
-				tag = GER
-			}		
+			tag = GER	
 		}
 	}
 }
@@ -231,16 +199,32 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = GER
-				}
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ceddin_deden_german"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+				tag = TUR
 			}
 		}
 		modifier = {
 			factor = 2
 			OR = {
 				tag = GER
-			}		
+				tag = TUR
+			}
 		}
 	}
 }
