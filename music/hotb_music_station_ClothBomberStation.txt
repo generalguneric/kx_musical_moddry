@@ -2327,3 +2327,26 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "yma_o_hyd"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = IRE
+				tag = SCT
+				tag = WAL
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = IRE
+				tag = SCT
+				tag = WAL
+			}
+		}
+	}
+}

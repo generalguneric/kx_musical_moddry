@@ -564,3 +564,8 @@ music = {
 	file = "going_forth_carrying_weapon.ogg"
 	volume = 1.25
 }
+music = {
+	name = "yma_o_hyd"
+	file = "yma_o_hyd.ogg"
+	volume = 1.25
+}
