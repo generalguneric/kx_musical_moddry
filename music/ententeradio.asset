@@ -99,6 +99,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "monsieur_delbee"
+	file = "ententeradio/monsieur_delbee.ogg"
+	volume = 1.25
+}
+music = {
 	name = "au_31_du_mois_daout"
 	file = "ententeradio/fra_au_31_du_mois_daout.ogg"
 	volume = 1.25
