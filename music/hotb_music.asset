@@ -480,36 +480,6 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "maori_battalion_march_victory"
-	file = "maori_battalion_march_victory.ogg"
-	volume = 1.25
-}
-music = {
-	name = "kingitanga"
-	file = "kingitanga.ogg"
-	volume = 1.25
-}
-music = {
-	name = "poi_e"
-	file = "poi_e.ogg"
-	volume = 1.25
-}
-music = {
-	name = "pipiwharauroa_red_lips"
-	file = "pipiwharauroa_red_lips.ogg"
-	volume = 1.25
-}
-music = {
-	name = "taranaki_patere"
-	file = "taranaki_patere.ogg"
-	volume = 1.25
-}
-music = {
-	name = "kotahitanga_union"
-	file = "kotahitanga_union.ogg"
-	volume = 1.25
-}
-music = {
 	name = "beginning"
 	file = "beginning.ogg"
 	volume = 1.25

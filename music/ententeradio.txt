@@ -1,26 +1,6 @@
 music_station = "ententeradio"
 
 music = {
-	song = "ast_along_the_road_to_gundagai"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = AST
-				}
-			}
-		}
-		modifier = {
-			factor = 2
-			OR = {
-				tag = AST
-			}		
-		}
-	}
-}
-music = {
 	song = "well_never_let_the_old_flag_fall"
 
 	chance = {
@@ -1045,6 +1025,174 @@ music = {
 				tag = NFL
 				tag = IRE
 				tag = ULS
+			}
+		}
+	}
+}
+
+music = {
+	song = "maori_battalion_march_victory"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "kingitanga"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "poi_e"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "pipiwharauroa_red_lips"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "taranaki_patere"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "kotahitanga_union"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "ast_along_the_road_to_gundagai"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "wild_colonial_boy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
 			}
 		}
 	}

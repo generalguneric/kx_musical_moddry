@@ -1,9 +1,4 @@
 music = {
-	name = "ast_along_the_road_to_gundagai"
-	file = "ententeradio/ast_along_the_road_to_gundagai.ogg"
-	volume = 1.25
-}
-music = {
 	name = "well_never_let_the_old_flag_fall"
 	file = "ententeradio/well_never_let_the_old_flag_fall.ogg"
 	volume = 1.25
@@ -271,5 +266,45 @@ music = {
 music = {
 	name = "house_of_orange"
 	file = "ententeradio/house_of_orange.ogg"
+	volume = 1.25
+}
+music = {
+	name = "maori_battalion_march_victory"
+	file = "ententeradio/maori_battalion_march_victory.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kingitanga"
+	file = "ententeradio/kingitanga.ogg"
+	volume = 1.25
+}
+music = {
+	name = "poi_e"
+	file = "ententeradio/poi_e.ogg"
+	volume = 1.25
+}
+music = {
+	name = "pipiwharauroa_red_lips"
+	file = "ententeradio/pipiwharauroa_red_lips.ogg"
+	volume = 1.25
+}
+music = {
+	name = "taranaki_patere"
+	file = "ententeradio/taranaki_patere.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kotahitanga_union"
+	file = "ententeradio/kotahitanga_union.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ast_along_the_road_to_gundagai"
+	file = "ententeradio/ast_along_the_road_to_gundagai.ogg"
+	volume = 1.25
+}
+music = {
+	name = "wild_colonial_boy"
+	file = "ententeradio/wild_colonial_boy.ogg"
 	volume = 1.25
 }
