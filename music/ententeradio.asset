@@ -308,3 +308,143 @@ music = {
 	file = "ententeradio/wild_colonial_boy.ogg"
 	volume = 1.25
 }
+music = {
+	name = "beneath_southern_cross"
+	file = "ententeradio/beneath_southern_cross.ogg"
+	volume = 1.25
+}
+music = {
+	name = "bullockys_ball"
+	file = "ententeradio/bullockys_ball.ogg"
+	volume = 1.25
+}
+music = {
+	name = "bump_me_into_parliament"
+	file = "ententeradio/bump_me_into_parliament.ogg"
+	volume = 1.25
+}
+music = {
+	name = "commonwealth_australia_song_federation"
+	file = "ententeradio/commonwealth_australia_song_federation.ogg"
+	volume = 1.25
+}
+music = {
+	name = "commonwealth_australia_sunshine_state"
+	file = "ententeradio/commonwealth_australia_sunshine_state.ogg"
+	volume = 1.25
+}
+music = {
+	name = "drovers_dream"
+	file = "ententeradio/drovers_dream.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dying_stockman"
+	file = "ententeradio/dying_stockman.ogg"
+	volume = 1.25
+}
+music = {
+	name = "federal_two_ring_circus"
+	file = "ententeradio/federal_two_ring_circus.ogg"
+	volume = 1.25
+}
+music = {
+	name = "fighting_kaiser"
+	file = "ententeradio/fighting_kaiser.ogg"
+	volume = 1.25
+}
+music = {
+	name = "going_back_again_yarrawonga"
+	file = "ententeradio/going_back_again_yarrawonga.ogg"
+	volume = 1.25
+}
+music = {
+	name = "great_southern_land"
+	file = "ententeradio/great_southern_land.ogg"
+	volume = 1.25
+}
+music = {
+	name = "hanging_old_barbed_wire"
+	file = "ententeradio/hanging_old_barbed_wire.ogg"
+	volume = 1.25
+}
+music = {
+	name = "i_am_australian_special_farewell_performance"
+	file = "ententeradio/i_am_australian_special_farewell_performance.ogg"
+	volume = 1.25
+}
+music = {
+	name = "i_was_only_19"
+	file = "ententeradio/i_was_only_19.ogg"
+	volume = 1.25
+}
+music = {
+	name = "lachlan_tigers"
+	file = "ententeradio/lachlan_tigers.ogg"
+	volume = 1.25
+}
+music = {
+	name = "liberal_values"
+	file = "ententeradio/liberal_values.ogg"
+	volume = 1.25
+}
+music = {
+	name = "long_way_riverina"
+	file = "ententeradio/long_way_riverina.ogg"
+	volume = 1.25
+}
+music = {
+	name = "mademoiselle_from_armentiers"
+	file = "ententeradio/mademoiselle_from_armentiers.ogg"
+	volume = 1.25
+}
+music = {
+	name = "moreton_bay"
+	file = "ententeradio/moreton_bay.ogg"
+	volume = 1.25
+}
+music = {
+	name = "overlander"
+	file = "ententeradio/overlander.ogg"
+	volume = 1.25
+}
+music = {
+	name = "packer_scab"
+	file = "ententeradio/packer_scab.ogg"
+	volume = 1.25
+}
+music = {
+	name = "sounds_then_this_australia"
+	file = "ententeradio/sounds_then_this_australia.ogg"
+	volume = 1.25
+}
+music = {
+	name = "treaty"
+	file = "ententeradio/treaty.ogg"
+	volume = 1.25
+}
+music = {
+	name = "union_boy"
+	file = "ententeradio/union_boy.ogg"
+	volume = 1.25
+}
+music = {
+	name = "waltzing_matilda"
+	file = "ententeradio/waltzing_matilda.ogg"
+	volume = 1.25
+}
+music = {
+	name = "when_you_give_that_tuppence_back_charlie_dear"
+	file = "ententeradio/when_you_give_that_tuppence_back_charlie_dear.ogg"
+	volume = 1.25
+}
+music = {
+	name = "where_ya_gonna_run_to"
+	file = "ententeradio/where_ya_gonna_run_to.ogg"
+	volume = 1.25
+}
+music = {
+	name = "win_war_party"
+	file = "ententeradio/win_war_party.ogg"
+	volume = 1.25
+}

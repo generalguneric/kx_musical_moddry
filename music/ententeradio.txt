@@ -1197,3 +1197,591 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "beneath_southern_cross"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "bullockys_ball"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "bump_me_into_parliament"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "commonwealth_australia_song_federation"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "commonwealth_australia_sunshine_state"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "drovers_dream"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "dying_stockman"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "federal_two_ring_circus"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "fighting_kaiser"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "going_back_again_yarrawonga"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "great_southern_land"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "hanging_old_barbed_wire"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "i_am_australian_special_farewell_performance"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "i_was_only_19"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "lachlan_tigers"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "liberal_values"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "long_way_riverina"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "mademoiselle_from_armentiers"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "moreton_bay"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "overlander"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "packer_scab"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "sounds_then_this_australia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "treaty"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "union_boy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "waltzing_matilda"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "when_you_give_that_tuppence_back_charlie_dear"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "where_ya_gonna_run_to"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
+
+music = {
+	song = "win_war_party"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
