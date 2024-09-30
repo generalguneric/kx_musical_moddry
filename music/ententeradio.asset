@@ -448,3 +448,8 @@ music = {
 	file = "ententeradio/win_war_party.ogg"
 	volume = 1.25
 }
+music = {
+	name = "down_under"
+	file = "ententeradio/down_under.ogg"
+	volume = 1.25
+}

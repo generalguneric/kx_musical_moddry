@@ -1785,3 +1785,24 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "down_under"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NZL
+				tag = AST
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+			}
+		}
+	}
+}
