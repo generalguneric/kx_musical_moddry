@@ -203,3 +203,87 @@ music = {
 	file = "africaaddio/angola_e_nossa.ogg"
 	volume = 1.25
 }
+
+music = {
+	name = "affaire_kitikwala"
+	file = "africaaddio/affaire_kitikwala.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "africa_bola_ngombi"
+	file = "africaaddio/africa_bola_ngombi.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "africa_boogaloo"
+	file = "africaaddio/africa_boogaloo.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "bokilo_mabe"
+	file = "africaaddio/bokilo_mabe.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "independance_cha_cha"
+	file = "africaaddio/independance_cha_cha.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "kinshasa"
+	file = "africaaddio/kinshasa.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "lala_by"
+	file = "africaaddio/lala_by.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "monoko_ya_mboka"
+	file = "africaaddio/monoko_ya_mboka.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "monsieur_malonga"
+	file = "africaaddio/monsieur_malonga.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "naweli_boboto"
+	file = "africaaddio/naweli_boboto.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "parafifi"
+	file = "africaaddio/parafifi.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "pitie"
+	file = "africaaddio/pitie.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "table_ronde"
+	file = "africaaddio/table_ronde.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "twist_a_leopoldville"
+	file = "africaaddio/twist_a_leopoldville.ogg"
+	volume = 1.25
+}

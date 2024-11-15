@@ -763,3 +763,493 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "affaire_kitikwala"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "africa_bola_ngombi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "africa_boogaloo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "bokilo_mabe"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "independance_cha_cha"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "kinshasa"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "lala_by"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "monoko_ya_mboka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "monsieur_malonga"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "naweli_boboto"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "parafifi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "pitie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "table_ronde"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
+
+music = {
+	song = "twist_a_leopoldville"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
