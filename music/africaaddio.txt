@@ -1253,3 +1253,38 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "succes_african_jazz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = MAF
+					tag = COG
+					tag = UMN
+					tag = LPD
+					tag = MSF
+					tag = KIV
+					tag = KOG
+					tag = TKE
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MAF
+				tag = COG
+				tag = UMN
+				tag = LPD
+				tag = MSF
+				tag = KIV
+				tag = KOG
+				tag = TKE
+			}		
+		}
+	}
+}
