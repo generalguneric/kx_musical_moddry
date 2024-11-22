@@ -2266,3 +2266,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "chinatown_wars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LEC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = LEC
+		}
+	}
+}
