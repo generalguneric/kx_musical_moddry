@@ -904,6 +904,36 @@ music = {
 }
 
 music = {
+	song = "krummavsur_in_extremo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+			}
+		}
+	}
+}
+
+music = {
 	song = "rose_rose_i_love_you"
 
 	chance = {

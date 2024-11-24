@@ -235,6 +235,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "krummavsur_in_extremo"
+	file = "krummavsur_in_extremo.ogg"
+	volume = 1.25
+}
+music = {
 	name = "moldau"
 	file = "moldau.ogg"
 	volume = 1.25
