@@ -2132,3 +2132,19 @@ music = {
 		}
 	}
 }
+music = {
+	song = "heres_to_you"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CSA
+		}
+	}
+}

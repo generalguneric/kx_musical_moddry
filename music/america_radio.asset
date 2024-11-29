@@ -498,3 +498,8 @@ music = {
 	file = "america_radio/lovenothinbut.ogg"
 	volume = 1.25
 }
+music = {
+	name = "heres_to_you"
+	file = "america_radio/heres_to_you.ogg"
+	volume = 1.25
+}
