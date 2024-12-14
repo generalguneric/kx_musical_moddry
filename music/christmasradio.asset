@@ -220,4 +220,13 @@ music = {
 	name = "holynight"
 	file = "christmas/holynight.ogg"
 	volume = 1.25
+}music = {
+	name = "bingwhite"
+	file = "christmas/bingwhite.ogg"
+	volume = 1.25
+}
+music = {
+	name = "redarmywhite"
+	file = "christmas/redarmywhite.ogg"
+	volume = 1.25
 }

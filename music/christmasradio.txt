@@ -921,4 +921,44 @@ music = {
 			}		
 		}
 	}
+}music = {
+	song = "bingwhite"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}music = {
+	song = "redarmywhite"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
 }
