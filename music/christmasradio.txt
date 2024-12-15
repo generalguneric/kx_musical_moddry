@@ -921,7 +921,8 @@ music = {
 			}		
 		}
 	}
-}music = {
+}
+music = {
 	song = "bingwhite"
 
 	chance = {
@@ -941,8 +942,30 @@ music = {
 			}		
 		}
 	}
-}music = {
+}
+music = {
 	song = "redarmywhite"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CHR
+
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = CHR
+			}		
+		}
+	}
+}
+music = {
+	song = "homeforchristmas"
 
 	chance = {
 		modifier = {
