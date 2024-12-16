@@ -503,3 +503,13 @@ music = {
 	file = "america_radio/heres_to_you.ogg"
 	volume = 1.25
 }
+music = {
+	name = "godfather_theme"
+	file = "america_radio/godfather_theme.ogg"
+	volume = 1.25
+}
+music = {
+	name = "godfather_waltz"
+	file = "america_radio/godfather_waltz.ogg"
+	volume = 1.25
+}

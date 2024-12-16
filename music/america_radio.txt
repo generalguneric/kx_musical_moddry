@@ -2148,3 +2148,35 @@ music = {
 		}
 	}
 }
+music = {
+	song = "godfather_theme"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NYC
+		}
+	}
+}
+music = {
+	song = "godfather_waltz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NYC
+		}
+	}
+}
