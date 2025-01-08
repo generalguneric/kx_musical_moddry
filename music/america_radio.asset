@@ -509,7 +509,17 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "godfather_waltz"
-	file = "america_radio/godfather_waltz.ogg"
+	name = "close_up_booze_shop"
+	file = "america_radio/close_up_booze_shop.ogg"
+	volume = 1.25
+}
+music = {
+	name = "queer_people"
+	file = "america_radio/queer_people.ogg"
+	volume = 1.25
+}
+music = {
+	name = "toast_to_prohibition"
+	file = "america_radio/toast_to_prohibition.ogg"
 	volume = 1.25
 }

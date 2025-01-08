@@ -2180,3 +2180,51 @@ music = {
 		}
 	}
 }
+music = {
+	song = "close_up_booze_shop"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NEE
+		}
+	}
+}
+music = {
+	song = "queer_people"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NEE
+		}
+	}
+}
+music = {
+	song = "toast_to_prohibition"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NEE
+		}
+	}
+}
