@@ -2313,3 +2313,71 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "a_better_tomorrow"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LEC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = LEC
+		}
+	}
+}
+
+music = {
+	song = "dance_of_the_yi_people"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LEC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = LEC
+		}
+	}
+}
+
+music = {
+	song = "listen_to_me"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LEC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = LEC
+		}
+	}
+}
+
+music = {
+	song = "the_old_tea_house"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LEC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = LEC
+		}
+	}
+}

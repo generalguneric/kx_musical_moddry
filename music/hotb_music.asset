@@ -554,3 +554,23 @@ music = {
 	file = "chinatown_wars.ogg"
 	volume = 1.25
 }
+music = {
+	name = "a_better_tomorrow"
+	file = "a_better_tomorrow.ogg"
+	volume = 1.25
+}
+music = {
+	name = "dance_of_the_yi_people"
+	file = "dance_of_the_yi_people.ogg"
+	volume = 1.25
+}
+music = {
+	name = "listen_to_me"
+	file = "listen_to_me.ogg"
+	volume = 1.25
+}
+music = {
+	name = "the_old_tea_house"
+	file = "the_old_tea_house.ogg"
+	volume = 1.25
+}
