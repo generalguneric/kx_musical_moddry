@@ -15,7 +15,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = KEN
 				tag = KIK
@@ -39,7 +39,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = ZIM
@@ -63,7 +63,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = CIV
@@ -86,7 +86,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = NMB
@@ -109,7 +109,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = ZIM
@@ -131,7 +131,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = MAG
@@ -158,7 +158,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -189,7 +189,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -216,7 +216,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = ZIM
@@ -239,7 +239,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = ZIM
@@ -262,7 +262,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = ZIM
@@ -285,7 +285,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = ZIM
@@ -309,7 +309,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = CIV
@@ -334,7 +334,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = KIV
 				tag = MSF
@@ -358,7 +358,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = ZIM
@@ -382,7 +382,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = SFR
@@ -406,7 +406,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = CIV
@@ -429,7 +429,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SAF
 				tag = CCO
@@ -454,7 +454,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = CIV
@@ -481,7 +481,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = CIV
@@ -508,7 +508,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = CIV
@@ -533,7 +533,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SOM
 				tag = DJI
@@ -556,7 +556,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = SOM
 				tag = DJI
@@ -579,7 +579,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MSF
 				tag = UMN
@@ -603,7 +603,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MSF
 				tag = UMN
@@ -624,7 +624,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = LIB
 		}
 	}
@@ -640,7 +640,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = LIB
 		}
 	}
@@ -656,7 +656,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = LIB
 		}
 	}
@@ -672,7 +672,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = LIB
 		}
 	}
@@ -689,7 +689,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = ZIM
 			tag = CIV
 		}
@@ -706,7 +706,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = CEA
 		}
 	}
@@ -727,7 +727,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NGR
 				tag = HAU
@@ -753,7 +753,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = POR
 				tag = ANG
@@ -784,7 +784,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -819,7 +819,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -854,7 +854,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -889,7 +889,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -924,7 +924,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -959,7 +959,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -994,7 +994,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -1029,7 +1029,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -1064,7 +1064,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -1099,7 +1099,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -1134,7 +1134,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -1169,7 +1169,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -1204,7 +1204,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -1239,7 +1239,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG
@@ -1274,7 +1274,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = MAF
 				tag = COG

@@ -15,7 +15,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = SCT
@@ -38,7 +38,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NEE
 				tag = CAN
@@ -61,7 +61,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NEE
 				tag = CAN
@@ -81,7 +81,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = NFA
 		}
 	}
@@ -97,7 +97,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = NFA
 		}
 	}
@@ -114,7 +114,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -134,7 +134,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -153,7 +153,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = NFA
 		}
 	}
@@ -169,7 +169,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 				tag = NFA
 		}
 	}
@@ -185,7 +185,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = NFA
 		}
 	}
@@ -201,7 +201,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = NFA
 		}
 	}
@@ -217,7 +217,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = NFA
 		}
 	}
@@ -234,7 +234,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -254,7 +254,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -274,7 +274,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -294,7 +294,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = CAN
@@ -313,7 +313,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 			}
@@ -331,7 +331,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 			}
@@ -349,7 +349,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 			}
@@ -367,7 +367,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 			}
@@ -386,7 +386,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -406,7 +406,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -426,7 +426,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -446,7 +446,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -466,7 +466,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFA
 				tag = FRA
@@ -485,7 +485,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 			}
@@ -503,7 +503,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 			}
@@ -521,7 +521,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 			}
@@ -539,7 +539,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 			}
@@ -558,7 +558,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -578,7 +578,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -598,7 +598,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -618,7 +618,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -638,7 +638,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -658,7 +658,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -678,7 +678,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -698,7 +698,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -718,7 +718,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -738,7 +738,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -758,7 +758,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -777,7 +777,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -795,7 +795,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -813,7 +813,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -831,7 +831,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -849,7 +849,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -867,7 +867,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -885,7 +885,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -903,7 +903,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -921,7 +921,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -939,7 +939,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -957,7 +957,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NFL
 			}
@@ -976,7 +976,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -996,7 +996,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -1019,7 +1019,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CAN
 				tag = NFL
@@ -1042,7 +1042,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1063,7 +1063,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1084,7 +1084,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1105,7 +1105,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1126,7 +1126,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1147,7 +1147,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1168,7 +1168,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1189,7 +1189,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1210,7 +1210,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1231,7 +1231,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1252,7 +1252,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1273,7 +1273,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1294,7 +1294,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1315,7 +1315,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1336,7 +1336,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1357,7 +1357,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1378,7 +1378,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1399,7 +1399,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1420,7 +1420,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1441,7 +1441,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1462,7 +1462,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1483,7 +1483,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1504,7 +1504,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1525,7 +1525,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1546,7 +1546,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1567,7 +1567,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1588,7 +1588,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1609,7 +1609,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1630,7 +1630,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1651,7 +1651,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1672,7 +1672,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1693,7 +1693,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1714,7 +1714,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1735,7 +1735,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1756,7 +1756,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1777,7 +1777,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST
@@ -1798,7 +1798,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = NZL
 				tag = AST

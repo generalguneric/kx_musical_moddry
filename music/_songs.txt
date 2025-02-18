@@ -5,7 +5,7 @@ music = {
 	song = "main_vanilla"
 	chance = {
 		modifier = {
-			factor = 0.5
+			factor = 5
 		}
 	}
 }
@@ -16,7 +16,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 10
 
 			has_war = no
 		}
@@ -28,7 +28,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 10
 
 			has_war = no
 		}
@@ -40,7 +40,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 10
 
 			has_war = no
 		}
@@ -52,7 +52,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = no
 			has_democratic_government = yes
@@ -65,7 +65,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = no
 			has_democratic_government = yes
@@ -78,7 +78,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = no
 			has_dictatorship_government = yes
@@ -91,7 +91,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = no
 			has_dictatorship_government = yes
@@ -106,7 +106,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 10
 
 			has_war = yes
 		}
@@ -118,7 +118,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 10
 
 			has_war = yes
 		}
@@ -130,7 +130,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_dictatorship_government = yes
@@ -143,7 +143,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_dictatorship_government = yes
@@ -156,7 +156,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_dictatorship_government = yes
@@ -169,7 +169,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_dictatorship_government = yes
@@ -182,7 +182,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_democratic_government = yes
@@ -195,7 +195,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_democratic_government = yes
@@ -208,7 +208,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = no
 			has_socialist_government = yes
@@ -221,7 +221,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = no
 			has_socialist_government = yes
@@ -234,7 +234,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = no
 			has_socialist_government = yes
@@ -248,7 +248,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_socialist_government = yes
@@ -261,7 +261,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_socialist_government = yes
@@ -274,7 +274,7 @@ music = {
 
 	chance = {
 		modifier = {
-			factor = 2
+			factor = 20
 
 			has_war = yes
 			has_socialist_government = yes

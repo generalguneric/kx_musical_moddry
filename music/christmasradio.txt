@@ -14,7 +14,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -36,7 +36,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -58,7 +58,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -80,7 +80,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -102,7 +102,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -124,7 +124,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -146,7 +146,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -168,7 +168,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -190,7 +190,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -212,7 +212,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -234,7 +234,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -256,7 +256,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -278,7 +278,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -300,7 +300,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -322,7 +322,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 					tag = IRE
@@ -344,7 +344,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 
@@ -366,7 +366,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 
@@ -388,7 +388,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -409,7 +409,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -431,7 +431,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -453,7 +453,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -474,7 +474,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -495,7 +495,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -516,7 +516,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -537,7 +537,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -558,7 +558,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -579,7 +579,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -600,7 +600,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -621,7 +621,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -642,7 +642,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -663,7 +663,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -684,7 +684,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -705,7 +705,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -726,7 +726,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -747,7 +747,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -768,7 +768,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -789,7 +789,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -810,7 +810,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -831,7 +831,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -852,7 +852,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -873,7 +873,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -894,7 +894,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -915,7 +915,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -936,7 +936,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -957,7 +957,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		
@@ -978,7 +978,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = CHR
 			}		

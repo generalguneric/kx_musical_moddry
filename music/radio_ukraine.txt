@@ -9,7 +9,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -23,7 +23,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -37,7 +37,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -51,7 +51,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -65,7 +65,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -79,7 +79,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -93,7 +93,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -107,7 +107,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -121,7 +121,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -135,7 +135,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -149,7 +149,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -164,7 +164,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -179,7 +179,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -193,7 +193,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -207,7 +207,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -222,7 +222,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -238,7 +238,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -254,7 +254,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -269,7 +269,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -283,7 +283,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -297,7 +297,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -311,7 +311,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -325,7 +325,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -339,7 +339,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -353,7 +353,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -370,7 +370,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_ukrainian_tag = yes
 				tag = KUB
@@ -387,7 +387,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -401,7 +401,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -415,7 +415,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -429,7 +429,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -443,7 +443,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -457,7 +457,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -471,7 +471,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -485,7 +485,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -499,7 +499,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -513,7 +513,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -527,7 +527,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -542,7 +542,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -557,7 +557,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -572,7 +572,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -586,7 +586,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -600,7 +600,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -615,7 +615,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -630,7 +630,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -644,7 +644,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -658,7 +658,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -672,7 +672,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -686,7 +686,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -700,7 +700,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -715,7 +715,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -730,7 +730,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -744,7 +744,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -758,7 +758,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -772,7 +772,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -786,7 +786,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -800,7 +800,7 @@ music = {
 			is_ukrainian_tag = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 		}
 	}
@@ -815,7 +815,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -831,7 +831,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -848,7 +848,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -865,7 +865,7 @@ music = {
 			has_socialist_government = no
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_ukrainian_tag = yes
 			has_socialist_government = yes
 		}
@@ -883,7 +883,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = CRM
 		}
 	}

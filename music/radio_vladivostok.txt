@@ -7,70 +7,70 @@ music = {
 	song = "kalinka"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "rus_korobeiniki"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "we_weren_t_home"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "varyag"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "three_tankers"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "onwards"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "katusha"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "transbaikal"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "junckers_song"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 music = {
 	song = "my_army"
 	chance = {
 		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 2		is_russian_speaking_tag = yes }
+		modifier = { factor = 20		is_russian_speaking_tag = yes }
 	}
 }
 # Monarchy
@@ -87,7 +87,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				tag = RUS
 				RUS_russian_monarch = yes
@@ -108,7 +108,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				tag = RUS
 				RUS_russian_monarch = yes
@@ -129,7 +129,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				tag = RUS
 				RUS_russian_monarch = yes
@@ -141,7 +141,7 @@ music = {
 	song = "glory_to"
 	chance = {
 		modifier = { factor = 0		NOT = { tag = RUS } }
-		modifier = { factor = 2		tag = RUS }
+		modifier = { factor = 20		tag = RUS }
 	}
 }
 music = {
@@ -157,7 +157,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				tag = RUS
 				RUS_russian_monarch = yes
@@ -178,7 +178,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = SIB
@@ -197,7 +197,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = SIB
@@ -216,7 +216,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = SIB
@@ -235,7 +235,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = SIB
@@ -254,7 +254,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = SIB
@@ -273,7 +273,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = SIB
@@ -292,7 +292,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = SIB
@@ -307,7 +307,7 @@ music = {
 	song = "patriotic_song"
 	chance = {
 		modifier = { factor = 0		NOT = { tag = RUS } }
-		modifier = { factor = 2		tag = RUS }
+		modifier = { factor = 20		tag = RUS }
 	}
 }
 music = {
@@ -321,7 +321,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				OR = {
 					is_russian_speaking_tag = yes
@@ -344,7 +344,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				OR = {
 					is_russian_speaking_tag = yes
@@ -367,7 +367,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				OR = {
 					is_russian_speaking_tag = yes
@@ -397,7 +397,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -424,7 +424,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -451,7 +451,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -478,7 +478,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -505,7 +505,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -532,7 +532,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -559,7 +559,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -587,7 +587,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -615,7 +615,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -643,7 +643,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -670,7 +670,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -698,7 +698,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -726,7 +726,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -754,7 +754,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -782,7 +782,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -810,7 +810,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -838,7 +838,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			AND = {
 				has_socialist_government = yes
 				OR = {
@@ -864,7 +864,7 @@ music = {
 			}
 		}
 		modifier = { 
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = KUB
@@ -885,7 +885,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_russian_speaking_tag = yes
 		}
 	}
@@ -901,7 +901,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_russian_speaking_tag = yes
 		}
 	}
@@ -917,7 +917,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_russian_speaking_tag = yes
 		}
 	}
@@ -933,7 +933,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_russian_speaking_tag = yes
 		}
 	}
@@ -950,7 +950,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_russian_speaking_tag = yes
 			has_socialist_government = yes
 		}
@@ -968,7 +968,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 			}
@@ -987,7 +987,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 			}
@@ -1006,7 +1006,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			is_russian_speaking_tag = yes
 		}
 	}
@@ -1023,7 +1023,7 @@ music = {
 			}
 		}
 		modifier = { 
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = KUB
@@ -1043,7 +1043,7 @@ music = {
 			}
 		}
 		modifier = { 
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = KUB
@@ -1064,7 +1064,7 @@ music = {
 			}
 		}
 		modifier = { 
-			factor = 2
+			factor = 20
 			OR = {
 				is_russian_speaking_tag = yes
 				tag = KUB

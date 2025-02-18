@@ -14,7 +14,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -40,7 +40,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -64,7 +64,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 
 
@@ -84,7 +84,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 
 
@@ -107,7 +107,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -133,7 +133,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -156,7 +156,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 
 
@@ -179,7 +179,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -205,7 +205,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -231,7 +231,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -257,7 +257,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -284,7 +284,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -311,7 +311,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = WAL
@@ -333,7 +333,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -350,7 +350,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -367,7 +367,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -384,7 +384,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -401,7 +401,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -418,7 +418,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -435,7 +435,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -453,7 +453,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = IRE
 				tag = ULS
@@ -473,7 +473,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -490,7 +490,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -507,7 +507,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -524,7 +524,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -541,7 +541,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -558,7 +558,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -575,7 +575,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -592,7 +592,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -609,7 +609,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -626,7 +626,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -643,7 +643,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -660,7 +660,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -678,7 +678,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -695,7 +695,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -712,7 +712,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -729,7 +729,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -746,7 +746,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -763,7 +763,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -780,7 +780,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -801,7 +801,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			OR = {
 				tag = ULS
 				AND = {
@@ -824,7 +824,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -841,7 +841,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -859,7 +859,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 			tag = ULS
 		}
@@ -877,7 +877,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -893,7 +893,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -910,7 +910,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -927,7 +927,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -944,7 +944,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -961,7 +961,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -978,7 +978,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -995,7 +995,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1013,7 +1013,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1030,7 +1030,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1047,7 +1047,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1064,7 +1064,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1081,7 +1081,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1098,7 +1098,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1115,7 +1115,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1132,7 +1132,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1150,7 +1150,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 			tag = ULS
 		}
@@ -1168,7 +1168,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1185,7 +1185,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1202,7 +1202,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1219,7 +1219,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1236,7 +1236,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1253,7 +1253,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1270,7 +1270,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1287,7 +1287,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1304,7 +1304,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1321,7 +1321,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1338,7 +1338,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1355,7 +1355,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1373,7 +1373,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1390,7 +1390,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1407,7 +1407,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1424,7 +1424,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1441,7 +1441,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1458,7 +1458,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1475,7 +1475,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1492,7 +1492,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
@@ -1509,7 +1509,7 @@ music = {
 			}
 		}
 		modifier = {
-			factor = 2
+			factor = 20
 			tag = IRE
 		}
 	}
