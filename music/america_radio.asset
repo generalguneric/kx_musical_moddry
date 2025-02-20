@@ -509,6 +509,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "godfather_waltz"
+	file = "america_radio/godfather_waltz.ogg"
+	volume = 1.25
+}
+music = {
 	name = "close_up_booze_shop"
 	file = "america_radio/close_up_booze_shop.ogg"
 	volume = 1.25
