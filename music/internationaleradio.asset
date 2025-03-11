@@ -108,3 +108,18 @@ music = {
 	file = "internationaleradio/der_heimliche_aufmarsch.ogg"
 	volume = 1.25
 }
+music = {
+	name = "the_red_flag"
+	file = "internationaleradio/the_red_flag.ogg"
+	volume = 1.25
+}
+music = {
+	name = "the_red_flag_labour"
+	file = "internationaleradio/the_red_flag_labour.ogg"
+	volume = 1.25
+}
+music = {
+	name = "jerusalem"
+	file = "internationaleradio/jerusalem.ogg"
+	volume = 1.25
+}

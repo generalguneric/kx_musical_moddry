@@ -1806,3 +1806,28 @@ music = {
 		}
 	}
 }
+music = {
+	song = "rule_britannia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = GBR
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = CAN
+				tag = GBR
+				AND = {
+					tag = ENG
+					has_socialist_government = no
+				}
+			}
+		}
+	}
+}

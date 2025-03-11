@@ -453,3 +453,8 @@ music = {
 	file = "ententeradio/down_under.ogg"
 	volume = 1.25
 }
+music = {
+	name = "rule_britannia"
+	file = "ententeradio/rule_britannia.ogg"
+	volume = 1.25
+}

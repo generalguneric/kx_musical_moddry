@@ -440,3 +440,56 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "jerusalem"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "the_red_flag"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ENG
+			has_socialist_government = yes
+		}
+	}
+}
+
+music = {
+	song = "the_red_flag_labour"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ENG
+			has_government = social_democrat
+		}
+	}
+}
