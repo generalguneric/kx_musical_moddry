@@ -1619,12 +1619,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			original_tag = ALO
 		}
 	}
 }
@@ -1636,12 +1636,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			original_tag = ALO
 		}
 	}
 }
@@ -1653,12 +1653,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			original_tag = ALO
 		}
 	}
 }
@@ -1670,12 +1670,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			original_tag = ALO
 		}
 	}
 }
@@ -1687,12 +1687,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			original_tag = ALO
 		}
 	}
 }
@@ -1703,12 +1703,16 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
+				is_turkestan_tag = yes
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			OR = {
+				original_tag = ALO
+				is_turkestan_tag = yes
+			}
 		}
 	}
 }
@@ -1720,12 +1724,16 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
+				is_turkestan_tag = yes
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			OR = {
+				original_tag = ALO
+				is_turkestan_tag = yes
+			}
 		}
 	}
 }
@@ -1737,12 +1745,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			original_tag = ALO
 		}
 	}
 }
@@ -1754,12 +1762,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALO
+				original_tag = ALO
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ALO
+			original_tag = ALO
 		}
 	}
 }
@@ -1770,20 +1778,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = TRK
-				tag = KYR
-				tag = UZB
-			}
+			NOT = { is_turkestan_tag = yes }
 			has_socialist_government = no
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = TRK
-				tag = KYR
-				tag = UZB
-			}
+			is_turkestan_tag = yes
 			has_socialist_government = yes
 		}
 	}
@@ -1794,20 +1794,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = TRK
-				tag = KYR
-				tag = UZB
-			}
+			NOT = { is_turkestan_tag = yes }
 			has_socialist_government = no
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = TRK
-				tag = KYR
-				tag = UZB
-			}
+			is_turkestan_tag = yes
 			has_socialist_government = yes
 		}
 	}
@@ -1818,19 +1810,11 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = TRK
-				tag = KYR
-				tag = UZB
-			}
+			NOT = { is_turkestan_tag = yes }
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = TRK
-				tag = KYR
-				tag = UZB
-			}
+			is_turkestan_tag = yes
 		}
 	}
 }
@@ -1841,13 +1825,11 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = TRK
-			}
+			NOT = { is_turkestan_tag = yes }
 		}
 		modifier = {
 			factor = 20
-			tag = TRK
+			is_turkestan_tag = yes
 		}
 	}
 }
@@ -1858,13 +1840,11 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = TRK
-			}
+			NOT = { is_turkestan_tag = yes }
 		}
 		modifier = {
 			factor = 20
-			tag = TRK
+			is_turkestan_tag = yes
 		}
 	}
 }
@@ -1875,13 +1855,11 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = TRK
-			}
+			NOT = { is_turkestan_tag = yes }
 		}
 		modifier = {
 			factor = 20
-			tag = TRK
+			is_turkestan_tag = yes
 		}
 	}
 }
@@ -1892,19 +1870,11 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = TRK
-				tag = UZB
-				tag = KYR
-			}
+			NOT = { is_turkestan_tag = yes }
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = TRK
-				tag = UZB
-				tag = KYR
-			}
+			is_turkestan_tag = yes
 		}
 	}
 }
@@ -1915,19 +1885,11 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = TRK
-				tag = UZB
-				tag = KYR
-			}
+			NOT = { is_turkestan_tag = yes }
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = TRK
-				tag = UZB
-				tag = KYR
-			}
+			is_turkestan_tag = yes
 		}
 	}
 }
@@ -1938,13 +1900,11 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = UZB
-			}
+			NOT = { is_turkestan_tag = yes }
 		}
 		modifier = {
 			factor = 20
-			tag = UZB
+			is_turkestan_tag = yes
 		}
 	}
 }
@@ -1955,13 +1915,11 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			NOT = {
-				tag = KYR
-			}
+			NOT = { is_turkestan_tag = yes }
 		}
 		modifier = {
 			factor = 20
-			tag = KYR
+			is_turkestan_tag = yes
 		}
 	}
 }
