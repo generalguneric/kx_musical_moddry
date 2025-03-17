@@ -1073,3 +1073,51 @@ music = {
 		}
 	}
 }
+music = {
+	song = "rus_anthem_of_ural_cossacks"
+	chance = {
+		modifier = { 
+			factor = 0		
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+				tag = URL
+			}
+		}
+		modifier = { 
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+				tag = URL
+			}
+		}
+	}
+}
+music = {
+	song = "rus_gimn_sibiri"
+	chance = {
+		modifier = { 
+			factor = 0		
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+				tag = URL
+				tag = SIB
+			}
+		}
+		modifier = { 
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+				tag = URL
+				tag = SIB
+			}
+		}
+	}
+}

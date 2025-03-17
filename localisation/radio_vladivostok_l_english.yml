@@ -58,11 +58,14 @@ radio_vladivostok_TITLE:0 "Radio Vladivostok"
  division_song: "Pesnya 27 Divizii\n§PThe 27th Division's Song§!"
  song_of_the_commune: "Pesnya Kommuny\n§PSong of the Commune§!"
 
-### DKB - Don Kuban Union ###
+### Cossacks ###
  kossak_song: "Ikhav Kozak za Dunaj\n§PThe Cossack Rode beyond the Danube§!"
  bratina: "Bratina"
  cossacks_dance: "Polno Vam, Snyezheochki!\n§PThe Lot of You, Snowballs!§!"
  dkb_oysya: "Oysya Ty, Oysya\n§POh, you, Oh, you!§!"
+ rus_anthem_of_ural_cossacks: "Uralskiye My Kazaki!\n§PAnthem of the Ural Cossacks§!"
+ rus_gimn_sibiri: "Za Chest Sibiri!\n§PAnthem of the Siberian Cossacks§!"
+ rus_orenburg_cossacks: "Pesnya Orenburgskikh Kazakov\n§PAnthem of the Orenburg Cossacks§!"
 
 sov_artillerymans_song: "Pesnya Artilleristov\n§PSong of Artillerymen§!"
 sov_march_of_the_pilots: "Marsh Aviatorov\n§PMarch of Aviators§!"

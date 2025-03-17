@@ -276,3 +276,13 @@ music = {
 	file = "radio_vladivostok/rus_izhevsk_regiment.ogg"
 	volume = 0.85
 }
+music = {
+	name = "rus_anthem_of_ural_cossacks"
+	file = "radio_vladivostok/rus_anthem_of_ural_cossacks.ogg"
+	volume = 1
+}
+music = {
+	name = "rus_gimn_sibiri"
+	file = "radio_vladivostok/rus_gimn_sibiri.ogg"
+	volume = 1
+}
