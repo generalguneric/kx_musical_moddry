@@ -1,79 +1,201 @@
 music_station = "radio_vladivostok"
 
 
-### Russian Tags ###
+# ALL
 
 music = {
 	song = "kalinka"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "rus_korobeiniki"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "we_weren_t_home"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "varyag"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "three_tankers"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "onwards"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "katusha"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "transbaikal"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "junckers_song"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
 music = {
 	song = "my_army"
 	chance = {
-		modifier = { factor = 0		is_russian_speaking_tag = no }
-		modifier = { factor = 20		is_russian_speaking_tag = yes }
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
 	}
 }
+
+music = {
+	song = "rus_soldiers_dance"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_russian_speaking_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "rus_preobrazhensky"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				is_russian_speaking_tag = yes
+			}
+		}
+	}
+}
+
+music = {
+	song = "rus_clouds"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+
 # Monarchy
+
 music = {
 	song = "god_save_the_tsar_russia"
 	chance = {
@@ -140,10 +262,19 @@ music = {
 music = {
 	song = "glory_to"
 	chance = {
-		modifier = { factor = 0		NOT = { tag = RUS } }
-		modifier = { factor = 20		tag = RUS }
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = RUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = RUS
+		}
 	}
 }
+
 music = {
 	song = "junckers_song"
 	chance = {
@@ -306,10 +437,19 @@ music = {
 music = {
 	song = "patriotic_song"
 	chance = {
-		modifier = { factor = 0		NOT = { tag = RUS } }
-		modifier = { factor = 20		tag = RUS }
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = RUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = RUS
+		}
 	}
 }
+
 music = {
 	song = "song_of_the_siberian_riflemen"
 	chance = {
@@ -375,6 +515,74 @@ music = {
 				}
 				has_authoritarian_government = yes
 			}
+		}
+	}
+}
+
+music = {
+	song = "rus_drozdovsky"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "rus_markov"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "rus_kornilov"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "rus_alekseev"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
 		}
 	}
 }
@@ -850,6 +1058,26 @@ music = {
 	}
 }
 
+music = {
+	song = "syn_rus_capital_oppresses_us"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+				has_socialist_government = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+			has_socialist_government = yes
+		}
+	}
+}
+
+
 ### DKB - Don Kuban Union ###
 
 music = {
@@ -875,144 +1103,6 @@ music = {
 }
 
 music = {
-	song = "rus_drozdovsky"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-			}
-		}
-		modifier = {
-			factor = 20
-			is_russian_speaking_tag = yes
-		}
-	}
-}
-music = {
-	song = "rus_markov"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-			}
-		}
-		modifier = {
-			factor = 20
-			is_russian_speaking_tag = yes
-		}
-	}
-}
-music = {
-	song = "rus_kornilov"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-			}
-		}
-		modifier = {
-			factor = 20
-			is_russian_speaking_tag = yes
-		}
-	}
-}
-music = {
-	song = "rus_alekseev"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-			}
-		}
-		modifier = {
-			factor = 20
-			is_russian_speaking_tag = yes
-		}
-	}
-}
-music = {
-	song = "syn_rus_capital_oppresses_us"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-				has_socialist_government = yes
-			}
-		}
-		modifier = {
-			factor = 20
-			is_russian_speaking_tag = yes
-			has_socialist_government = yes
-		}
-	}
-}
-
-music = {
-	song = "rus_soldiers_dance"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				is_russian_speaking_tag = yes
-			}
-		}
-	}
-}
-
-music = {
-	song = "rus_preobrazhensky"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				is_russian_speaking_tag = yes
-			}
-		}
-	}
-}
-
-music = {
-	song = "rus_clouds"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-			}
-		}
-		modifier = {
-			factor = 20
-			is_russian_speaking_tag = yes
-		}
-	}
-}
-
-music = {
 	song = "kuban_you_is_our_homeland"
 	chance = {
 		modifier = { 
@@ -1031,6 +1121,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "kub_tam_shli_dva_brata"
 	chance = {
@@ -1052,6 +1143,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "dkb_oysya"
 	chance = {
@@ -1073,6 +1165,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "rus_anthem_of_ural_cossacks"
 	chance = {
@@ -1096,6 +1189,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "rus_gimn_sibiri"
 	chance = {

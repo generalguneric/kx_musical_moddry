@@ -9,24 +9,254 @@ music = {
 	}
 }
 
-# SPECIAL
+# W. EUROPE
 
 music = {
-	song = "friends_on_the_other_side"
+	song = "reveillez_vous_picards"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = HAI
+				tag = BEL
+				tag = WLL
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = HAI
+			OR = {
+				tag = BEL
+				tag = WLL
+			}
 		}
 	}
 }
+
+music = {
+	song = "yma_o_hyd"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = IRE
+				tag = SCT
+				tag = WAL
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = IRE
+				tag = SCT
+				tag = WAL
+			}
+		}
+	}
+}
+
+
+# NORDIC
+
+music = {
+	song = "krummavsur"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+			}
+		}
+	}
+}
+
+music = {
+	song = "slandsklukk"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+			}
+		}
+	}
+}
+
+music = {
+	song = "lafur_liljurs"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+			}
+		}
+	}
+}
+
+music = {
+	song = "sprengisandi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+			}
+		}
+	}
+}
+
+music = {
+	song = "tyrkjarnid"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+			}
+		}
+	}
+}
+
+music = {
+	song = "krummavsur_in_extremo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+			}
+		}
+	}
+}
+
+music = {
+	song = "vapaussoturin_valloituslaulu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+# IBERIA
+
 music = {
 	song = "alpargatas"
 
@@ -75,22 +305,707 @@ music = {
 		}
 	}
 }
+
+# ITALY
+
 music = {
-	song = "genghis"
+	song = "kx_bella_ciao"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = MON
+				tag = ITA
+				tag = SRI
+
+
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = MON
+			OR = {
+				tag = ITA
+				tag = SRI
+			}
 		}
 	}
 }
+
+music = {
+	song = "bella_ciao_2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+			}
+		}
+	}
+}
+
+music = {
+	song = "canto_dei_sanfedisti"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SIC
+				tag = SRI
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SIC
+				tag = SRI
+			}
+		}
+	}
+}
+
+music = {
+	song = "inno_di_garibaldi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "la_brigata_garibaldi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "divina_patria"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "divina_patria_rare"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "divina_patria_technobalilla"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "tokyo_fantasy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+				tag = JAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+				tag = JAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "zifna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MLT
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = MLT
+		}
+	}
+}
+
+# C. EUROPE
+
+music = {
+	song = "moldau"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+				tag = SVK
+				tag = PGU
+				tag = CPU
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = CZE
+				tag = SVK
+				tag = PGU
+				tag = CPU
+				tag = AUS
+			}
+		}
+	}
+}
+
+# BALKANS
+
+music = {
+	song = "qendrojme_si_malet"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ALB
+			}
+		}
+	}
+}
+
+music = {
+	song = "ballin_lart"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ALB
+			}
+
+		}
+	}
+}
+
+music = {
+	song = "buze_adriatikut"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ALB
+			}
+
+		}
+	}
+}
+
+music = {
+	song = "mes_flamujsh"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ALB
+			}
+
+		}
+	}
+}
+
+music = {
+	song = "lule_tbukura"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ALB
+			}
+
+		}
+	}
+}
+
+music = {
+	song = "ne_tiranen_tone"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ALB
+			}
+
+		}
+	}
+}
+
+music = {
+	song = "albanian"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ALB
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ALB
+			}
+
+		}
+	}
+}
+
+music = {
+	song = "trezire_de_spirit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ROM
+				tag = BAN
+				tag = TRS
+				tag = BUK
+				tag = MOL
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ROM
+				tag = BAN
+				tag = TRS
+				tag = BUK
+				tag = MOL
+			}
+
+		}
+	}
+}
+
+music = {
+	song = "drum_bun"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ROM
+				tag = BAN
+				tag = TRS
+				tag = BUK
+				tag = MOL
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ROM
+				tag = BAN
+				tag = TRS
+				tag = BUK
+				tag = MOL
+			}
+
+		}
+	}
+}
+
+music = {
+	song = "beginning"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ROM
+				tag = BAN
+				tag = TRS
+				tag = BUK
+				tag = MOL
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ROM
+				tag = BAN
+				tag = TRS
+				tag = BUK
+				tag = MOL
+			}
+
+		}
+	}
+}
+
+# OTTOS
+
+music = {
+	song = "osmaniye_marsi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TUR
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = TUR
+			}
+		}
+	}
+}
+
+music = {
+	song = "ceddin_deden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TUR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = TUR
+		}
+	}
+}
+
+music = {
+	song = "nikriz_pesrev"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TUR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = TUR
+		}
+	}
+}
+
+# E. EUROPE
+
+music = {
+	song = "whr_bitva_pad_vorsaj"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = WHR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = WHR
+		}
+	}
+}
+music = {
+	song = "whr_pahonia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = WHR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = WHR
+		}
+	}
+}
+
+music = {
+	song = "whr_kasinery"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = WHR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = WHR
+		}
+	}
+}
+
+# N. AMERICA
+
+music = {
+	song = "meet_again"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+				tag = CAN
+
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ENG
+				tag = CAN
+			}
+		}
+	}
+}
+
+music = {
+	song = "blasted_heath"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NEE
+		}
+	}
+}
+
+music = {
+	song = "all_things_must_come"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NEE
+		}
+	}
+}
+
+# CARIBBEAN
+
+music = {
+	song = "friends_on_the_other_side"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = HAI
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HAI
+		}
+	}
+}
+
+# LATAM
 
 music = {
 	song = "quizas"
@@ -188,33 +1103,6 @@ music = {
 }
 
 music = {
-	song = "dont_play_the_fool_america"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MEX
-				tag = YUC
-				tag = TXS
-				tag = RUS
-			    tag = TRM
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = MEX
-				tag = YUC
-				tag = TXS
-				tag = RUS
-				tag = TRM
-			}
-		}
-	}
-}
-
-music = {
 	song = "el_camino_real"
 
 	chance = {
@@ -232,61 +1120,6 @@ music = {
 				tag = MEX
 				tag = YUC
 				tag = TXS
-			}
-		}
-	}
-}
-
-music = {
-	song = "tuyo"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MEX
-				tag = ARZ
-				tag = TXS
-				tag = YUC
-				tag = COL
-				tag = BOL
-				tag = ECU
-				tag = PAN
-				tag = GUA
-				tag = HON
-				tag = COS
-				tag = NIC
-				tag = ELS
-				tag = CEN
-				tag = ARG
-				tag = CHL
-				tag = PRU
-				tag = URG
-				tag = PAR
-				tag = CUB
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = MEX
-				tag = YUC
-				tag = COL
-				tag = BOL
-				tag = ECU
-				tag = PAN
-				tag = GUA
-				tag = HON
-				tag = COS
-				tag = NIC
-				tag = ELS
-				tag = CEN
-				tag = ARG
-				tag = CHL
-				tag = PRU
-				tag = URG
-				tag = PAR
-				tag = CUB
 			}
 		}
 	}
@@ -484,7 +1317,7 @@ music = {
 			factor = 0
 			NOT = {
 				tag = MEX
-				tag = NNV
+				tag = NVN
 				tag = TXS
 				tag = ARZ
 
@@ -499,6 +1332,169 @@ music = {
 				tag = ARZ
 			}
 
+		}
+	}
+}
+
+music = {
+	song = "el_vaquero"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ARZ
+				tag = MEX
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ARZ
+				tag = MEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "tuyo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MEX
+				tag = ARZ
+				tag = TXS
+				tag = YUC
+				tag = COL
+				tag = BOL
+				tag = ECU
+				tag = PAN
+				tag = GUA
+				tag = HON
+				tag = COS
+				tag = NIC
+				tag = ELS
+				tag = CEN
+				tag = ARG
+				tag = CHL
+				tag = PRU
+				tag = URG
+				tag = PAR
+				tag = CUB
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = MEX
+				tag = YUC
+				tag = COL
+				tag = BOL
+				tag = ECU
+				tag = PAN
+				tag = GUA
+				tag = HON
+				tag = COS
+				tag = NIC
+				tag = ELS
+				tag = CEN
+				tag = ARG
+				tag = CHL
+				tag = PRU
+				tag = URG
+				tag = PAR
+				tag = CUB
+			}
+		}
+	}
+}
+
+music = {
+	song = "dont_play_the_fool_america"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MEX
+				tag = YUC
+				tag = TXS
+				tag = RUS
+			    tag = TRM
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = MEX
+				tag = YUC
+				tag = TXS
+				tag = RUS
+				tag = TRM
+			}
+		}
+	}
+}
+
+music = {
+	song = "guerra_la_burguesia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ARG
+				tag = FOP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ARG
+				tag = FOP
+			}
+		}
+	}
+}
+
+# AFRICA
+
+music = {
+	song = "going_forth_carrying_weapon"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = EGY
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = EGY
+		}
+	}
+}
+
+
+# S. ASIA
+
+music = {
+	song = "sarzamine_man"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AFG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AFG
 		}
 	}
 }
@@ -564,26 +1560,6 @@ music = {
 }
 
 music = {
-	song = "gada_meiren_folk_song"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MON
-
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = MON
-
-
-		}
-	}
-}
-
-music = {
 	song = "naang_naang"
 
 	chance = {
@@ -604,621 +1580,6 @@ music = {
 				tag = KAC
 			}
 
-		}
-	}
-}
-
-music = {
-	song = "gada_meiren_orchestral_poem"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MON
-
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = MON
-
-
-		}
-	}
-}
-
-music = {
-	song = "forever_with_lenin"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MON
-
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = MON
-
-
-		}
-	}
-}
-
-music = {
-	song = "meet_again"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ENG
-				tag = CAN
-
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ENG
-				tag = CAN
-			}
-		}
-	}
-}
-
-music = {
-	song = "kx_bella_ciao"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ITA
-				tag = SRI
-
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ITA
-				tag = SRI
-			}
-		}
-	}
-}
-
-music = {
-	song = "bella_ciao_2"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ITA
-				tag = SRI
-
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ITA
-				tag = SRI
-			}
-		}
-	}
-}
-
-
-music = {
-	song = "blasted_heath"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NEE
-
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NEE
-		}
-	}
-}
-
-music = {
-	song = "all_things_must_come"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NEE
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NEE
-		}
-	}
-}
-
-music = {
-	song = "krummavsur"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-			}
-		}
-	}
-}
-
-music = {
-	song = "slandsklukk"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-			}
-		}
-	}
-}
-
-music = {
-	song = "lafur_liljurs"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-			}
-		}
-	}
-}
-
-music = {
-	song = "sprengisandi"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-			}
-		}
-	}
-}
-
-music = {
-	song = "tyrkjarnid"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-			}
-		}
-	}
-}
-
-music = {
-	song = "krummavsur_in_extremo"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ICE
-				tag = SWE
-				tag = NOR
-				tag = DEN
-				tag = FIN
-				tag = EST
-			}
-		}
-	}
-}
-
-music = {
-	song = "rose_rose_i_love_you"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-				tag = AOG
-				tag = GEA
-				tag = SIA
-				tag = INC
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-				tag = AOG
-				tag = GEA
-				tag = SIA
-				tag = INC
-			}
-		}	
-	}
-}
-
-music = {
-	song = "moldau"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CZE
-				tag = SVK
-				tag = PGU
-				tag = CPU
-				tag = AUS
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = CZE
-				tag = SVK
-				tag = PGU
-				tag = CPU
-				tag = AUS
-			}
-		}
-	}
-}
-
-music = {
-	song = "osmaniye_marsi"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = TUR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = TUR
-			}
-		}
-	}
-}
-
-music = {
-	song = "reveillez_vous_picards"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BEL
-				tag = WLL
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = BEL
-				tag = WLL
-			}
-		}
-	}
-}
-
-music = {
-	song = "reflection_moon_erquan_pool"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = QIE
-				tag = FNG
-				tag = CHI
-				tag = LEP
-				tag = ANQ
-				tag = YUN
-				tag = GXC
-				tag = HNN
-				tag = SHX
-				tag = SQI
-				tag = XSM
-				tag = SIK
-				tag = SZC
-				tag = LEC
-				tag = PRC
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = QIE
-				tag = FNG
-				tag = CHI
-				tag = LEP
-				tag = ANQ
-				tag = YUN
-				tag = GXC
-				tag = HNN
-				tag = SHX
-				tag = SQI
-				tag = XSM
-				tag = SIK
-				tag = SZC
-				tag = LEC
-				tag = PRC
-			}
-		}
-	}
-}
-
-music = {
-	song = "trezire_de_spirit"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ROM
-				tag = TRS
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ROM
-				tag = TRS
-			}
-		}
-	}
-}
-
-music = {
-	song = "rose_rose_i_love_you"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_english_tag = yes
-                tag = LEC
-			}
-		}
-		modifier = {
-			OR = {
-				is_english_tag = yes
-                tag = LEC
-			}
-		}
-	}
-}
-
-music = {
-	song = "canto_dei_sanfedisti"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = SIC
-				tag = SRI
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SIC
-				tag = SRI
-			}
-		}
-	}
-}
-
-music = {
-	song = "fortunate_son"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = VIN
-				tag = INC
-				tag = GEA
-				tag = GAL
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = VIN
-				tag = INC
-				tag = GEA
-				tag = GAL
-			}
-		}
-	}
-}
-
-music = {
-	song = "paint_it_black"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = VIN
-				tag = INC
-				tag = GEA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = VIN
-				tag = INC
-				tag = GEA
-			}
-		}
-	}
-}
-
-music = {
-	song = "rot_und_schwarz"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = VIN
-				tag = INC
-				tag = GEA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = VIN
-				tag = INC
-				tag = GEA
-			}
 		}
 	}
 }
@@ -1298,316 +1659,81 @@ music = {
 	}
 }
 
+# STEPPE
+
 music = {
-	song = "qendrojme_si_malet"
+	song = "genghis"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALB
+				tag = MON
 			}
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = ALB
-			}
+			tag = MON
 		}
 	}
 }
 
 music = {
-	song = "ballin_lart"
+	song = "gada_meiren_folk_song"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALB
+				tag = MON
 
 			}
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = ALB
-			}
+			tag = MON
 
-		}
-	}
-}
-
-music = {
-	song = "buze_adriatikut"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ALB
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ALB
-			}
 
 		}
 	}
 }
 
 music = {
-	song = "mes_flamujsh"
+	song = "gada_meiren_orchestral_poem"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALB
+				tag = MON
 
 			}
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = ALB
-			}
+			tag = MON
+
 
 		}
 	}
 }
 
 music = {
-	song = "lule_tbukura"
+	song = "forever_with_lenin"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = ALB
+				tag = MON
 
 			}
 		}
 		modifier = {
 			factor = 20
-			OR = {
-				tag = ALB
-			}
+			tag = MON
 
-		}
-	}
-}
 
-music = {
-	song = "ne_tiranen_tone"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ALB
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ALB
-			}
-
-		}
-	}
-}
-
-music = {
-	song = "albanian"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ALB
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ALB
-			}
-
-		}
-	}
-}
-
-music = {
-	song = "drum_bun"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ROM
-				tag = BAN
-				tag = TRS
-				tag = BUK
-				tag = MOL
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ROM
-				tag = BAN
-				tag = TRS
-				tag = BUK
-				tag = MOL
-			}
-
-		}
-	}
-}
-
-music = {
-	song = "bang_bang"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = QIE
-				tag = FNG
-				tag = CHI
-				tag = LEP
-				tag = ANQ
-				tag = YUN
-				tag = GXC
-				tag = HNN
-				tag = SHX
-				tag = SQI
-				tag = XSM
-				tag = SIK
-				tag = SZC
-				tag = LEC
-				tag = PRC
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = QIE
-				tag = FNG
-				tag = CHI
-				tag = LEP
-				tag = ANQ
-				tag = YUN
-				tag = GXC
-				tag = HNN
-				tag = SHX
-				tag = SQI
-				tag = XSM
-				tag = SIK
-				tag = SZC
-				tag = LEC
-				tag = PRC
-			}
-
-		}
-	}
-}
-
-music = {
-	song = "anything_for_you"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = SIA
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SIA
-			}
-
-		}
-	}
-}
-
-music = {
-	song = "el_vaquero"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ARZ
-				tag = MEX
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ARZ
-				tag = MEX
-			}
-		}
-	}
-}
-music = {
-	song = "whr_bitva_pad_vorsaj"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = WHR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = WHR
-		}
-	}
-}
-music = {
-	song = "whr_pahonia"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = WHR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = WHR
-		}
-	}
-}
-
-music = {
-	song = "whr_kasinery"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = WHR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = WHR
 		}
 	}
 }
@@ -1924,333 +2050,128 @@ music = {
 	}
 }
 
+# EASTASIA
+
 music = {
-	song = "zifna"
+	song = "rose_rose_i_love_you"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = MLT
+				is_english_tag = yes
+                tag = LEC
+				tag = LEP
+				tag = GEA
+				tag = SIA
+				tag = INC
 			}
 		}
 		modifier = {
-			factor = 20
-			tag = MLT
+			OR = {
+				is_english_tag = yes
+                tag = LEC
+				tag = LEP
+				tag = GEA
+				tag = SIA
+				tag = INC
+			}
 		}
 	}
 }
 
 music = {
-	song = "ceddin_deden"
+	song = "reflection_moon_erquan_pool"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = TUR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = TUR
-		}
-	}
-}
-
-music = {
-	song = "beginning"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ROM
-				tag = TRS
+				tag = QIE
+				tag = FNG
+				tag = CHI
+				tag = LEP
+				tag = ANQ
+				tag = YUN
+				tag = GXC
+				tag = HNN
+				tag = SHX
+				tag = SQI
+				tag = XSM
+				tag = SIK
+				tag = SZC
+				tag = LEC
+				tag = PRC
 			}
 		}
 		modifier = {
 			factor = 20
 			OR = {
-				tag = ROM
-				tag = TRS
+				tag = QIE
+				tag = FNG
+				tag = CHI
+				tag = LEP
+				tag = ANQ
+				tag = YUN
+				tag = GXC
+				tag = HNN
+				tag = SHX
+				tag = SQI
+				tag = XSM
+				tag = SIK
+				tag = SZC
+				tag = LEC
+				tag = PRC
 			}
 		}
 	}
 }
 
 music = {
-	song = "sarzamine_man"
+	song = "bang_bang"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = AFG
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = AFG
-		}
-	}
-}
+				tag = QIE
+				tag = FNG
+				tag = CHI
+				tag = LEP
+				tag = ANQ
+				tag = YUN
+				tag = GXC
+				tag = HNN
+				tag = SHX
+				tag = SQI
+				tag = XSM
+				tag = SIK
+				tag = SZC
+				tag = LEC
+				tag = PRC
 
-music = {
-	song = "inno_di_garibaldi"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-			}
-		}
-	}
-}
-
-music = {
-	song = "la_brigata_garibaldi"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
 			}
 		}
 		modifier = {
 			factor = 20
 			OR = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
+				tag = QIE
+				tag = FNG
+				tag = CHI
+				tag = LEP
+				tag = ANQ
+				tag = YUN
+				tag = GXC
+				tag = HNN
+				tag = SHX
+				tag = SQI
+				tag = XSM
+				tag = SIK
+				tag = SZC
+				tag = LEC
+				tag = PRC
 			}
-		}
-	}
-}
 
-music = {
-	song = "divina_patria"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-			}
-		}
-	}
-}
-
-music = {
-	song = "divina_patria_rare"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-			}
-		}
-	}
-}
-
-music = {
-	song = "divina_patria_technobalilla"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-			}
-		}
-	}
-}
-
-music = {
-	song = "tokyo_fantasy"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-				tag = JAP
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ITA
-				tag = SRI
-				tag = SRD
-				tag = SIC
-				tag = PAP
-				tag = JAP
-			}
-		}
-	}
-}
-
-music = {
-	song = "vapaussoturin_valloituslaulu"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = FIN
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = FIN
-		}
-	}
-}
-
-music = {
-	song = "guerra_la_burguesia"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ARG
-				tag = FOP
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ARG
-				tag = FOP
-			}
-		}
-	}
-}
-
-music = {
-	song = "going_forth_carrying_weapon"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = EGY
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = EGY
-		}
-	}
-}
-
-music = {
-	song = "yma_o_hyd"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = IRE
-				tag = SCT
-				tag = WAL
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = IRE
-				tag = SCT
-				tag = WAL
-			}
-		}
-	}
-}
-
-music = {
-	song = "nikriz_pesrev"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = TUR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = TUR
 		}
 	}
 }
@@ -2336,6 +2257,96 @@ music = {
 		modifier = {
 			factor = 20
 			tag = LEC
+		}
+	}
+}
+
+# SE ASIA
+
+music = {
+	song = "fortunate_son"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+				tag = GAL
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+				tag = GAL
+			}
+		}
+	}
+}
+
+music = {
+	song = "paint_it_black"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+			}
+		}
+	}
+}
+
+music = {
+	song = "rot_und_schwarz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = VIN
+				tag = INC
+				tag = GEA
+			}
+		}
+	}
+}
+
+music = {
+	song = "anything_for_you"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SIA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = SIA
 		}
 	}
 }

@@ -1,5 +1,435 @@
 music_station = "ententeradio"
 
+# NFA
+
+music = {
+	song = "marechal_nous_voila"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "la_france_de_demain"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "verdun_on_ne_passe_pas"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "alsace_et_lorriane"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "bonjour_mon_vieux_paris"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "chanson_de_loignon"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+				tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "parant_pour_la_syrie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "jeanne_dearc_song"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "la_royale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "douce_france"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "boum"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "la_mer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_last_time_i_saw_paris"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = CAN
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = CAN
+			}
+		}
+	}
+}
+
+music = {
+	song = "le_roi_louis"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+			}
+		}
+	}
+}
+
+music = {
+	song = "la_contre_marseillaise"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+			}
+		}
+	}
+}
+
+music = {
+	song = "le_chanson_monsieur_henri"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+			}
+		}
+	}
+}
+
+music = {
+	song = "monsieur_delbee"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+			}
+		}
+	}
+}
+
+music = {
+	song = "au_31_du_mois_daout"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "la_vie_en_rose"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "milord"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "non_je_ne_regrette_rien"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "le_festin"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+# GBR
+
 music = {
 	song = "well_never_let_the_old_flag_fall"
 
@@ -24,6 +454,60 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "twa_recuiting_sergeants"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+				tag = CAN
+				tag = SCT
+				tag = GBR
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NEE
+				tag = CAN
+				tag = SCT
+				tag = GBR
+			}
+		}
+	}
+}
+
+music = {
+	song = "rule_britannia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAN
+				tag = GBR
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = CAN
+				tag = GBR
+				AND = {
+					tag = ENG
+					has_socialist_government = no
+				}
+			}
+		}
+	}
+}
+
+# CAN
+
 music = {
 	song = "farewell_to_nova_scotia"
 
@@ -47,433 +531,7 @@ music = {
 		}
 	}
 }
-music = {
-	song = "twa_recuiting_sergeants"
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NEE
-				tag = CAN
-				tag = SCT
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NEE
-				tag = CAN
-				tag = SCT
-			}
-		}
-	}
-}
-music = {
-	song = "marechal_nous_voila"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NFA
-		}
-	}
-}
-music = {
-	song = "la_france_de_demain"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NFA
-		}
-	}
-}
-music = {
-	song = "verdun_on_ne_passe_pas"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "alsace_et_lorriane"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "bonjour_mon_vieux_paris"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NFA
-		}
-	}
-}
-music = {
-	song = "chanson_de_loignon"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-				tag = NFA
-		}
-	}
-}
-music = {
-	song = "parant_pour_la_syrie"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NFA
-		}
-	}
-}
-music = {
-	song = "jeanne_dearc_song"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NFA
-		}
-	}
-}
-music = {
-	song = "la_royale"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NFA
-		}
-	}
-}
-music = {
-	song = "douce_france"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "boum"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "la_mer"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "the_last_time_i_saw_paris"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = CAN
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = CAN
-			}
-		}
-	}
-}
-music = {
-	song = "le_roi_louis"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-			}
-		}
-	}
-}
-music = {
-	song = "la_contre_marseillaise"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-			}
-		}
-	}
-}
-music = {
-	song = "le_chanson_monsieur_henri"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-			}
-		}
-	}
-}
-music = {
-	song = "monsieur_delbee"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-			}
-		}
-	}
-}
-music = {
-	song = "au_31_du_mois_daout"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "la_vie_en_rose"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "milord"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "non_je_ne_regrette_rien"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
-music = {
-	song = "le_festin"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NFA
-				tag = FRA
-			}
-		}
-	}
-}
 music = {
 	song = "dief_chief"
 
@@ -546,6 +604,9 @@ music = {
 		}
 	}
 }
+
+# NFL
+
 music = {
 	song = "barretts_privateers_folk"
 
@@ -1029,6 +1090,8 @@ music = {
 		}
 	}
 }
+
+# AST
 
 music = {
 	song = "maori_battalion_march_victory"
@@ -1802,31 +1865,6 @@ music = {
 			OR = {
 				tag = NZL
 				tag = AST
-			}
-		}
-	}
-}
-music = {
-	song = "rule_britannia"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CAN
-				tag = GBR
-				tag = ENG
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = CAN
-				tag = GBR
-				AND = {
-					tag = ENG
-					has_socialist_government = no
-				}
 			}
 		}
 	}

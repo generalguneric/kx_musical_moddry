@@ -1,5 +1,7 @@
 music_station = "internationaleradio"
 
+# FRA
+
 music = {
 	song = "syn_fra_la_capitaine_au_mur"
 
@@ -18,6 +20,179 @@ music = {
 		}
 	}
 }
+
+# ENG
+
+music = {
+	song = "imagine_me_on_maginot_line"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ENG
+			}
+		}
+	}
+}
+
+music = {
+	song = "it_serves_you_right"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ENG
+			}
+		}
+	}
+}
+
+music = {
+	song = "when_im_cleaning_windows"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ENG
+			}
+		}
+	}
+}
+
+music = {
+	song = "with_my_little_stick_blackpool_rock"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ENG
+			}
+		}
+	}
+}
+
+music = {
+	song = "jerusalem"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ENG
+		}
+	}
+}
+
+music = {
+	song = "the_red_flag"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ENG
+			has_socialist_government = yes
+		}
+	}
+}
+
+music = {
+	song = "the_red_flag_labour"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ENG
+			has_government = social_democrat
+		}
+	}
+}
+
+# GRU
+
+music = {
+	song = "freie_deutsche_jugend"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GRU
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = GRU
+			}
+		}
+	}
+}
+
+music = {
+	song = "der_heimliche_aufmarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GRU
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = GRU
+			}
+		}
+	}
+}
+
+# KOR
 
 music = {
 	song = "brother_louie"
@@ -323,173 +498,6 @@ music = {
 			OR = {
 				tag = KOR
 			}
-		}
-	}
-}
-
-music = {
-	song = "imagine_me_on_maginot_line"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ENG
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ENG
-			}
-		}
-	}
-}
-
-music = {
-	song = "it_serves_you_right"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ENG
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ENG
-			}
-		}
-	}
-}
-
-music = {
-	song = "when_im_cleaning_windows"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ENG
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ENG
-			}
-		}
-	}
-}
-
-music = {
-	song = "with_my_little_stick_blackpool_rock"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ENG
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ENG
-			}
-		}
-	}
-}
-
-music = {
-	song = "freie_deutsche_jugend"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = GRU
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = GRU
-			}
-		}
-	}
-}
-
-music = {
-	song = "der_heimliche_aufmarsch"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = GRU
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = GRU
-			}
-		}
-	}
-}
-
-music = {
-	song = "jerusalem"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ENG
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = ENG
-		}
-	}
-}
-
-music = {
-	song = "the_red_flag"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ENG
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = ENG
-			has_socialist_government = yes
-		}
-	}
-}
-
-music = {
-	song = "the_red_flag_labour"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ENG
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = ENG
-			has_government = social_democrat
 		}
 	}
 }

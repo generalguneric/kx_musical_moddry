@@ -1,5 +1,133 @@
 music_station = "africaaddio"
 
+# W. AFRICA
+
+music = {
+	song = "liberialandofliberty"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LIB
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = LIB
+		}
+	}
+}
+music = {
+	song = "tubmansoildersneverdie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LIB
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = LIB
+		}
+	}
+}
+music = {
+	song = "nanakru"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LIB
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = LIB
+		}
+	}
+}
+music = {
+	song = "allhailliberia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LIB
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = LIB
+		}
+	}
+}
+
+music = {
+	song = "lonestarforever"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = LIB
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = LIB
+		}
+	}
+}
+
+music = {
+	song = "bokassa_march"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CEA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CEA
+		}
+	}
+}
+
+music = {
+	song = "zombie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+				tag = NGR
+				tag = HAU
+				tag = KBR
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NGR
+				tag = HAU
+				tag = KBR
+			}
+		}
+	}
+}
+
+# E. AFRICA
+
 music = {
 	song = "baba_yetu"
 
@@ -26,28 +154,52 @@ music = {
 }
 
 music = {
-	song = "similau"
+	song = "midab_gumaysi_diida"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
 				OR = {
-					tag = SAF
-					tag = ZIM
+					tag = SOM
+					tag = DJI
 				}
 			}
 		}
 		modifier = {
 			factor = 20
 			OR = {
-				tag = SAF
-				tag = ZIM
+				tag = SOM
+				tag = DJI
 			}		
 		}
 	}
-	
 }
+
+music = {
+	song = "aabe_siyaad"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SOM
+					tag = DJI
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SOM
+				tag = DJI
+			}		
+		}
+	}
+}
+
+# MITTELAFRIKA
 
 music = {
 	song = "heia_safariKX"
@@ -72,51 +224,6 @@ music = {
 	}
 }
 
-music = {
-	song = "die_stem"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = NMB
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = NMB
-			}		
-		}
-	}
-}
-
-music = {
-	song = "afrikaan_beat"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = ZIM
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = ZIM
-			}		
-		}
-	}	
-}
 music = {
 	song = "madagascar"
 
@@ -203,98 +310,6 @@ music = {
 }
 
 music = {
-	song = "inhliziyo_yami"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = ZIM
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = ZIM
-			}		
-		}
-	}
-}
-
-music = {
-	song = "ek_sing_n_liedjie"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = ZIM
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = ZIM
-			}		
-		}
-	}
-}
-
-music = {
-	song = "hart_van_die_bosveld"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = ZIM
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = ZIM
-			}		
-		}
-	}
-}
-
-music = {
-	song = "ou_tante_koba"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = ZIM
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = ZIM
-			}		
-		}
-	}
-}
-
-music = {
 	song = "ujuba_na_takaburi"
 
 	chance = {
@@ -345,54 +360,6 @@ music = {
 }
 
 music = {
-	song = "so_long_europe"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = ZIM
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = ZIM
-			}		
-		}
-	}
-}
-
-music = {
-	song = "never_met_a_nice_south_african"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = ZIM
-					tag = SFR
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = SFR
-				tag = ZIM
-			}		
-		}
-	}
-}
-
-music = {
 	song = "angola"
 
 	chance = {
@@ -410,29 +377,6 @@ music = {
 			OR = {
 				tag = MAF
 				tag = CIV
-			}		
-		}
-	}
-}
-
-music = {
-	song = "voc"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SAF
-					tag = CCO
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SAF
-				tag = CCO
 			}		
 		}
 	}
@@ -520,52 +464,6 @@ music = {
 }
 
 music = {
-	song = "midab_gumaysi_diida"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SOM
-					tag = DJI
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SOM
-				tag = DJI
-			}		
-		}
-	}
-}
-
-music = {
-	song = "aabe_siyaad"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-					tag = SOM
-					tag = DJI
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SOM
-				tag = DJI
-			}		
-		}
-	}
-}
-
-music = {
 	song = "snake_eater"
 
 	chance = {
@@ -609,157 +507,6 @@ music = {
 				tag = UMN
 				tag = COS
 			}		
-		}
-	}
-}
-
-music = {
-	song = "liberialandofliberty"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = LIB
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = LIB
-		}
-	}
-}
-music = {
-	song = "tubmansoildersneverdie"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = LIB
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = LIB
-		}
-	}
-}
-music = {
-	song = "nanakru"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = LIB
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = LIB
-		}
-	}
-}
-music = {
-	song = "allhailliberia"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = LIB
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = LIB
-		}
-	}
-}
-music = {
-	song = "its_a_long_way_to_mukumbura"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ZIM
-				tag = CIV
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = ZIM
-			tag = CIV
-		}
-	}
-}
-music = {
-	song = "bokassa_march"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CEA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = CEA
-		}
-	}
-}
-
-music = {
-	song = "zombie"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-				tag = NGR
-				tag = HAU
-				tag = KBR
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NGR
-				tag = HAU
-				tag = KBR
-			}
-		}
-	}
-}
-
-music = {
-	song = "angola_e_nossa"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				OR = {
-				tag = POR
-				tag = ANG
-				tag = MZB
-				tag = CVG
-				}
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = POR
-				tag = ANG
-				tag = MZB
-				tag = CVG
-			}
 		}
 	}
 }
@@ -1285,6 +1032,286 @@ music = {
 				tag = KOG
 				tag = TKE
 			}		
+		}
+	}
+}
+# S. AFRICA
+
+music = {
+	song = "similau"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = ZIM
+			}		
+		}
+	}
+	
+}
+
+music = {
+	song = "die_stem"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = NMB
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = NMB
+			}		
+		}
+	}
+}
+
+music = {
+	song = "afrikaan_beat"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = ZIM
+			}		
+		}
+	}	
+}
+
+music = {
+	song = "inhliziyo_yami"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = ZIM
+			}		
+		}
+	}
+}
+
+music = {
+	song = "ek_sing_n_liedjie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = ZIM
+			}		
+		}
+	}
+}
+
+music = {
+	song = "hart_van_die_bosveld"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = ZIM
+			}		
+		}
+	}
+}
+
+music = {
+	song = "ou_tante_koba"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = ZIM
+			}		
+		}
+	}
+}
+
+music = {
+	song = "so_long_europe"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = ZIM
+			}		
+		}
+	}
+}
+
+music = {
+	song = "never_met_a_nice_south_african"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = ZIM
+					tag = SFR
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = SFR
+				tag = ZIM
+			}		
+		}
+	}
+}
+
+music = {
+	song = "voc"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = SAF
+					tag = SFR
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SAF
+				tag = SFR
+			}		
+		}
+	}
+}
+
+music = {
+	song = "its_a_long_way_to_mukumbura"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ZIM
+				tag = CIV
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ZIM
+			tag = CIV
+		}
+	}
+}
+
+music = {
+	song = "angola_e_nossa"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+				tag = POR
+				tag = ANG
+				tag = MZB
+				tag = CVG
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = POR
+				tag = ANG
+				tag = MZB
+				tag = CVG
+			}
 		}
 	}
 }

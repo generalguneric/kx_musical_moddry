@@ -1,37 +1,7 @@
 music_station = "reichspaktradio"
 
-music = {
-	song = "heiasafari"
+# GER
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MAF
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = MAF
-		}
-	}
-}
-music = {
-	song = "heiasafari2"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MAF
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = MAF
-		}
-	}
-}
 music = {
 	song = "diewachtamrhein"
 
@@ -208,6 +178,9 @@ music = {
 		}
 	}
 }
+
+# TUR
+
 music = {
 	song = "ceddin_deden_german"
 
@@ -225,6 +198,41 @@ music = {
 				tag = GER
 				tag = TUR
 			}
+		}
+	}
+}
+
+# MAF
+
+music = {
+	song = "heiasafari"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MAF
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = MAF
+		}
+	}
+}
+music = {
+	song = "heiasafari2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MAF
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = MAF
 		}
 	}
 }

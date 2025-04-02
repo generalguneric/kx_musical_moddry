@@ -1,5 +1,199 @@
 music_station = "america_radio"
 
+#ALL
+
+music = {
+	song = "pass_the_ammo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "over_there"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "pendergast"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+music = {
+	song = "capone"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "smile"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+music = {
+	song = "little_second_hand_store"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+music = {
+	song = "change_my_plan"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+music = {
+	song = "in_other_words"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "noah"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "roses_of_picardy_instrumental"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "roses_of_picardy_mario_lanza"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "you_rascal_you"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+music = {
+	song = "take_me_home_country_roads"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+#FEDS
+
 music = {
 	song = "7thcavmarch"
 
@@ -7,79 +201,20 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = WCC
+				is_federal_tag = yes
+				tag = CAL
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = WCC			
+			OR = {
+				is_federal_tag = yes
+				tag = CAL
+			}
 		}
 	}
 }
-music = {
-	song = "everymanaking"
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = TEX
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = TEX			
-		}
-	}
-}
-music = {
-	song = "maidensprayer"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = TEX
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = TEX
-		}
-	}
-}
-music = {
-	song = "bonnieblueflag"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = COR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = COR
-		}
-	}
-}
-music = {
-	song = "bunkerhill"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NEE
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NEE
-		}
-	}
-}
 music = {
 	song = "columbiagemoftheocean"
 
@@ -87,15 +222,20 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = USA
+				is_federal_tag = yes
+				tag = CAL
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = USA
+			OR = {
+				is_federal_tag = yes
+				tag = CAL
+			}
 		}
 	}
 }
+
 music = {
 	song = "hailcolumbia"
 
@@ -103,6 +243,90 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
+				is_federal_tag = yes
+				tag = CAL
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				is_federal_tag = yes
+				tag = CAL
+			}
+		}
+	}
+}
+
+music = {
+	song = "hellonthewabashfifeanddrum"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_federal_tag = yes
+				tag = CAL
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				is_federal_tag = yes
+				tag = CAL
+			}
+		}
+	}
+}
+
+music = {
+	song = "mechanizedmarch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_federal_tag = yes
+				tag = CAL
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				is_federal_tag = yes
+				tag = CAL
+			}
+		}
+	}
+}
+
+music = {
+	song = "hailtothechief"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_federal_tag = yes
+				tag = CAL
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				is_federal_tag = yes
+				tag = CAL
+			}
+		}
+	}
+}
+
+music = {
+	song = "presidenthoovermarch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
 				tag = USA
 			}
 		}
@@ -112,122 +336,77 @@ music = {
 		}
 	}
 }
+
 music = {
-	song = "heebiejeebies"
+	song = "dixie_union"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = BBR
-		}
-	}
-}
-music = {
-	song = "go_down_moses"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = BBR
-		}
-	}
-}
-music = {
-	song = "hellonthewabashfifeanddrum"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = WCC
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = WCC
-		}
-	}
-}
-music = {
-	song = "jubaaliresgospelnoah"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = BBR
-		}
-	}
-}
-music = {
-	song = "theyellowroseoftexas"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
 				tag = TEX
+				tag = CSA
 				tag = TXS
+				tag = WCC
 			}
 		}
 		modifier = {
 			factor = 20
 			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
 				tag = TEX
+				tag = CSA
 				tag = TXS
-			}
-		}
-	}
-}
-music = {
-	song = "kingcottonmarch"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = COR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = COR
-		}
-	}
-}
-music = {
-	song = "mechanizedmarch"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
 				tag = WCC
 			}
 		}
+	}
+}
+
+music = {
+	song = "battle_cry_of_freedom"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = TXS
+				tag = WCC
+
+
+			}
+		}
 		modifier = {
 			factor = 20
-			tag = WCC
+			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = TXS
+				tag = WCC
+			}
 		}
 	}
 }
+
+# CAL
+
 music = {
 	song = "mickeymouseclubmarch"
 
@@ -260,70 +439,26 @@ music = {
 		}
 	}
 }
+
+# NEE
+
 music = {
-	song = "takemehome"
+	song = "bunkerhill"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = COR
+				tag = NEE
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = COR
+			tag = NEE
 		}
 	}
 }
-music = {
-	song = "sixteentons"
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = TEX
-			}
-		}
-		modifier = {
-			factor = 20 
-			tag = TEX
-		}
-	}
-}
-music = {
-	song = "fightforyournation"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20 
-			tag = BBR
-		}
-	}
-}
-music = {
-	song = "hailtothechief"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = USA
-		}
-	}
-}
 music = {
 	song = "yankeedoodle"
 
@@ -340,6 +475,232 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "kx_king_in_yellow"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NEE
+		}
+	}
+}
+
+music = {
+	song = "fishmen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NEE
+		}
+	}
+}
+
+music = {
+	song = "green_mountaineer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NEE
+		}
+	}
+}
+
+music = {
+	song = "close_up_booze_shop"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NEE
+		}
+	}
+}
+
+music = {
+	song = "queer_people"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NEE
+		}
+	}
+}
+
+music = {
+	song = "toast_to_prohibition"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NEE
+		}
+	}
+}
+
+# NYC
+
+music = {
+	song = "new_york"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+				tag = USA
+				tag = CAL
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NYC
+				tag = NYC
+				tag = USA
+				tag = CAL
+				tag = NEE
+			}
+		}
+	}
+}
+
+music = {
+	song = "manhattan"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NYC
+				tag = BBR
+			}
+		}
+	}
+}
+
+music = {
+	song = "autumninnyc"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NYC
+				tag = BBR
+			}
+		}
+	}
+}
+
+music = {
+	song = "gangstas_paradise"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NYC
+		}
+	}
+}
+
+music = {
+	song = "godfather_theme"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NYC
+		}
+	}
+}
+music = {
+	song = "godfather_waltz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NYC
+		}
+	}
+}
+
+# CSA
+
 music = {
 	song = "anythinggoes"
 
@@ -356,6 +717,275 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "thebanneroflabour"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+
+music = {
+	song = "thelandsong"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+
+music = {
+	song = "thereispowerinaunion"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+
+music = {
+	song = "workingmanunion"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+
+music = {
+	song = "robesonussr"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = RUS
+				tag = BBR
+				tag = USA
+				tag = CSA
+				tag = ENG
+				tag = POL
+				tag = GEO
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = RUS
+				tag = BBR
+				tag = USA
+				tag = CSA
+				tag = ENG
+				tag = POL
+				tag = GEO
+			}
+			has_socialist_government = yes
+		}
+	}
+}
+music = {
+	song = "robesonwarszawianka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = RUS
+				tag = BBR
+				tag = USA
+				tag = CSA
+				tag = ENG
+				tag = POL
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = RUS
+				tag = BBR
+				tag = USA
+				tag = CSA
+				tag = ENG
+				tag = POL
+			}
+			has_socialist_government = yes
+		}
+	}
+}
+
+music = {
+	song = "hold_fort"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+
+music = {
+	song = "afl_cio_love_song"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+music = {
+	song = "teamsters_song"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+
+music = {
+	song = "john_browns_body"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+
+music = {
+	song = "heres_to_you"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CSA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CSA
+		}
+	}
+}
+
+# COR
+
+music = {
+	song = "bonnieblueflag"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = COR
+		}
+	}
+}
+
+music = {
+	song = "kingcottonmarch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = COR
+		}
+	}
+}
+
+music = {
+	song = "takemehome"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = COR
+		}
+	}
+}
+
 music = {
 	song = "godwilldefendtheright"
 
@@ -404,38 +1034,7 @@ music = {
 		}
 	}
 }
-music = {
-	song = "presidenthoovermarch"
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = USA
-		}
-	}
-}
-music = {
-	song = "thebanneroflabour"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CSA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = CSA
-		}
-	}
-}
 music = {
 	song = "thehuntersofkentucky"
 
@@ -452,38 +1051,7 @@ music = {
 		}
 	}
 }
-music = {
-	song = "thelandsong"
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CSA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = CSA
-		}
-	}
-}
-music = {
-	song = "thereispowerinaunion"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CSA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = CSA
-		}
-	}
-}
 music = {
 	song = "thesouth"
 
@@ -500,22 +1068,350 @@ music = {
 		}
 	}
 }
+
 music = {
-	song = "workingmanunion"
+	song = "The_Battle_Of_New_Orleans"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
+				tag = COR
+				tag = TEX
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = COR
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "dixie_confed"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = COR
+
+		}
+	}
+}
+
+music = {
+	song = "battle_cry_of_freedom_confed"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = COR
+		}
+	}
+}
+
+music = {
+	song = "devil_went_down_to_georgia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+			tag = TXS
+			tag = COR
+			tag = GEO
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = TXS
+				tag = COR
+				tag = GEO
+			}
+		}
+	}
+}
+
+music = {
+	song = "southern_soldier_boy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = COR
+		}
+	}
+}
+
+music = {
+	song = "mississippi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = COR
+		}
+	}
+}
+
+# BBR
+
+music = {
+	song = "heebiejeebies"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = BBR
+		}
+	}
+}
+music = {
+	song = "go_down_moses"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = BBR
+		}
+	}
+}
+
+music = {
+	song = "gloomy_sunday_billie_holiday"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = BBR
+
+
+		}
+	}
+}
+music = {
+	song = "billie_holiday_strange_fruit"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = BBR
+
+
+		}
+	}
+}
+
+music = {
+	song = "jubaaliresgospelnoah"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = BBR
+		}
+	}
+}
+
+music = {
+	song = "fightforyournation"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 20 
+			tag = BBR
+		}
+	}
+}
+
+music = {
+	song = "enlightenment"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+				tag = BBR
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NYC
+				tag = BBR
+			}
+		}
+	}
+}
+music = {
+	song = "spaceisindeedtheplace"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NYC
+				tag = BBR
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NYC
+				tag = BBR
+			}
+		}
+	}
+}
+
+# TEX
+
+music = {
+	song = "everymanaking"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = TEX			
+		}
+	}
+}
+music = {
+	song = "maidensprayer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = TEX
+		}
+	}
+}
+
+music = {
+	song = "sixteentons"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
 				tag = CSA
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = CSA
+			OR = {
+				tag = TEX
+				tag = CSA
+			}
 		}
 	}
 }
+
+# TXS
+
+music = {
+	song = "theyellowroseoftexas"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = TEX
+				tag = TXS
+			}
+		}
+	}
+}
+
 music = {
 	song = "germanyellowrose"
 
@@ -532,107 +1428,7 @@ music = {
 		}
 	}
 }
-music = {
-	song = "lonestarforever"
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = LIB
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = LIB
-		}
-	}
-}
-music = {
-	song = "new_york"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NYC
-				tag = USA
-				tag = CAL
-				tag = NEE
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NYC
-				tag = NYC
-				tag = USA
-				tag = CAL
-				tag = NEE
-			}
-		}
-	}
-}
-music = {
-	song = "manhattan"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NYC
-				tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NYC
-				tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "autumninnyc"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NYC
-				tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NYC
-				tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "The_Battle_Of_New_Orleans"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = COR
-				tag = FSA
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = COR
-				tag = FSA
-			}
-		}
-	}
-}
 music = {
 	song = "el_paso_trilogy"
 
@@ -731,715 +1527,7 @@ music = {
 		}
 	}
 }
-music = {
-	song = "enlightenment"
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NYC
-				tag = BBR
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NYC
-				tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "spaceisindeedtheplace"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NYC
-				tag = BBR
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = NYC
-				tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "ballad_of_ira"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NVN
-
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NVN
-
-
-		}
-	}
-}
-music = {
-	song = "hooghan"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = MEX
-				tag = NVN
-				tag = TXS
-				tag = ARZ
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = MEX
-				tag = NVN
-				tag = TXS
-				tag = ARZ
-			}
-
-		}
-	}
-}
-music = {
-	song = "gloomy_sunday_billie_holiday"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BBR
-
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = BBR
-
-
-		}
-	}
-}
-music = {
-	song = "billie_holiday_strange_fruit"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BBR
-
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = BBR
-
-
-		}
-	}
-}
-music = {
-	song = "pass_the_ammo"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = COR
-				tag = CSA
-				tag = TXS
-				tag = WCC
-				tag = ALA
-				tag = HAW
-				tag = ARZ
-
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = COR
-				tag = CSA
-				tag = TXS
-				tag = ALA
-				tag = HAW
-				tag = ARZ
-			}
-		}
-	}
-}
-music = {
-	song = "over_there"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = COR
-				tag = CSA
-				tag = TXS
-				tag = WCC
-				tag = ALA
-				tag = HAW
-				tag = ARZ
-
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = COR
-				tag = CSA
-				tag = TXS
-				tag = ALA
-				tag = HAW
-				tag = ARZ
-			}
-		}
-	}
-}
-music = {
-	song = "kx_king_in_yellow"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NEE
-
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NEE
-		}
-	}
-}
-music = {
-	song = "fishmen"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NEE
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NEE
-		}
-	}
-}
-music = {
-	song = "dixie_union"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-			}
-		}
-	}
-}
-music = {
-	song = "dixie_confed"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = COR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = COR
-
-		}
-	}
-}
-music = {
-	song = "battle_cry_of_freedom"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-			}
-		}
-	}
-}
-music = {
-	song = "battle_cry_of_freedom_confed"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = COR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = COR
-		}
-	}
-}
-music = {
-	song = "robesonussr"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = RUS
-				tag = BBR
-				tag = USA
-				tag = CSA
-				tag = ENG
-				tag = POL
-				tag = GEO
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = RUS
-				tag = BBR
-				tag = USA
-				tag = CSA
-				tag = ENG
-				tag = POL
-				tag = GEO
-			}
-			has_socialist_government = yes
-		}
-	}
-}
-music = {
-	song = "robesonwarszawianka"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = RUS
-				tag = BBR
-				tag = USA
-				tag = CSA
-				tag = ENG
-				tag = POL
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = RUS
-				tag = BBR
-				tag = USA
-				tag = CSA
-				tag = ENG
-				tag = POL
-			}
-			has_socialist_government = yes
-		}
-	}
-}
-
-music = {
-	song = "pendergast"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "capone"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "green_mountaineer"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NEE
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NEE
-		}
-	}
-}
-music = {
-	song = "gangstas_paradise"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NYC
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NYC
-		}
-	}
-}
-music = {
-	song = "smile"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "little_second_hand_store"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "change_my_plan"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "in_other_words"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = TXS
-				tag = WCC
-                tag = BBR
-			}
-		}
-	}
-}
-music = {
-	song = "devil_went_down_to_georgia"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-			tag = TXS
-			tag = COR
-			tag = GEO
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = TXS
-				tag = COR
-				tag = GEO
-			}
-		}
-	}
-}
-music = {
-	song = "north_to_alaska"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ALA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = ALA
-		}
-	}
-}
-music = {
-	song = "indian_love_call"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = ALA
-				tag = NVN
-				tag = TXS
-				tag = ARZ
-				tag = TEX
-				tag = WCC
-				tag = COR
-				tag = CAL
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = ALA
-				tag = NVN
-				tag = TXS
-				tag = ARZ
-				tag = TEX
-				tag = WCC
-				tag = COR
-				tag = CAL
-			}
-
-		}
-	}
-}
 music = {
 	song = "lone_star"
 
@@ -1460,318 +1548,7 @@ music = {
 		}
 	}
 }
-music = {
-	song = "noah"
 
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-	}
-}
-music = {
-	song = "roses_of_picardy_instrumental"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-	}
-}
-music = {
-	song = "roses_of_picardy_mario_lanza"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-	}
-}
-music = {
-	song = "hawaii_five_o"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = HAW
-			}
-		}
-		modifier = {
-			factor = 20
-				tag = HAW
-		}
-	}
-}
-music = {
-	song = "hold_fort"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CSA
-			}
-		}
-		modifier = {
-			factor = 20
-				tag = CSA
-		}
-	}
-}
-music = {
-	song = "southern_soldier_boy"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = COR
-			}
-		}
-		modifier = {
-			factor = 20
-				tag = COR
-		}
-	}
-}
-music = {
-	song = "you_rascal_you"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-	}
-}
-music = {
-	song = "take_me_home_country_roads"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = USA
-				tag = NEE
-				tag = NYC
-				tag = CAL
-				tag = TEX
-				tag = CSA
-				tag = WCC
-                tag = BBR
-				tag = TXS
-				tag = ALA
-				tag = NVN
-				tag = ARZ
-			}
-		}
-	}
-}
-music = {
-	song = "afl_cio_love_song"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CSA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = CSA
-		}
-	}
-}
-music = {
-	song = "teamsters_song"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CSA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = CSA
-		}
-	}
-}
-music = {
-	song = "mississippi"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = COR
-			}
-		}
-		modifier = {
-			factor = 20
-				tag = COR
-		}
-	}
-}
-music = {
-	song = "john_browns_body"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = CSA
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = CSA
-		}
-	}
-}
 music = {
 	song = "san_antonio"
 
@@ -2132,99 +1909,123 @@ music = {
 		}
 	}
 }
+
+# NVN
+
 music = {
-	song = "heres_to_you"
+	song = "ballad_of_ira"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = CSA
+				tag = NVN
+
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = CSA
+			tag = NVN
+
+
 		}
 	}
 }
 music = {
-	song = "godfather_theme"
+	song = "hooghan"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = NYC
+				tag = MEX
+				tag = NVN
+				tag = TXS
+				tag = ARZ
+
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = NYC
+			OR = {
+				tag = MEX
+				tag = NVN
+				tag = TXS
+				tag = ARZ
+			}
+
 		}
 	}
 }
+
 music = {
-	song = "godfather_waltz"
+	song = "indian_love_call"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = NYC
+				tag = ALA
+				tag = NVN
+				tag = TXS
+				tag = ARZ
+				tag = TEX
+				tag = WCC
+				tag = COR
+				tag = CAL
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = NYC
+			OR = {
+				tag = ALA
+				tag = NVN
+				tag = TXS
+				tag = ARZ
+				tag = TEX
+				tag = WCC
+				tag = COR
+				tag = CAL
+			}
+
 		}
 	}
 }
+
+# ALA
+
 music = {
-	song = "close_up_booze_shop"
+	song = "north_to_alaska"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = NEE
+				tag = ALA
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = NEE
+			tag = ALA
 		}
 	}
 }
+
+# HAW
+
 music = {
-	song = "queer_people"
+	song = "hawaii_five_o"
 
 	chance = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = NEE
+				tag = HAW
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = NEE
-		}
-	}
-}
-music = {
-	song = "toast_to_prohibition"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NEE
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NEE
+				tag = HAW
 		}
 	}
 }

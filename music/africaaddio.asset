@@ -293,3 +293,8 @@ music = {
 	file = "africaaddio/succes_african_jazz.ogg"
 	volume = 1.25
 }
+music = {
+	name = "lonestarforever"
+	file = "africaaddio/the_lone_star_forever.ogg"
+	volume = 1.25
+}
