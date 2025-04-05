@@ -164,11 +164,6 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "lonestarforever"
-	file = "america_radio/the_lone_star_forever.ogg"
-	volume = 1.25
-}
-music = {
 	name = "spaceisindeedtheplace"
 	file = "america_radio/space_is_the_place.ogg"
 	volume = 1.25
