@@ -574,3 +574,8 @@ music = {
 	file = "the_old_tea_house.ogg"
 	volume = 1.25
 }
+music = {
+	name = "rustico"
+	file = "rustico.ogg"
+	volume = 1.25
+}

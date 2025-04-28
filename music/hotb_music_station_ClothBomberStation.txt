@@ -2350,3 +2350,33 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "rustico"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SPR
+				tag = CAR
+				tag = CNT
+				tag = BAS
+				tag = CAT
+				tag = GLC
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SPR
+				tag = CAR
+				tag = CNT
+				tag = BAS
+				tag = CAT
+				tag = GLC
+			}
+		}
+	}
+}
