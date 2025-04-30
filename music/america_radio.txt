@@ -2029,3 +2029,93 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "masochism_tango"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "national_brotherhood_week"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "poisoning_pigeons_in_park"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "send_marines"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "we_will_all_go_together_when_we_go"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "when_you_are_old_and_gray"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}

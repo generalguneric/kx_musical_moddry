@@ -523,3 +523,33 @@ music = {
 	file = "america_radio/toast_to_prohibition.ogg"
 	volume = 1.25
 }
+music = {
+	name = "masochism_tango"
+	file = "america_radio/masochism_tango.ogg"
+	volume = 1.25
+}
+music = {
+	name = "national_brotherhood_week"
+	file = "america_radio/national_brotherhood_week.ogg"
+	volume = 1.25
+}
+music = {
+	name = "poisoning_pigeons_in_park"
+	file = "america_radio/poisoning_pigeons_in_park.ogg"
+	volume = 1.25
+}
+music = {
+	name = "send_marines"
+	file = "america_radio/send_marines.ogg"
+	volume = 1.25
+}
+music = {
+	name = "we_will_all_go_together_when_we_go"
+	file = "america_radio/we_will_all_go_together_when_we_go.ogg"
+	volume = 1.25
+}
+music = {
+	name = "when_you_are_old_and_gray"
+	file = "america_radio/when_you_are_old_and_gray.ogg"
+	volume = 1.25
+}
