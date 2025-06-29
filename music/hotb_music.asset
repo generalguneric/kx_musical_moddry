@@ -579,3 +579,8 @@ music = {
 	file = "rustico.ogg"
 	volume = 1.25
 }
+music = {
+	name = "balders_dream_invulnerable"
+	file = "balders_dream_invulnerable.ogg"
+	volume = 1.25
+}

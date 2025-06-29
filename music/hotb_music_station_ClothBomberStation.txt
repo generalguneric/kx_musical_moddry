@@ -2380,3 +2380,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "balders_dream_invulnerable"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NOR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NOR
+		}
+	}
+}
