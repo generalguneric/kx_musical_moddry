@@ -244,6 +244,16 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "ko_jua"
+	file = "ententeradio/ko_jua.ogg"
+	volume = 1.25
+}
+music = {
+	name = "mouth_tobique"
+	file = "ententeradio/mouth_tobique.ogg"
+	volume = 1.25
+}
+music = {
 	name = "coaker_instrumental"
 	file = "ententeradio/coaker_instrumental.ogg"
 	volume = 1.25

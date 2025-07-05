@@ -1026,6 +1026,42 @@ music = {
 	}
 }
 music = {
+	song = "ko_jua"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
+	song = "mouth_tobique"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFL
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFL
+			}
+		}
+	}
+}
+music = {
 	song = "the_idiot"
 
 	chance = {
