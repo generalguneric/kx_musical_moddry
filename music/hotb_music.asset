@@ -584,3 +584,18 @@ music = {
 	file = "balders_dream_invulnerable.ogg"
 	volume = 1.25
 }
+music = {
+	name = "dr_getulio"
+	file = "dr_getulio.ogg"
+	volume = 1.25
+}
+music = {
+	name = "o_grande_presidente"
+	file = "o_grande_presidente.ogg"
+	volume = 1.25
+}
+music = {
+	name = "se_eu_fosse_o_getulio"
+	file = "se_eu_fosse_o_getulio.ogg"
+	volume = 1.25
+}
