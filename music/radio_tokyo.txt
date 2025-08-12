@@ -14,3 +14,213 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "battotai"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "chikaradzuku_ajia_koshinkyoku"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "doki_no_sakura"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "gochin"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "gunkan_machi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "hohei_no_honryo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "kamikazetokubetsukogekitai"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "roei_no_uta"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "senjin_kun_no_uta"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "senyu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "shussei_heishi_o_okuru_uta"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "song_for_the_defense_of_iwo_jima"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "tokkoutai_bushi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "yuki_no_shingun"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}

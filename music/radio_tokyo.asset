@@ -3,3 +3,73 @@ music = {
 	file = "radio_tokyo/showaishin_no_uta.ogg"
 	volume = 1.25
 }
+music = {
+	name = "battotai"
+	file = "radio_tokyo/battotai.ogg"
+	volume = 1.25
+}
+music = {
+	name = "chikaradzuku_ajia_koshinkyoku"
+	file = "radio_tokyo/chikaradzuku_ajia_koshinkyoku.ogg"
+	volume = 1.25
+}
+music = {
+	name = "doki_no_sakura"
+	file = "radio_tokyo/doki_no_sakura.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gochin"
+	file = "radio_tokyo/gochin.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gunkan_machi"
+	file = "radio_tokyo/gunkan_machi.ogg"
+	volume = 1.25
+}
+music = {
+	name = "hohei_no_honryo"
+	file = "radio_tokyo/hohei_no_honryo.ogg"
+	volume = 1.25
+}
+music = {
+	name = "kamikazetokubetsukogekitai"
+	file = "radio_tokyo/kamikazetokubetsukogekitai.ogg"
+	volume = 1.25
+}
+music = {
+	name = "roei_no_uta"
+	file = "radio_tokyo/roei_no_uta.ogg"
+	volume = 1.25
+}
+music = {
+	name = "senjin_kun_no_uta"
+	file = "radio_tokyo/senjin_kun_no_uta.ogg"
+	volume = 1.25
+}
+music = {
+	name = "senyu"
+	file = "radio_tokyo/senyu.ogg"
+	volume = 1.25
+}
+music = {
+	name = "shussei_heishi_o_okuru_uta"
+	file = "radio_tokyo/shussei_heishi_o_okuru_uta.ogg"
+	volume = 1.25
+}
+music = {
+	name = "song_for_the_defense_of_iwo_jima"
+	file = "radio_tokyo/song_for_the_defense_of_iwo_jima.ogg"
+	volume = 1.25
+}
+music = {
+	name = "tokkoutai_bushi"
+	file = "radio_tokyo/tokkoutai_bushi.ogg"
+	volume = 1.25
+}
+music = {
+	name = "yuki_no_shingun"
+	file = "radio_tokyo/yuki_no_shingun.ogg"
+	volume = 1.25
+}
