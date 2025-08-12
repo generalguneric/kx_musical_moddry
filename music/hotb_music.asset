@@ -599,3 +599,8 @@ music = {
 	file = "se_eu_fosse_o_getulio.ogg"
 	volume = 1.25
 }
+music = {
+	name = "glorias_ao_brasil"
+	file = "glorias_ao_brasil.ogg"
+	volume = 1.25
+}

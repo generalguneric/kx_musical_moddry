@@ -2496,3 +2496,36 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "glorias_ao_brasil"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+	}
+}

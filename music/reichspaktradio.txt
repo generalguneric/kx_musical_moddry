@@ -202,6 +202,29 @@ music = {
 	}
 }
 
+# JAP
+
+music = {
+	song = "doki_no_sakura_german"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+				tag = JAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = GER
+				tag = JAP
+			}
+		}
+	}
+}
+
 # MAF
 
 music = {

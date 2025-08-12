@@ -1,0 +1,5 @@
+music = {
+	name = "showaishin_no_uta"
+	file = "radio_tokyo/showaishin_no_uta.ogg"
+	volume = 1.25
+}

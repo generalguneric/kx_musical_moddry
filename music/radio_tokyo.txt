@@ -1,0 +1,16 @@
+music_station = "radio_tokyo"
+
+music = {
+	song = "showaishin_no_uta"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}

@@ -68,3 +68,8 @@ music = {
 	file = "reichspaktradio/ceddin_deden_german.ogg"
 	volume = 1.25
 }
+music = {
+	name = "doki_no_sakura_german"
+	file = "reichspaktradio/doki_no_sakura_german.ogg"
+	volume = 1.25
+}
