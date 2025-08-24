@@ -73,3 +73,8 @@ music = {
 	file = "radio_tokyo/yuki_no_shingun.ogg"
 	volume = 1.25
 }
+music = {
+	name = "gakka_girai"
+	file = "radio_tokyo/gakka_girai.ogg"
+	volume = 1.25
+}

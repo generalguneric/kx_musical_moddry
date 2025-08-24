@@ -224,3 +224,18 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "gakka_girai"
+
+	chance = {
+		modifier = {
+			factor = 0
+			tag = JAP
+		}
+		modifier = {
+			factor = 20
+			tag = JAP
+		}
+	}
+}
