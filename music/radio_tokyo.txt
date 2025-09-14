@@ -6,7 +6,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -21,7 +23,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -36,7 +40,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -51,7 +57,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -66,7 +74,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -81,7 +91,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -96,7 +108,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -111,7 +125,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -126,7 +142,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -141,7 +159,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -156,7 +176,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -171,7 +193,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -186,7 +210,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -201,7 +227,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -216,7 +244,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
@@ -231,7 +261,9 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			tag = JAP
+			NOT = {
+				tag = JAP
+			}
 		}
 		modifier = {
 			factor = 20
