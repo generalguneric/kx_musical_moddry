@@ -42,6 +42,16 @@ music = {
 	file = "radio_vladivostok/rus_katusha.ogg"
 	volume = 0.85
 }
+music = {
+	name = "anthem_free_russia"
+	file = "radio_vladivostok/anthem_free_russia.ogg"
+	volume = 0.85
+}
+music = {
+	name = "russia_farewell_of_slavyanka"
+	file = "radio_vladivostok/russia_farewell_of_slavyanka.ogg"
+	volume = 0.85
+}
 
 # radio_vladivostok Conservative
 
@@ -245,6 +255,12 @@ music = {
 	volume = 0.85
 }
 
+music = {
+	name = "helper_and_patron"
+	file = "radio_vladivostok/helper_and_patron.ogg"
+	volume = 0.85
+}
+
 ### DKB - Don-Kuban Union ###
 
 music = {
@@ -266,6 +282,11 @@ music = {
 	name = "dkb_oysya"
 	file = "radio_vladivostok/dkb_oysya.ogg"
 	volume = 0.85
+}
+music = {
+	name = "rideofthecossacks"
+	file = "radio_vladivostok/rideofthecossacks.ogg"
+	volume = 1
 }
 music = {
 	name = "rus_falcons_soar_up_like_eagles"

@@ -207,6 +207,22 @@ music = {
 		}
 	}
 }
+music = {
+	song = "russia_farewell_of_slavyanka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
+	}
+}
 
 # Monarchy
 
@@ -291,6 +307,28 @@ music = {
 
 music = {
 	song = "junckers_song"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				AND = {
+					tag = RUS
+					RUS_russian_monarch = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			AND = {
+				tag = RUS
+				RUS_russian_monarch = yes
+			}
+		}
+	}
+}
+
+music = {
+	song = "helper_and_patron"
 	chance = {
 		modifier = {
 			factor = 0
@@ -442,6 +480,22 @@ music = {
 				is_russian_speaking_tag = yes
 				tag = SIB
 			}
+		}
+	}
+}
+music = {
+	song = "anthem_free_russia"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+			has_democratic_government = yes
 		}
 	}
 }
@@ -1160,6 +1214,28 @@ music = {
 
 music = {
 	song = "dkb_oysya"
+	chance = {
+		modifier = { 
+			factor = 0		
+			NOT = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+			}
+		}
+		modifier = { 
+			factor = 20
+			OR = {
+				is_russian_speaking_tag = yes
+				tag = KUB
+				tag = DKB
+			}
+		}
+	}
+}
+
+music = {
+	song = "rideofthecossacks"
 	chance = {
 		modifier = { 
 			factor = 0		

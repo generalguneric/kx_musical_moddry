@@ -34,6 +34,8 @@ radio_vladivostok_TITLE:0 "Radio Vladivostok"
  two_brothers_were_going_there: "Tam Shli Dva Brata\n§PTwo Brothers Were Going There§!"
  my_army: "Armiya Moya\n§PMy Army§!"
  russian_soldier_song: "Song of the Russian soldier"
+ russia_farewell_of_slavyanka: "Proshchaniye slavyanki\n§PFarewell of Slavianka§! (2)"
+ 
  # Conservative
  talyanochka: "Talyanochka"
  god_save_the_tsar_russia: "Bozhe, Tsarya khrani!\n§PGod Save the Tsar!§!"
@@ -41,6 +43,7 @@ radio_vladivostok_TITLE:0 "Radio Vladivostok"
  song_of_the_siberian_riflemen: "Marsh sibirskikh strelkov\n§PMarch of the Siberian Riflemen§!"
  march_of_preobrazhensk_regiment: "Marsh Preobrazhenskogo Polka\n§PMarch of Preobrazhensk Regiment§!"
  glory_to: "Slavsya!\n§PGlory to!§!"
+
  # Syndie
  theremarchthesoldiers: "Shli soldaty\n§PThere March the Soldiers§!"
  ahnastazja: "Ah, Nastassia\n§PAh Anastasia§!"
@@ -67,6 +70,7 @@ radio_vladivostok_TITLE:0 "Radio Vladivostok"
  rus_anthem_of_ural_cossacks: "Uralskiye My Kazaki!\n§PAnthem of the Ural Cossacks§!"
  rus_gimn_sibiri: "Za Chest Sibiri!\n§PAnthem of the Siberian Cossacks§!"
  rus_orenburg_cossacks: "Pesnya Orenburgskikh Kazakov\n§PAnthem of the Orenburg Cossacks§!"
+ rideofthecossacks: "Ride of the Cossacks"
 
 sov_artillerymans_song: "Pesnya Artilleristov\n§PSong of Artillerymen§!"
 sov_march_of_the_pilots: "Marsh Aviatorov\n§PMarch of Aviators§!"
@@ -83,3 +87,4 @@ sov_red_army_strongest: "Krasnaya Armiya Vsekh Silney\n§PRed Army is the Strong
 sov_marsellieza: "Rabochaya Marselyeza\n§PThe Workers' Marseillaise§!"
 sov_iron_infantry: "Zheleznaya Pekhota\n§PIron Infantry§!"
 sov_red_commanders_college: "Shkola Krasnykh Komandirov\n§PRed Commanders College§!"
+anthem_free_russia: "Gimn svobodnoy Rossii\n§PAnthem of Free Russia§!"

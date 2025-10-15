@@ -239,6 +239,23 @@ music = {
 }
 
 music = {
+	song = "balders_dream_invulnerable"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NOR
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NOR
+		}
+	}
+}
+
+music = {
 	song = "vapaussoturin_valloituslaulu"
 
 	chance = {
@@ -256,6 +273,66 @@ music = {
 }
 
 # IBERIA
+
+music = {
+	song = "rustico"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SPR
+				tag = CAR
+				tag = CNT
+				tag = BAS
+				tag = CAT
+				tag = GLC
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SPR
+				tag = CAR
+				tag = CNT
+				tag = BAS
+				tag = CAT
+				tag = GLC
+			}
+		}
+	}
+}
+
+music = {
+	song = "Spain_Theme"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SPR
+				tag = CAR
+				tag = CNT
+				tag = BAS
+				tag = CAT
+				tag = GLC
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = SPR
+				tag = CAR
+				tag = CNT
+				tag = BAS
+				tag = CAT
+				tag = GLC
+			}
+		}
+	}
+}
 
 music = {
 	song = "alpargatas"
@@ -1440,6 +1517,138 @@ music = {
 }
 
 music = {
+	song = "dr_getulio"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+	}
+}
+
+music = {
+	song = "o_grande_presidente"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+	}
+}
+
+music = {
+	song = "se_eu_fosse_o_getulio"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+	}
+}
+
+music = {
+	song = "glorias_ao_brasil"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = BRA
+				tag = PIR
+				tag = BAH
+				tag = AMA
+				tag = SPO
+				tag = RJM
+				tag = GRP
+				tag = GOY
+			}
+		}
+	}
+}
+
+music = {
 	song = "guerra_la_burguesia"
 
 	chance = {
@@ -2347,215 +2556,6 @@ music = {
 		modifier = {
 			factor = 20
 			tag = SIA
-		}
-	}
-}
-
-music = {
-	song = "rustico"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = SPR
-				tag = CAR
-				tag = CNT
-				tag = BAS
-				tag = CAT
-				tag = GLC
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SPR
-				tag = CAR
-				tag = CNT
-				tag = BAS
-				tag = CAT
-				tag = GLC
-			}
-		}
-	}
-}
-
-music = {
-	song = "balders_dream_invulnerable"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = NOR
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = NOR
-		}
-	}
-}
-
-music = {
-	song = "dr_getulio"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BRA
-				tag = PIR
-				tag = BAH
-				tag = AMA
-				tag = SPO
-				tag = RJM
-				tag = GRP
-				tag = GOY
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = BRA
-				tag = PIR
-				tag = BAH
-				tag = AMA
-				tag = SPO
-				tag = RJM
-				tag = GRP
-				tag = GOY
-			}
-		}
-	}
-}
-
-music = {
-	song = "o_grande_presidente"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BRA
-				tag = PIR
-				tag = BAH
-				tag = AMA
-				tag = SPO
-				tag = RJM
-				tag = GRP
-				tag = GOY
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = BRA
-				tag = PIR
-				tag = BAH
-				tag = AMA
-				tag = SPO
-				tag = RJM
-				tag = GRP
-				tag = GOY
-			}
-		}
-	}
-}
-
-music = {
-	song = "se_eu_fosse_o_getulio"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BRA
-				tag = PIR
-				tag = BAH
-				tag = AMA
-				tag = SPO
-				tag = RJM
-				tag = GRP
-				tag = GOY
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = BRA
-				tag = PIR
-				tag = BAH
-				tag = AMA
-				tag = SPO
-				tag = RJM
-				tag = GRP
-				tag = GOY
-			}
-		}
-	}
-}
-
-music = {
-	song = "glorias_ao_brasil"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = BRA
-				tag = PIR
-				tag = BAH
-				tag = AMA
-				tag = SPO
-				tag = RJM
-				tag = GRP
-				tag = GOY
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = BRA
-				tag = PIR
-				tag = BAH
-				tag = AMA
-				tag = SPO
-				tag = RJM
-				tag = GRP
-				tag = GOY
-			}
-		}
-	}
-}
-
-music = {
-	song = "Spain_Theme"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = SPR
-				tag = CAR
-				tag = CNT
-				tag = BAS
-				tag = CAT
-				tag = GLC
-
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				tag = SPR
-				tag = CAR
-				tag = CNT
-				tag = BAS
-				tag = CAT
-				tag = GLC
-			}
 		}
 	}
 }
