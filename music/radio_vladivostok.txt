@@ -427,25 +427,6 @@ music = {
 	}
 }
 music = {
-	song = "rus_dance_of_the_swans"
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				is_russian_speaking_tag = yes
-				tag = SIB
-			}
-		}
-		modifier = {
-			factor = 20
-			OR = {
-				is_russian_speaking_tag = yes
-				tag = SIB
-			}
-		}
-	}
-}
-music = {
 	song = "dance_of_the_knights"
 	chance = {
 		modifier = {

@@ -196,12 +196,6 @@ music = {
 }
 
 music = {
-	name = "rus_dance_of_the_swans"
-	file = "radio_vladivostok/rus_dance_of_the_swans.ogg"
-	volume = 0.85
-}
-
-music = {
 	name = "swan_lake_waltz"
 	file = "radio_vladivostok/rus_swan_lake_waltz.ogg"
 	volume = 0.85
