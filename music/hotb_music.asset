@@ -609,3 +609,8 @@ music = {
 	file = "Spain_Theme.ogg"
 	volume = 1.25
 }
+music = {
+	name = "seher"
+	file = "seher.ogg"
+	volume = 1.25
+}

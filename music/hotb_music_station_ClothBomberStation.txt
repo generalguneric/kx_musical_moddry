@@ -2559,3 +2559,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "seher"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AZE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AZE
+		}
+	}
+}
