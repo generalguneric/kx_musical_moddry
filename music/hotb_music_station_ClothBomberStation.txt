@@ -2576,3 +2576,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "o_helga_natt"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SWE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = SWE
+		}
+	}
+}
