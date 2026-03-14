@@ -235,3 +235,8 @@ music = {
 	file = "christmas/homeforchristmas.ogg"
 	volume = 1.25
 }
+music = {
+	name = "o_helga_natt"
+	file = "o_helga_natt.ogg"
+	volume = 1.25
+}

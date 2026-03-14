@@ -272,6 +272,23 @@ music = {
 	}
 }
 
+music = {
+	song = "ievan_polkka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
 # IBERIA
 
 music = {
@@ -999,6 +1016,23 @@ music = {
 		modifier = {
 			factor = 20
 			tag = WHR
+		}
+	}
+}
+
+music = {
+	song = "seher"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AZE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AZE
 		}
 	}
 }
@@ -2556,40 +2590,6 @@ music = {
 		modifier = {
 			factor = 20
 			tag = SIA
-		}
-	}
-}
-
-music = {
-	song = "seher"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = AZE
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = AZE
-		}
-	}
-}
-
-music = {
-	song = "o_helga_natt"
-
-	chance = {
-		modifier = {
-			factor = 0
-			NOT = {
-				tag = SWE
-			}
-		}
-		modifier = {
-			factor = 20
-			tag = SWE
 		}
 	}
 }

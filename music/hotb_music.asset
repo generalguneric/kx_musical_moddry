@@ -615,7 +615,7 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "o_helga_natt"
-	file = "o_helga_natt.ogg"
+	name = "ievan_polkka"
+	file = "fin_ievan_polkka.ogg"
 	volume = 1.25
 }
