@@ -923,12 +923,17 @@ music = {
 			factor = 0
 			NOT = {
 				tag = TUR
+				tag = AFG
 			}
 		}
 		modifier = {
 			factor = 20
 			OR = {
 				tag = TUR
+				AND = {
+					tag = AFG
+					has_completed_focus = AFG_ottoman_exile
+				}
 			}
 		}
 	}
@@ -942,11 +947,18 @@ music = {
 			factor = 0
 			NOT = {
 				tag = TUR
+				tag = AFG
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = TUR
+			OR = {
+				tag = TUR
+				AND = {
+					tag = AFG
+					has_completed_focus = AFG_ottoman_exile
+				}
+			}
 		}
 	}
 }
@@ -959,11 +971,18 @@ music = {
 			factor = 0
 			NOT = {
 				tag = TUR
+				tag = AFG
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = TUR
+			OR = {
+				tag = TUR
+				AND = {
+					tag = AFG
+					has_completed_focus = AFG_ottoman_exile
+				}
+			}
 		}
 	}
 }
