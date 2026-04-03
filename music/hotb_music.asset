@@ -240,6 +240,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "entry_march_boyars"
+	file = "entry_march_boyars.ogg"
+	volume = 1.25
+}
+music = {
 	name = "moldau"
 	file = "moldau.ogg"
 	volume = 1.25

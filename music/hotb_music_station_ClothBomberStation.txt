@@ -239,6 +239,36 @@ music = {
 }
 
 music = {
+	song = "entry_march_boyars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ICE
+				tag = SWE
+				tag = NOR
+				tag = DEN
+				tag = FIN
+				tag = EST
+			}
+		}
+	}
+}
+
+music = {
 	song = "balders_dream_invulnerable"
 
 	chance = {
