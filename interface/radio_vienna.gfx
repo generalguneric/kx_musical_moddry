@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_radio_vienna_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/radio_vienna_art.png"
+		noOfFrames = 2
+	}
+}

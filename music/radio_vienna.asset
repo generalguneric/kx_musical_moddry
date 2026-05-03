@@ -1,0 +1,40 @@
+music = {
+	name = "kaiserhymne_full"
+	file = "radio_vienna/kaiserhymne_full.ogg"
+	volume = 1
+}
+music = {
+	name = "beerbarrelpolka"
+	file = "radio_vienna/beer_barrel_polka.ogg"
+	volume = 1
+}
+music = {
+	name = "entryofthegladiators"
+	file = "radio_vienna/entry_of_the_gladiators.ogg"
+	volume = 1
+}
+music = {
+	name = "florentinemarch"
+	file = "radio_vienna/florentine_march.ogg"
+	volume = 1
+}
+music = {
+	name = "hercegovac"
+	file = "radio_vienna/hercegovac.ogg"
+	volume = 1
+}
+music = {
+	name = "hojvzhurupestrysokole"
+	file = "radio_vienna/hoj_vzhuru_pestry_sokole.ogg"
+	volume = 1
+}
+music = {
+	name = "hranicevzpala"
+	file = "radio_vienna/hranice_vzpala.ogg"
+	volume = 1
+}
+music = {
+	name = "internacionala"
+	file = "radio_vienna/internacionala.ogg"
+	volume = 1
+}
