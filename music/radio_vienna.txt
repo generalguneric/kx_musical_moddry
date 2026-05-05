@@ -324,7 +324,7 @@ music = {
 		}
 		modifier = {
 			factor = 20
-			tag = AUS
+			tag = CRO
 		}
 		modifier = {
 			factor = 20
