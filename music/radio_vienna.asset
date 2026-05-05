@@ -38,3 +38,258 @@ music = {
 	file = "radio_vienna/internacionala.ogg"
 	volume = 1
 }
+music = {
+	name = "204_teslicka_brigada"
+	file = "radio_vienna/204_teslicka_brigada.ogg"
+	volume = 1
+}
+music = {
+	name = "allegro_concerto_piano_orchestra_no_5_air_raid_recording"
+	file = "radio_vienna/allegro_concerto_piano_orchestra_no_5_air_raid_recording.ogg"
+	volume = 1
+}
+music = {
+	name = "arbeiter_von_wien"
+	file = "radio_vienna/arbeiter_von_wien.ogg"
+	volume = 1
+}
+music = {
+	name = "beautiful_blue_danube"
+	file = "radio_vienna/beautiful_blue_danube.ogg"
+	volume = 1
+}
+music = {
+	name = "boh_ohrani_bog_obvari"
+	file = "radio_vienna/boh_ohrani_bog_obvari.ogg"
+	volume = 1
+}
+music = {
+	name = "boldogasszony_anyank"
+	file = "radio_vienna/boldogasszony_anyank.ogg"
+	volume = 1
+}
+music = {
+	name = "boze_zivi_boze_stiti"
+	file = "radio_vienna/boze_zivi_boze_stiti.ogg"
+	volume = 1
+}
+music = {
+	name = "cis_und_trans"
+	file = "radio_vienna/cis_und_trans.ogg"
+	volume = 1
+}
+music = {
+	name = "csardas_aus_zigeunerliebe"
+	file = "radio_vienna/csardas_aus_zigeunerliebe.ogg"
+	volume = 1
+}
+music = {
+	name = "das_leben_fur_unsern_kaiser"
+	file = "radio_vienna/das_leben_fur_unsern_kaiser.ogg"
+	volume = 1
+}
+music = {
+	name = "doamne_tine_si_protege"
+	file = "radio_vienna/doamne_tine_si_protege.ogg"
+	volume = 1
+}
+music = {
+	name = "eine_kleine_nachtmusik"
+	file = "radio_vienna/eine_kleine_nachtmusik.ogg"
+	volume = 1
+}
+music = {
+	name = "es_ist_mein_echts_wienerblut_marsch"
+	file = "radio_vienna/es_ist_mein_echts_wienerblut_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "habsburg_hoch"
+	file = "radio_vienna/habsburg_hoch.ogg"
+	volume = 1
+}
+music = {
+	name = "harminckettes_baka_vagyok_en"
+	file = "radio_vienna/harminckettes_baka_vagyok_en.ogg"
+	volume = 1
+}
+music = {
+	name = "hereinspaziert_walzer"
+	file = "radio_vienna/hereinspaziert_walzer.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_dance_no_5"
+	file = "radio_vienna/hungarian_dance_no_5.ogg"
+	volume = 1
+}
+music = {
+	name = "hungarian_rhapsody_no_2"
+	file = "radio_vienna/hungarian_rhapsody_no_2.ogg"
+	volume = 1
+}
+music = {
+	name = "hymn_ludowy"
+	file = "radio_vienna/hymn_ludowy.ogg"
+	volume = 1
+}
+music = {
+	name = "jurisna_bojna"
+	file = "radio_vienna/jurisna_bojna.ogg"
+	volume = 1
+}
+music = {
+	name = "kaiser_karl_marsch"
+	file = "radio_vienna/kaiser_karl_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "kaiser_walzer"
+	file = "radio_vienna/kaiser_walzer.ogg"
+	volume = 1
+}
+music = {
+	name = "karnter_schutze_marsch"
+	file = "radio_vienna/karnter_schutze_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "klapka_indulo"
+	file = "radio_vienna/klapka_indulo.ogg"
+	volume = 1
+}
+music = {
+	name = "leichte_kavallerie_overture"
+	file = "radio_vienna/leichte_kavallerie_overture.ogg"
+	volume = 1
+}
+music = {
+	name = "lidova_hymna"
+	file = "radio_vienna/lidova_hymna.ogg"
+	volume = 1
+}
+music = {
+	name = "liechtenstein_marsch"
+	file = "radio_vienna/liechtenstein_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "magyar_diszmenet_indulo"
+	file = "radio_vienna/magyar_diszmenet_indulo.ogg"
+	volume = 1
+}
+music = {
+	name = "prinz_eugen_der_edle_ritter"
+	file = "radio_vienna/prinz_eugen_der_edle_ritter.ogg"
+	volume = 1
+}
+music = {
+	name = "radetzky_marsch"
+	file = "radio_vienna/radetzky_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "rakoczy_march"
+	file = "radio_vienna/rakoczy_march.ogg"
+	volume = 1
+}
+music = {
+	name = "schonfieldmarsch"
+	file = "radio_vienna/schonfieldmarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "serbi_dio_laustriaco_regno"
+	file = "radio_vienna/serbi_dio_laustriaco_regno.ogg"
+	volume = 1
+}
+music = {
+	name = "standschutzen_marsch"
+	file = "radio_vienna/standschutzen_marsch.ogg"
+	volume = 1
+}
+music = {
+	name = "stille_nacht"
+	file = "radio_vienna/stille_nacht.ogg"
+	volume = 1
+}
+music = {
+	name = "szomoru_vasarnap"
+	file = "radio_vienna/szomoru_vasarnap.ogg"
+	volume = 1
+}
+music = {
+	name = "tartsa_isten_ovja_isten"
+	file = "radio_vienna/tartsa_isten_ovja_isten.ogg"
+	volume = 1
+}
+music = {
+	name = "unter_dem_doppeladler"
+	file = "radio_vienna/unter_dem_doppeladler.ogg"
+	volume = 1
+}
+music = {
+	name = "wacht_an_der_donau"
+	file = "radio_vienna/wacht_an_der_donau.ogg"
+	volume = 1
+}
+music = {
+	name = "wallensteins_tod"
+	file = "radio_vienna/wallensteins_tod.ogg"
+	volume = 1
+}
+music = {
+	name = "vysadkari"
+	file = "radio_vienna/vysadkari.ogg"
+	volume = 1
+}
+music = {
+	name = "varsavjanka"
+	file = "radio_vienna/varsavjanka.ogg"
+	volume = 1
+}
+music = {
+	name = "strojsestroj"
+	file = "radio_vienna/strojsestroj.ogg"
+	volume = 1
+}
+music = {
+	name = "nastatickumasaryku"
+	file = "radio_vienna/nastatickumasaryku.ogg"
+	volume = 1
+}
+music = {
+	name = "katablazen"
+	file = "radio_vienna/katablazen.ogg"
+	volume = 1
+}
+music = {
+	name = "katyusa"
+	file = "radio_vienna/katyusa.ogg"
+	volume = 1
+}
+music = {
+	name = "honvedbanda"
+	file = "radio_vienna/honvedbanda.ogg"
+	volume = 1
+}
+music = {
+	name = "himnusz"
+	file = "radio_vienna/himnusz.ogg"
+	volume = 1
+}
+music = {
+	name = "bajtars"
+	file = "radio_vienna/bajtars.ogg"
+	volume = 1
+}
+music = {
+	name = "golya"
+	file = "radio_vienna/golya.ogg"
+	volume = 1
+}
+music = {
+	name = "jelacic"
+	file = "radio_vienna/jelacic.ogg"
+	volume = 1
+}

@@ -28,6 +28,10 @@ music = {
 		}
 		modifier = {
 			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
 			tag = AUS
 		}
 	}
@@ -41,6 +45,10 @@ music = {
 			NOT = {
 				tag = AUS
 			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
 		}
 		modifier = {
 			factor = 20
@@ -60,6 +68,10 @@ music = {
 		}
 		modifier = {
 			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
 			tag = AUS
 		}
 	}
@@ -73,6 +85,10 @@ music = {
 			NOT = {
 				tag = AUS
 			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
 		}
 		modifier = {
 			factor = 20
@@ -92,6 +108,10 @@ music = {
 		}
 		modifier = {
 			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
 			tag = AUS
 		}
 	}
@@ -103,8 +123,12 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = AUS
+				tag = CZE
 			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
 		}
 		modifier = {
 			factor = 20
@@ -121,6 +145,1050 @@ music = {
 			NOT = {
 				tag = AUS
 			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "kaiserhymne_full"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "beerbarrelpolka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "204_teslicka_brigada"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CZE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "allegro_concerto_piano_orchestra_no_5_air_raid_recording"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "arbeiter_von_wien"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "beautiful_blue_danube"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "boh_ohrani_bog_obvari"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CRO
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CRO
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "boldogasszony_anyank"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "cis_und_trans"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CRO
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CRO
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "csardas_aus_zigeunerliebe"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "doamne_tine_si_protege"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "eine_kleine_nachtmusik"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "es_ist_mein_echts_wienerblut_marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "habsburg_hoch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "harminckettes_baka_vagyok_en"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "hereinspaziert_walzer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "hungarian_dance_no_5"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "hungarian_rhapsody_no_2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "hymn_ludowy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = GAL
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GAL
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "jurisna_bojna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CRO
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CRO
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "kaiser_karl_marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "kaiser_walzer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "karnter_schutze_marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "klapka_indulo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = HUN
+					tag = AUS
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "leichte_kavallerie_overture"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "lidova_hymna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = CZE
+					tag = AUS
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "liechtenstein_marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = LIC
+					tag = AUS
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = LIC
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "magyar_diszmenet_indulo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = HUN
+					tag = AUS
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "prinz_eugen_der_edle_ritter"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "radetzky_marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "rakoczy_march"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = HUN
+					tag = AUS
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "schonfieldmarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "serbi_dio_laustriaco_regno"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = ITA
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ITA
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "standschutzen_marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "stille_nacht"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "szomoru_vasarnap"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "tartsa_isten_ovja_isten"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "unter_dem_doppeladler"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "wacht_an_der_donau"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "wallensteins_tod"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = LIC
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = LIC
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "katablazen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CZE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "nastatickumasaryku"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CZE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "strojsestroj"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CZE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "varsavjanka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CZE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "vysadkari"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CZE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "katyusa"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "honvedbanda"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "himnusz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "golya"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "bajtars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = HUN
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = HUN
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
+	song = "jelacic"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CRO
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CRO
 		}
 		modifier = {
 			factor = 20

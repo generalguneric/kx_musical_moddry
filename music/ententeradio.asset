@@ -29,6 +29,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "vive_henri_iv"
+	file = "ententeradio/vive_henri_iv.ogg"
+	volume = 1.25
+}
+music = {
 	name = "alsace_et_lorriane"
 	file = "ententeradio/alsace_et_lorriane.ogg"
 	volume = 1.25

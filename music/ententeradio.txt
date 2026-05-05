@@ -58,6 +58,23 @@ music = {
 }
 
 music = {
+	song = "vive_henri_iv"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
 	song = "alsace_et_lorriane"
 
 	chance = {
