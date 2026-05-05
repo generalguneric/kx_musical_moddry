@@ -310,6 +310,29 @@ music = {
 	}
 }
 music = {
+	song = "boze_zivi_boze_stiti"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CRO
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+music = {
 	song = "cis_und_trans"
 
 	chance = {
