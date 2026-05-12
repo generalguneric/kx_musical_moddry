@@ -293,3 +293,140 @@ music = {
 	file = "radio_vienna/jelacic.ogg"
 	volume = 1
 }
+
+music = {
+	name = "bosanska_artiljerija"
+	file = "radio_vienna/bosanska_artiljerija.ogg"
+	volume = 1
+}
+
+music = {
+	name = "bozener_bergsteigerlied"
+	file = "radio_vienna/bozener_bergsteigerlied.ogg"
+	volume = 0.9
+}
+music = {
+	name = "czerwieniaska"
+	file = "radio_vienna/czerwieniaska.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "danubia_marsch"
+	file = "radio_vienna/danubia_marsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "deutschosterreich_du_herrliches_land"
+	file = "radio_vienna/deutschosterreich_du_herrliches_land.ogg"
+	volume = 1
+}
+
+music = {
+	name = "die_bosniaken_kommen"
+	file = "radio_vienna/die_bosniaken_kommen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "ezer_esztendeje_annak"
+	file = "radio_vienna/ezer_esztendeje_annak.ogg"
+	volume = 1
+}
+
+music = {
+	name = "franz_ferdinand_marsch"
+	file = "radio_vienna/franz_ferdinand_marsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "jubel_marsch"
+	file = "radio_vienna/jubel_marsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "la_leopolda"
+	file = "radio_vienna/la_leopolda.ogg"
+	volume = 1
+}
+
+music = {
+	name = "lebn_zol_frans_josef_un_wilhelm"
+	file = "radio_vienna/lebn_zol_frans_josef_un_wilhelm.ogg"
+	volume = 1
+}
+
+music = {
+	name = "mein_heimatvolk_mein_heimatland"
+	file = "radio_vienna/mein_heimatvolk_mein_heimatland.ogg"
+	volume = 1
+}
+
+music = {
+	name = "saga_krasy"
+	file = "radio_vienna/saga_krasy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "sei_gesegnet_ohne_ende"
+	file = "radio_vienna/sei_gesegnet_ohne_ende.ogg"
+	volume = 1.25
+}
+
+music = {
+	name = "sieg_oder_tot_im_alpenrot"
+	file = "radio_vienna/sieg_oder_tot_im_alpenrot.ogg"
+	volume = 1
+}
+
+music = {
+	name = "ternopil_waltz"
+	file = "radio_vienna/ternopil_waltz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "transylvanian_hora"
+	file = "radio_vienna/transylvanian_hora.ogg"
+	volume = 1
+}
+
+music = {
+	name = "vindobonamarsch"
+	file = "radio_vienna/vindobonamarsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "viribus_unitis_marsch"
+	file = "radio_vienna/viribus_unitis_marsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "wagram_grenadiersmarsch"
+	file = "radio_vienna/wagram_grenadiersmarsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "zacisarepana"
+	file = "radio_vienna/zacisarepana.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "zol_zayn_shabes"
+	file = "radio_vienna/zol_zayn_shabes.ogg"
+	volume = 1
+}
+
+music = {
+	name = "zu_mantua_in_banden"
+	file = "radio_vienna/zu_mantua_in_banden.ogg"
+	volume = 1
+}
