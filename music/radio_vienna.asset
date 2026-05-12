@@ -386,7 +386,7 @@ music = {
 music = {
 	name = "ternopil_waltz"
 	file = "radio_vienna/ternopil_waltz.ogg"
-	volume = 0.8
+	volume = 0.75
 }
 
 music = {
