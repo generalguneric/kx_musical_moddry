@@ -255,6 +255,30 @@ music = {
 	volume = 0.85
 }
 
+music = {
+	name = "rus_markov"
+	file = "radio_vladivostok/rus_markov.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "rus_kornilov"
+	file = "radio_vladivostok/rus_kornilov.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "rus_alekseev"
+	file = "radio_vladivostok/rus_alekseev.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "rus_march_alekseyev_regiment"
+	file = "radio_vladivostok/rus_march_alekseyev_regiment.ogg"
+	volume = 0.85
+}
+
 ### DKB - Don-Kuban Union ###
 
 music = {

@@ -636,6 +636,23 @@ music = {
 	}
 }
 
+music = {
+	song = "rus_march_alekseyev_regiment"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = {
+			factor = 20
+			is_russian_speaking_tag = yes
+		}
+	}
+}
+
 # SYNDICALIST
 
 music = {
