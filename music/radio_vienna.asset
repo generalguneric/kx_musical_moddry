@@ -430,3 +430,9 @@ music = {
 	file = "radio_vienna/zu_mantua_in_banden.ogg"
 	volume = 1
 }
+
+music = {
+	name = "heil_europa"
+	file = "radio_vienna/heil_europa.ogg"
+	volume = 1
+}

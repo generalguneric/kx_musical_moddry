@@ -1738,3 +1738,19 @@ music = {
 	}
 }
 
+music = {
+	song = "heil_europa"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
