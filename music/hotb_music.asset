@@ -31,21 +31,6 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "rus_markov"
-	file = "rus_markov.ogg"
-	volume = 1.25
-}
-music = {
-	name = "rus_kornilov"
-	file = "rus_kornilov.ogg"
-	volume = 1.25
-}
-music = {
-	name = "rus_alekseev"
-	file = "rus_alekseev.ogg"
-	volume = 1.25
-}
-music = {
 	name = "syn_rus_capital_oppresses_us"
 	file = "syn_rus_capital_oppresses_us.ogg"
 	volume = 1.25
