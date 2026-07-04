@@ -405,6 +405,41 @@ music = {
 	}
 }
 
+music = {
+	song = "battle_hymn_of_the_republic"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = TXS
+				tag = WCC
+
+
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = USA
+				tag = NEE
+				tag = NYC
+				tag = CAL
+				tag = TEX
+				tag = CSA
+				tag = TXS
+				tag = WCC
+			}
+		}
+	}
+}
+
 # CAL
 
 music = {

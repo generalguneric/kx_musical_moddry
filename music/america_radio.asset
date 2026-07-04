@@ -274,6 +274,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "battle_hymn_of_the_republic"
+	file = "america_radio/battle_hymn_of_the_republic.ogg"
+	volume = 1.25
+}
+music = {
 	name = "robesonussr"
 	file = "america_radio/robesonussr.ogg"
 	volume = 1.25
