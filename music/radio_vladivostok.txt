@@ -233,7 +233,7 @@ music = {
 			factor = 0
 			NOT = {
 				AND = {
-					tag = RUS
+					is_russian_tag_that_can_integrate = yes
 					RUS_russian_monarch = yes
 				}
 			}
@@ -241,7 +241,7 @@ music = {
 		modifier = {
 			factor = 20
 			AND = {
-				tag = RUS
+				is_russian_tag_that_can_integrate = yes
 				RUS_russian_monarch = yes
 			}
 		}
@@ -254,7 +254,7 @@ music = {
 			factor = 0
 			NOT = {
 				AND = {
-					tag = RUS
+					is_russian_tag_that_can_integrate = yes
 					RUS_russian_monarch = yes
 				}
 			}
@@ -262,7 +262,7 @@ music = {
 		modifier = {
 			factor = 20
 			AND = {
-				tag = RUS
+				is_russian_tag_that_can_integrate = yes
 				RUS_russian_monarch = yes
 			}
 		}
@@ -275,7 +275,7 @@ music = {
 			factor = 0
 			NOT = {
 				AND = {
-					tag = RUS
+					is_russian_tag_that_can_integrate = yes
 					RUS_russian_monarch = yes
 				}
 			}
@@ -283,7 +283,7 @@ music = {
 		modifier = {
 			factor = 20
 			AND = {
-				tag = RUS
+				is_russian_tag_that_can_integrate = yes
 				RUS_russian_monarch = yes
 			}
 		}
@@ -312,7 +312,7 @@ music = {
 			factor = 0
 			NOT = {
 				AND = {
-					tag = RUS
+					is_russian_tag_that_can_integrate = yes
 					RUS_russian_monarch = yes
 				}
 			}
@@ -320,7 +320,7 @@ music = {
 		modifier = {
 			factor = 20
 			AND = {
-				tag = RUS
+				is_russian_tag_that_can_integrate = yes
 				RUS_russian_monarch = yes
 			}
 		}
@@ -334,7 +334,7 @@ music = {
 			factor = 0
 			NOT = {
 				AND = {
-					tag = RUS
+					is_russian_tag_that_can_integrate = yes
 					RUS_russian_monarch = yes
 				}
 			}
@@ -342,7 +342,7 @@ music = {
 		modifier = {
 			factor = 20
 			AND = {
-				tag = RUS
+				is_russian_tag_that_can_integrate = yes
 				RUS_russian_monarch = yes
 			}
 		}
