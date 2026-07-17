@@ -1402,7 +1402,22 @@ music = {
 		}
 	}
 }
+music = {
+	song = "they_shot_huey_long"
 
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = TEX
+		}
+	}
+}
 music = {
 	song = "sixteentons"
 
