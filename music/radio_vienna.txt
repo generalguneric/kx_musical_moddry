@@ -1754,3 +1754,71 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "manon_lescaut_intermezzo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "undertheadmiralsflag"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "fruhlingsstimmen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "fledermaus_quadrille"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}

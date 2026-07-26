@@ -436,3 +436,27 @@ music = {
 	file = "radio_vienna/heil_europa.ogg"
 	volume = 1
 }
+
+music = {
+	name = "manon_lescaut_intermezzo"
+	file = "radio_vienna/manon_lescaut_intermezzo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "undertheadmiralsflag"
+	file = "radio_vienna/under_the_admirals_flag.ogg"
+	volume = 1
+}
+
+music = {
+	name = "fruhlingsstimmen"
+	file = "radio_vienna/fruhlingsstimmen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "fledermaus_quadrille"
+	file = "radio_vienna/fledermaus_quadrille.ogg"
+	volume = 1
+}
