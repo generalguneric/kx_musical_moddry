@@ -73,3 +73,13 @@ music = {
 	file = "reichspaktradio/doki_no_sakura_german.ogg"
 	volume = 1.25
 }
+music = {
+	name = "siegfried_linie"
+	file = "reichspaktradio/siegfried_linie.ogg"
+	volume = 1.25
+}
+music = {
+	name = "lili_marlene"
+	file = "reichspaktradio/lili_marlene.ogg"
+	volume = 1.25
+}

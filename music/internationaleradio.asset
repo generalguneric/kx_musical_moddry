@@ -123,3 +123,8 @@ music = {
 	file = "internationaleradio/jerusalem.ogg"
 	volume = 1.25
 }
+music = {
+	name = "siegfried_line"
+	file = "internationaleradio/siegfried_line.ogg"
+	volume = 1.25
+}

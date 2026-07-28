@@ -152,6 +152,24 @@ music = {
 	}
 }
 
+music = {
+	song = "siegfried_line"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ENG
+			has_war_with = GER
+		}
+	}
+}
+
 # GRU
 
 music = {

@@ -178,6 +178,38 @@ music = {
 		}
 	}
 }
+music = {
+	song = "siegfried_linie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "lili_marlene"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
 
 # TUR
 
