@@ -600,6 +600,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "ezpatadantza_zuzenean"
+	file = "ezpatadantza_zuzenean.ogg"
+	volume = 1.25
+}
+music = {
 	name = "seher"
 	file = "seher.ogg"
 	volume = 1.25
@@ -607,5 +612,10 @@ music = {
 music = {
 	name = "ievan_polkka"
 	file = "fin_ievan_polkka.ogg"
+	volume = 1.25
+}
+music = {
+	name = "columbia_gem_ocean_ezpatadantza"
+	file = "columbia_gem_ocean_ezpatadantza.ogg"
 	volume = 1.25
 }

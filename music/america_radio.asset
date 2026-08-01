@@ -563,3 +563,8 @@ music = {
 	file = "america_radio/when_you_are_old_and_gray.ogg"
 	volume = 1.25
 }
+music = {
+	name = "columbia_gem_ocean"
+	file = "america_radio/columbia_gem_ocean.ogg"
+	volume = 1.25
+}
