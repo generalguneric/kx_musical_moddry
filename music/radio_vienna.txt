@@ -1822,3 +1822,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "tief_drin_im_bohmerwald"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CZE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+	}
+}

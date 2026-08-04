@@ -460,3 +460,9 @@ music = {
 	file = "radio_vienna/fledermaus_quadrille.ogg"
 	volume = 1
 }
+
+music = {
+	name = "tief_drin_im_bohmerwald"
+	file = "radio_vienna/tief_drin_im_bohmerwald.ogg"
+	volume = 1
+}
