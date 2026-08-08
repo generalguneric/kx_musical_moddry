@@ -198,3 +198,8 @@ music = {
 	file = "classical_radio/prelude_csharp_minor.ogg"
 	volume = 1.25
 }
+music = {
+	name = "adelheid_von_burgund"
+	file = "classical_radio/adelheid_von_burgund.ogg"
+	volume = 1.25
+}

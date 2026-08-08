@@ -2687,3 +2687,35 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "i_must_run"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "downtown"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = ENG
+		}
+	}
+}

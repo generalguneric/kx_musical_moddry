@@ -619,3 +619,13 @@ music = {
 	file = "columbia_gem_ocean_ezpatadantza.ogg"
 	volume = 1.25
 }
+music = {
+	name = "i_must_run"
+	file = "i_must_run.ogg"
+	volume = 1.25
+}
+music = {
+	name = "downtown"
+	file = "downtown.ogg"
+	volume = 1.25
+}

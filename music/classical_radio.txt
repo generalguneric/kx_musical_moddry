@@ -360,3 +360,12 @@ music = {
 		}
 	}
 }
+music = {
+	song = "adelheid_von_burgund"
+
+	chance = {
+		modifier = {
+			factor = 20
+		}
+	}
+}

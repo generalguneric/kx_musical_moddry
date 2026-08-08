@@ -104,6 +104,20 @@ music = {
 	}
 }
 music = {
+	song = "say_it_isnt_so"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+music = {
 	song = "in_other_words"
 
 	chance = {
@@ -2172,6 +2186,21 @@ music = {
 
 music = {
 	song = "columbia_gem_ocean"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "goodnight_my_beautiful"
 
 	chance = {
 		modifier = {

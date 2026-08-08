@@ -329,6 +329,11 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "say_it_isnt_so"
+	file = "america_radio/say_it_isnt_so.ogg"
+	volume = 1.25
+}
+music = {
 	name = "in_other_words"
 	file = "america_radio/in_other_words.ogg"
 	volume = 1.25
@@ -566,5 +571,10 @@ music = {
 music = {
 	name = "columbia_gem_ocean"
 	file = "america_radio/columbia_gem_ocean.ogg"
+	volume = 1.25
+}
+music = {
+	name = "goodnight_my_beautiful"
+	file = "america_radio/goodnight_my_beautiful.ogg"
 	volume = 1.25
 }
