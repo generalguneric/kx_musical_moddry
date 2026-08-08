@@ -2710,12 +2710,16 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
+				is_american_tag = no
 				tag = ENG
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = ENG
+			OR = {
+				is_american_tag = no
+				tag = ENG
+			}
 		}
 	}
 }
