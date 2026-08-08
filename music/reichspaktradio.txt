@@ -210,6 +210,74 @@ music = {
 		}
 	}
 }
+music = {
+	song = "wir_fahren_gegen_engelland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "in_einem_polenstadtchen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = POL
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = GER
+				tag = POL
+			}
+		}
+	}
+}
+music = {
+	song = "was_ist_des_deutschen_vaterland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "in_honolulu"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
 
 # TUR
 
