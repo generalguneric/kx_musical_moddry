@@ -278,6 +278,204 @@ music = {
 		}
 	}
 }
+music = {
+	song = "auf_wiedersehen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "das_alte_odertor"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ein_heller_und_ein_batzen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "bomben_auf_engelland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "heut_stechen_wir_ins_blaue_meer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ich_hatt_einen_kameraden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ich_ziehe_meine_dunkler_strasse"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "irgendwo_auf_der_welt"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "liebchen_ade"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ostpreussenlied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "pariser_einzugsmarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "veronika_der_lenz_ist_da"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+
+
+
+
+
+
 
 # TUR
 

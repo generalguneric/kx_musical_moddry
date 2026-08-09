@@ -103,3 +103,63 @@ music = {
 	file = "reichspaktradio/in_honolulu.ogg"
 	volume = 1.25
 }
+music = {
+	name = "auf_wiedersehen"
+	file = "reichspaktradio/auf_wiedersehen.ogg"
+	volume = 1
+}
+music = {
+	name = "das_alte_odertor"
+	file = "reichspaktradio/das_alte_odertor.ogg"
+	volume = 1
+}
+music = {
+	name = "ein_heller_und_ein_batzen"
+	file = "reichspaktradio/ein_heller_und_ein_batzen.ogg"
+	volume = 1
+}
+music = {
+	name = "bomben_auf_engelland"
+	file = "reichspaktradio/bomben_auf_engelland.ogg"
+	volume = 1
+}
+music = {
+	name = "heut_stechen_wir_ins_blaue_meer"
+	file = "reichspaktradio/heut_stechen_wir_ins_blaue_meer.ogg"
+	volume = 1
+}
+music = {
+	name = "ich_hatt_einen_kameraden"
+	file = "reichspaktradio/ich_hatt_einen_kameraden.ogg"
+	volume = 1
+}
+music = {
+	name = "ich_ziehe_meine_dunkler_strasse"
+	file = "reichspaktradio/ich_ziehe_meine_dunkler_strasse.ogg"
+	volume = 0.8
+}
+music = {
+	name = "irgendwo_auf_der_welt"
+	file = "reichspaktradio/irgendwo_auf_der_welt.ogg"
+	volume = 1
+}
+music = {
+	name = "liebchen_ade"
+	file = "reichspaktradio/liebchen_ade.ogg"
+	volume = 1
+}
+music = {
+	name = "ostpreussenlied"
+	file = "reichspaktradio/ostpreussenlied.ogg"
+	volume = 1
+}
+music = {
+	name = "pariser_einzugsmarsch"
+	file = "reichspaktradio/pariser_einzugsmarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "veronika_der_lenz_ist_da"
+	file = "reichspaktradio/veronika_der_lenz_ist_da.ogg"
+	volume = 1
+}
