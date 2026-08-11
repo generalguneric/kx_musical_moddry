@@ -106,12 +106,12 @@ music = {
 music = {
 	name = "auf_wiedersehen"
 	file = "reichspaktradio/auf_wiedersehen.ogg"
-	volume = 1
+	volume = 1.3
 }
 music = {
 	name = "das_alte_odertor"
 	file = "reichspaktradio/das_alte_odertor.ogg"
-	volume = 1
+	volume = 1.1
 }
 music = {
 	name = "ein_heller_und_ein_batzen"
@@ -131,7 +131,7 @@ music = {
 music = {
 	name = "ich_hatt_einen_kameraden"
 	file = "reichspaktradio/ich_hatt_einen_kameraden.ogg"
-	volume = 1
+	volume = 1.2
 }
 music = {
 	name = "ich_ziehe_meine_dunkler_strasse"
@@ -141,7 +141,7 @@ music = {
 music = {
 	name = "irgendwo_auf_der_welt"
 	file = "reichspaktradio/irgendwo_auf_der_welt.ogg"
-	volume = 1
+	volume = 1.3
 }
 music = {
 	name = "liebchen_ade"
@@ -156,10 +156,176 @@ music = {
 music = {
 	name = "pariser_einzugsmarsch"
 	file = "reichspaktradio/pariser_einzugsmarsch.ogg"
-	volume = 1
+	volume = 1.2
 }
 music = {
 	name = "veronika_der_lenz_ist_da"
 	file = "reichspaktradio/veronika_der_lenz_ist_da.ogg"
 	volume = 1
+}
+
+music = {
+	name = "alte_kameraden"
+	file = "reichspaktradio/alte_kameraden.ogg"
+	volume = 1.2
+}
+music = {
+	name = "drei_lilien"
+	file = "reichspaktradio/drei_lilien.ogg"
+	volume = 1.2
+}
+music = {
+	name = "es_war_ein_edelweiss"
+	file = "reichspaktradio/es_war_ein_edelweiss.ogg"
+	volume = 1.2
+}
+music = {
+	name = "funkerlied"
+	file = "reichspaktradio/funkerlied.ogg"
+	volume = 1.2
+}
+music = {
+	name = "graf_zeppelin_marsch"
+	file = "reichspaktradio/graf_zeppelin_marsch.ogg"
+	volume = 1.2
+}
+music = {
+	name = "helenenmarsch"
+	file = "reichspaktradio/helenenmarsch.ogg"
+	volume = 1.2
+}
+music = {
+	name = "koniggratzer"
+	file = "reichspaktradio/koniggratzer.ogg"
+	volume = 1.2
+}
+music = {
+	name = "preussens_gloria"
+	file = "reichspaktradio/preussens_gloria.ogg"
+	volume = 1.2
+}
+music = {
+	name = "argonnerwaldlied"
+	file = "reichspaktradio/argonnerwaldlied.ogg"
+	volume = 1.2
+}
+music = {
+	name = "heute_muss_ich_scheiden"
+	file = "reichspaktradio/heute_muss_ich_scheiden.ogg"
+	volume = 1.2
+}
+music = {
+	name = "ruck_zuck_annemarie"
+	file = "reichspaktradio/ruck_zuck_annemarie.ogg"
+	volume = 1.2
+}
+music = {
+	name = "stuka_lied"
+	file = "reichspaktradio/stuka_lied.ogg"
+	volume = 1.2
+}
+music = {
+	name = "was_gleicht_wohl_auf_erden"
+	file = "reichspaktradio/was_gleicht_wohl_auf_erden.ogg"
+	volume = 1.2
+}
+music = {
+	name = "weit_ist_der_weg_zuruck_ins_heimatland"
+	file = "reichspaktradio/weit_ist_der_weg_zuruck_ins_heimatland.ogg"
+	volume = 1.2
+}
+music = {
+	name = "wo_alle_strassen_enden"
+	file = "reichspaktradio/wo_alle_strassen_enden.ogg"
+	volume = 1.2
+}
+music = {
+	name = "schwarzbraun_ist_die_haselnuss"
+	file = "reichspaktradio/schwarzbraun_ist_die_haselnuss.ogg"
+	volume = 1.2
+}
+music = {
+	name = "55_tage_in_peking"
+	file = "reichspaktradio/55_tage_in_peking.ogg"
+	volume = 1.2
+}
+music = {
+	name = "der_toten_erwachen"
+	file = "reichspaktradio/der_toten_erwachen.ogg"
+	volume = 1.2
+}
+music = {
+	name = "wir_lagen_vor_madagaskar"
+	file = "reichspaktradio/wir_lagen_vor_madagaskar.ogg"
+	volume = 1.2
+}
+music = {
+	name = "im_wald_im_grunen_walde"
+	file = "reichspaktradio/im_wald_im_grunen_walde.ogg"
+	volume = 1.2
+}
+music = {
+	name = "yorckscher"
+	file = "reichspaktradio/yorckscher.ogg"
+	volume = 1.2
+}
+music = {
+	name = "fridericus_rex"
+	file = "reichspaktradio/fridericus_rex.ogg"
+	volume = 1.2
+}
+music = {
+	name = "castaldo"
+	file = "reichspaktradio/castaldo.ogg"
+	volume = 1.2
+}
+music = {
+	name = "badenweiler"
+	file = "reichspaktradio/badenweiler.ogg"
+	volume = 1.2
+}
+music = {
+	name = "gruss_an_kiel"
+	file = "reichspaktradio/gruss_an_kiel.ogg"
+	volume = 1.2
+}
+music = {
+	name = "morgen_marschieren_wir"
+	file = "reichspaktradio/morgen_marschieren_wir.ogg"
+	volume = 1.2
+}
+music = {
+	name = "alter_jagermarsch"
+	file = "reichspaktradio/alter_jagermarsch.ogg"
+	volume = 1.2
+}
+music = {
+	name = "versailler_festmarsch"
+	file = "reichspaktradio/versailler_festmarsch.ogg"
+	volume = 1.2
+}
+music = {
+	name = "heil_dir_im_siegerkranz"
+	file = "reichspaktradio/heil_dir_im_siegerkranz.ogg"
+	volume = 1.2
+}
+music = {
+	name = "o_deutschland_hoch_in_ehren"
+	file = "reichspaktradio/o_deutschland_hoch_in_ehren.ogg"
+	volume = 1.2
+}
+music = {
+	name = "hipp_hipp_hurra"
+	file = "reichspaktradio/hipp_hipp_hurra.ogg"
+	volume = 1.2
+}
+music = {
+	name = "panzerlied"
+	file = "reichspaktradio/panzerlied.ogg"
+	volume = 1.2
+}
+music = {
+	name = "hohenfriedberger"
+	file = "reichspaktradio/hohenfriedberger.ogg"
+	volume = 1.2
 }

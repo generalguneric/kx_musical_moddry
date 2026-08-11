@@ -471,6 +471,502 @@ music = {
 	}
 }
 
+music = {
+	song = "alte_kameraden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "drei_lilien"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "es_war_ein_edelweiss"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "funkerlied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "graf_zeppelin_marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "helenenmarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "koniggratzer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "preussens_gloria"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "argonnerwaldlied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "heute_muss_ich_scheiden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ruck_zuck_annemarie"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "stuka_lied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "was_gleicht_wohl_auf_erden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "weit_ist_der_weg_zuruck_ins_heimatland"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "wo_alle_strassen_enden"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "schwarzbraun_ist_die_haselnuss"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "der_toten_erwachen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "im_wald_im_grunen_walde"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "yorckscher"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "fridericus_rex"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "castaldo"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "badenweiler"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "gruss_an_kiel"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "morgen_marschieren_wir"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "alter_jagermarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "versailler_festmarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "heil_dir_im_siegerkranz"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "o_deutschland_hoch_in_ehren"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "hipp_hipp_hurra"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "panzerlied"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "hohenfriedberger"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
 
 
 
@@ -554,6 +1050,38 @@ music = {
 		modifier = {
 			factor = 20
 			tag = MAF
+		}
+	}
+}
+music = {
+	song = "wir_lagen_vor_madagaskar"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MAF
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = MAF
+		}
+	}
+}
+music = {
+	song = "55_tage_in_peking"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GEA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GEA
 		}
 	}
 }
