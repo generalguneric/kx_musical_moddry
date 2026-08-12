@@ -967,6 +967,38 @@ music = {
 		}
 	}
 }
+music = {
+	song = "sieg_heil_viktoria"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "panzerlied2"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
 
 
 

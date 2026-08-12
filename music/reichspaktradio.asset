@@ -329,3 +329,13 @@ music = {
 	file = "reichspaktradio/hohenfriedberger.ogg"
 	volume = 1.2
 }
+music = {
+	name = "panzerlied2"
+	file = "reichspaktradio/panzerlied2.ogg"
+	volume = 1.2
+}
+music = {
+	name = "sieg_heil_viktoria"
+	file = "reichspaktradio/sieg_heil_viktoria.ogg"
+	volume = 1.2
+}
