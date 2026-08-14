@@ -578,3 +578,13 @@ music = {
 	file = "america_radio/goodnight_my_beautiful.ogg"
 	volume = 1.25
 }
+music = {
+	name = "death_of_huey"
+	file = "america_radio/death_of_huey.ogg"
+	volume = 1.25
+}
+music = {
+	name = "saddle_tramp"
+	file = "america_radio/saddle_tramp.ogg"
+	volume = 1.25
+}

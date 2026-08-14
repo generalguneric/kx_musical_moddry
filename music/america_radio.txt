@@ -2213,3 +2213,41 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "death_of_huey"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+
+music = {
+	song = "saddle_tramp"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MEX
+				tag = ARZ
+				tag = TXS
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = MEX
+				tag = ARZ
+				tag = TXS
+			}
+		}
+	}
+}
