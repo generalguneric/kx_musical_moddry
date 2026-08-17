@@ -240,8 +240,8 @@ music = {
 	volume = 1.2
 }
 music = {
-	name = "schwarzbraun_ist_die_haselnuss"
-	file = "reichspaktradio/schwarzbraun_ist_die_haselnuss.ogg"
+	name = "schwarzbraun_ist_die_haselnuss_kx_fuck_you_vanilla"
+	file = "reichspaktradio/schwarzbraun_ist_die_haselnuss_kx_fuck_you_vanilla.ogg"
 	volume = 1.2
 }
 music = {

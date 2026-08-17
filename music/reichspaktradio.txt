@@ -712,7 +712,7 @@ music = {
 	}
 }
 music = {
-	song = "schwarzbraun_ist_die_haselnuss"
+	song = "schwarzbraun_ist_die_haselnuss_kx_fuck_you_vanilla"
 
 	chance = {
 		modifier = {
