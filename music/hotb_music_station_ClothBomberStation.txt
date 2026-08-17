@@ -574,6 +574,23 @@ music = {
 	}
 }
 
+music = {
+	song = "la_independencia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MEX
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = MEX
+		}
+	}
+}
+
 
 
 

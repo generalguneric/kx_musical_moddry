@@ -689,6 +689,11 @@ music = {
 	file = "veteraanin_iltahuuto.ogg"
 	volume = 1.25
 }
+music = {
+	name = "la_independencia"
+	file = "la_independencia.ogg"
+	volume = 1.25
+}
 
 
 
