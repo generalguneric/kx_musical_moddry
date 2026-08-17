@@ -638,3 +638,8 @@ music = {
 	file = "america_radio/when_johnny_comes_marching_home.ogg"
 	volume = 1.25
 }
+music = {
+	name = "oh_susanna"
+	file = "america_radio/oh_susanna.ogg"
+	volume = 1.25
+}
