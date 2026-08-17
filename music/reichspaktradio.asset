@@ -394,3 +394,8 @@ music = {
 	file = "reichspaktradio/tanzen_tanzen.ogg"
 	volume = 1.2
 }
+music = {
+	name = "unser_rommel"
+	file = "reichspaktradio/unser_rommel.ogg"
+	volume = 1.2
+}

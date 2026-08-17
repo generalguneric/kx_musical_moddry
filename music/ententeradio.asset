@@ -34,6 +34,16 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "le_roy_engloys"
+	file = "ententeradio/le_roy_engloys.ogg"
+	volume = 1.25
+}
+music = {
+	name = "branle_de_montirande_danse_de_village"
+	file = "ententeradio/branle_de_montirande_danse_de_village.ogg"
+	volume = 1.25
+}
+music = {
 	name = "alsace_et_lorriane"
 	file = "ententeradio/alsace_et_lorriane.ogg"
 	volume = 1.25

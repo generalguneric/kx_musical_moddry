@@ -510,6 +510,72 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "funiculi_funicula"
+	file = "funiculi_funicula.ogg"
+	volume = 1.25
+}
+music = {
+	name = "funiculi_funicula_vocal"
+	file = "funiculi_funicula_vocal.ogg"
+	volume = 1.25
+}
+music = {
+	name = "giovinezza"
+	file = "giovinezza.ogg"
+	volume = 1.25
+}
+music = {
+	name = "gran_marcia_trionfale"
+	file = "gran_marcia_trionfale.ogg"
+	volume = 1.25
+}
+music = {
+	name = "inno_dei_giovani_fascisti"
+	file = "inno_dei_giovani_fascisti.ogg"
+	volume = 1.25
+}
+music = {
+	name = "inno_dei_giovani_fascisti_girl"
+	file = "inno_dei_giovani_fascisti_girl.ogg"
+	volume = 1.25
+}
+music = {
+	name = "inno_e_marcia_pontificale"
+	file = "inno_e_marcia_pontificale.ogg"
+	volume = 1.25
+}
+music = {
+	name = "le_fiamme_nere"
+	file = "le_fiamme_nere.ogg"
+	volume = 1.25
+}
+music = {
+	name = "le_fiamme_nere_instrumental"
+	file = "le_fiamme_nere_instrumental.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marcia_reale"
+	file = "marcia_reale.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marcia_reale_alt"
+	file = "marcia_reale_alt.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marcia_reale_e_imperiale"
+	file = "marcia_reale_e_imperiale.ogg"
+	volume = 1.25
+}
+music = {
+	name = "rinasceremo_insieme"
+	file = "rinasceremo_insieme.ogg"
+	volume = 1.25
+}
+
+music = {
 	name = "tokyo_fantasy"
 	file = "tokyo_fantasy.ogg"
 	volume = 1.25

@@ -369,3 +369,30 @@ music = {
 		}
 	}
 }
+music = {
+	song = "dante_symphony_i_inferno"
+
+	chance = {
+		modifier = {
+			factor = 20
+		}
+	}
+}
+music = {
+	song = "myaskovsky_revolutionary_symphony_final"
+
+	chance = {
+		modifier = {
+			factor = 20
+		}
+	}
+}
+music = {
+	song = "anvil_chorus"
+
+	chance = {
+		modifier = {
+			factor = 20
+		}
+	}
+}

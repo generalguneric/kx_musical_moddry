@@ -75,6 +75,40 @@ music = {
 }
 
 music = {
+	song = "branle_de_montirande_danse_de_village"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "le_roy_engloys"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
 	song = "alsace_et_lorriane"
 
 	chance = {

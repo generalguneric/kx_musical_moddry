@@ -203,3 +203,18 @@ music = {
 	file = "classical_radio/adelheid_von_burgund.ogg"
 	volume = 1.25
 }
+music = {
+	name = "dante_symphony_i_inferno"
+	file = "classical_radio/dante_symphony_i_inferno.ogg"
+	volume = 1.25
+}
+music = {
+	name = "myaskovsky_revolutionary_symphony_final"
+	file = "classical_radio/myaskovsky_revolutionary_symphony_final.ogg"
+	volume = 1.25
+}
+music = {
+	name = "anvil_chorus"
+	file = "classical_radio/anvil_chorus.ogg"
+	volume = 1.25
+}

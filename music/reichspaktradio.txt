@@ -1278,6 +1278,22 @@ music = {
 	}
 }
 music = {
+	song = "unser_rommel"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = MAF
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = MAF
+		}
+	}
+}
+music = {
 	song = "55_tage_in_peking"
 
 	chance = {

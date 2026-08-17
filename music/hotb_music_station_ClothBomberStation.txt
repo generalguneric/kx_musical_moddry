@@ -947,6 +947,357 @@ music = {
 }
 
 music = {
+	song = "funiculi_funicula"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "funiculi_funicula_vocal"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "giovinezza"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "gran_marcia_trionfale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "inno_dei_giovani_fascisti"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "inno_dei_giovani_fascisti_girl"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "inno_e_marcia_pontificale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "le_fiamme_nere"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "le_fiamme_nere_instrumental"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "marcia_reale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "marcia_reale_alt"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "marcia_reale_e_imperiale"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "rinasceremo_insieme"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ITA
+				tag = SRI
+				tag = SRD
+				tag = SIC
+				tag = PAP
+			}
+		}
+	}
+}
+
+music = {
 	song = "tokyo_fantasy"
 
 	chance = {

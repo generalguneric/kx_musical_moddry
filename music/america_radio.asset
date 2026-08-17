@@ -643,3 +643,8 @@ music = {
 	file = "america_radio/oh_susanna.ogg"
 	volume = 1.25
 }
+music = {
+	name = "valiant_conscript"
+	file = "america_radio/valiant_conscript.ogg"
+	volume = 1.25
+}
