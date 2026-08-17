@@ -648,3 +648,13 @@ music = {
 	file = "america_radio/valiant_conscript.ogg"
 	volume = 1.25
 }
+music = {
+	name = "fall_of_charleston"
+	file = "america_radio/fall_of_charleston.ogg"
+	volume = 1.25
+}
+music = {
+	name = "fightin_69"
+	file = "america_radio/fightin_69.ogg"
+	volume = 1.25
+}

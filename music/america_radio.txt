@@ -2420,3 +2420,39 @@ music = {
 		}
 	}
 }
+music = {
+	song = "fall_of_charleston"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+music = {
+	song = "fightin_69"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					is_american_tag = yes
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+					is_american_tag = yes
+					tag = IRE
+				}
+		}
+	}
+}
