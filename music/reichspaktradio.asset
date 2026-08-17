@@ -320,8 +320,8 @@ music = {
 	volume = 1.2
 }
 music = {
-	name = "panzerlied"
-	file = "reichspaktradio/panzerlied.ogg"
+	name = "panzerliedkx"
+	file = "reichspaktradio/panzerliedkx.ogg"
 	volume = 1.2
 }
 music = {
