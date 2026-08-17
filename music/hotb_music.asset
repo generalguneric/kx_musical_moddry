@@ -615,6 +615,84 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "njet_molotoff"
+	file = "njet_molotoff.ogg"
+	volume = 1.25
+}
+music = {
+	name = "sakkijarven_polkka_instrumental"
+	file = "sakkijarven_polkka_instrumental.ogg"
+	volume = 1.25
+}
+music = {
+	name = "sakkijarven_polkka_vocal"
+	file = "sakkijarven_polkka_vocal.ogg"
+	volume = 1.25
+}
+music = {
+	name = "ai_ai_kerensky"
+	file = "ai_ai_kerensky.ogg"
+	volume = 1.25
+}
+music = {
+	name = "elamaa_juoksuhaudassa"
+	file = "elamaa_juoksuhaudassa.ogg"
+	volume = 1.25
+}
+music = {
+	name = "esko_kulonen"
+	file = "esko_kulonen.ogg"
+	volume = 1.25
+}
+music = {
+	name = "fin_karelia_suite"
+	file = "fin_karelia_suite.ogg"
+	volume = 1.25
+}
+music = {
+	name = "finlandia"
+	file = "finlandia.ogg"
+	volume = 1.25
+}
+music = {
+	name = "jaakarimarssi"
+	file = "jaakarimarssi.ogg"
+	volume = 1.25
+}
+music = {
+	name = "karjalan_katjuusa"
+	file = "karjalan_katjuusa.ogg"
+	volume = 1.25
+}
+music = {
+	name = "muistoja_pohjolasta"
+	file = "muistoja_pohjolasta.ogg"
+	volume = 1.25
+}
+music = {
+	name = "Porilaisten_marssi"
+	file = "Porilaisten_marssi.ogg"
+	volume = 1.25
+}
+music = {
+	name = "taistojen_tiella"
+	file = "taistojen_tiella.ogg"
+	volume = 1.25
+}
+music = {
+	name = "uraliin"
+	file = "uraliin.ogg"
+	volume = 1.25
+}
+music = {
+	name = "veteraanin_iltahuuto"
+	file = "veteraanin_iltahuuto.ogg"
+	volume = 1.25
+}
+
+
+
+music = {
 	name = "columbia_gem_ocean_ezpatadantza"
 	file = "columbia_gem_ocean_ezpatadantza.ogg"
 	volume = 1.25

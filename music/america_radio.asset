@@ -588,3 +588,53 @@ music = {
 	file = "america_radio/saddle_tramp.ogg"
 	volume = 1.25
 }
+music = {
+	name = "ashokan_farewell"
+	file = "america_radio/ashokan_farewell.ogg"
+	volume = 1.25
+}
+music = {
+	name = "eating_goober_peas"
+	file = "america_radio/eating_goober_peas.ogg"
+	volume = 1.25
+}
+music = {
+	name = "grafted_into_the_army"
+	file = "america_radio/grafted_into_the_army.ogg"
+	volume = 1.25
+}
+music = {
+	name = "im_going_back_to_dixie"
+	file = "america_radio/im_going_back_to_dixie.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marching_along"
+	file = "america_radio/marching_along.ogg"
+	volume = 1.25
+}
+music = {
+	name = "onward_christian_soldiers"
+	file = "america_radio/onward_christian_soldiers.ogg"
+	volume = 1.25
+}
+music = {
+	name = "shenandoah"
+	file = "america_radio/shenandoah.ogg"
+	volume = 1.25
+}
+music = {
+	name = "sherman_will_march_to_the_sea"
+	file = "america_radio/sherman_will_march_to_the_sea.ogg"
+	volume = 1.25
+}
+music = {
+	name = "stonewall_jacksons_way"
+	file = "america_radio/stonewall_jacksons_way.ogg"
+	volume = 1.25
+}
+music = {
+	name = "when_johnny_comes_marching_home"
+	file = "america_radio/when_johnny_comes_marching_home.ogg"
+	volume = 1.25
+}

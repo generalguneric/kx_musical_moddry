@@ -303,7 +303,7 @@ music = {
 }
 
 music = {
-	song = "ievan_polkka"
+	song = "njet_molotoff"
 
 	chance = {
 		modifier = {
@@ -318,6 +318,271 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "sakkijarven_polkka_instrumental"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "sakkijarven_polkka_vocal"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "ai_ai_kerensky"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "elamaa_juoksuhaudassa"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "esko_kulonen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "fin_karelia_suite"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "finlandia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "jaakarimarssi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "karjalan_katjuusa"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "muistoja_pohjolasta"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "njet_molotoff"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "Porilaisten_marssi"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "taistojen_tiella"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "uraliin"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
+	song = "veteraanin_iltahuuto"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
 
 # IBERIA
 

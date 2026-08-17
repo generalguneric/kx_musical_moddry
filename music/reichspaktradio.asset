@@ -339,3 +339,58 @@ music = {
 	file = "reichspaktradio/sieg_heil_viktoria.ogg"
 	volume = 1.2
 }
+music = {
+	name = "adieu_mein_kleiner_gardeoffizier"
+	file = "reichspaktradio/adieu_mein_kleiner_gardeoffizier.ogg"
+	volume = 1.2
+}
+music = {
+	name = "ein_lied_geht_um_die_welt"
+	file = "reichspaktradio/ein_lied_geht_um_die_welt.ogg"
+	volume = 1.2
+}
+music = {
+	name = "ein_walzer_fur_dich"
+	file = "reichspaktradio/ein_walzer_fur_dich.ogg"
+	volume = 1.2
+}
+music = {
+	name = "flieger_gruss_mir_die_sonne"
+	file = "reichspaktradio/flieger_gruss_mir_die_sonne.ogg"
+	volume = 1.2
+}
+music = {
+	name = "ich_wollt_ich_war_ein_huhn"
+	file = "reichspaktradio/ich_wollt_ich_war_ein_huhn.ogg"
+	volume = 1.2
+}
+music = {
+	name = "im_paradies"
+	file = "reichspaktradio/im_paradies.ogg"
+	volume = 1.2
+}
+music = {
+	name = "kannst_du_pfeifen_johanna"
+	file = "reichspaktradio/kannst_du_pfeifen_johanna.ogg"
+	volume = 1.2
+}
+music = {
+	name = "luna_walzer"
+	file = "reichspaktradio/luna_walzer.ogg"
+	volume = 1.2
+}
+music = {
+	name = "schon_ist_die_welt"
+	file = "reichspaktradio/schon_ist_die_welt.ogg"
+	volume = 1.2
+}
+music = {
+	name = "wenn_die_bunten_fahnen_wehnen"
+	file = "reichspaktradio/wenn_die_bunten_fahnen_wehnen.ogg"
+	volume = 1.2
+}
+music = {
+	name = "tanzen_tanzen"
+	file = "reichspaktradio/tanzen_tanzen.ogg"
+	volume = 1.2
+}

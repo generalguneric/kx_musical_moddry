@@ -999,6 +999,182 @@ music = {
 		}
 	}
 }
+music = {
+	song = "adieu_mein_kleiner_gardeoffizier"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ein_lied_geht_um_die_welt"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ein_walzer_fur_dich"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "flieger_gruss_mir_die_sonne"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "ich_wollt_ich_war_ein_huhn"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "im_paradies"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "kannst_du_pfeifen_johanna"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "luna_walzer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "schon_ist_die_welt"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "wenn_die_bunten_fahnen_wehnen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
+music = {
+	song = "tanzen_tanzen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER	
+		}
+	}
+}
 
 
 
