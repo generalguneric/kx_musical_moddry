@@ -1303,3 +1303,21 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "fantaisie_sur_l_hymne_national_russe_charles_gounod"
+	chance = {
+		modifier = { 
+			factor = 0		
+			NOT = {
+				is_russian_speaking_tag = yes
+			}
+		}
+		modifier = { 
+			factor = 2
+			OR = {
+				is_russian_speaking_tag = yes
+			}
+		}
+	}
+}

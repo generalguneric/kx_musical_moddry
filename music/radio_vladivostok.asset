@@ -331,3 +331,8 @@ music = {
 	file = "radio_vladivostok/rus_gimn_sibiri.ogg"
 	volume = 1
 }
+music = {
+	name = "fantaisie_sur_l_hymne_national_russe_charles_gounod"
+	file = "radio_vladivostok/fantaisie_sur_l_hymne_national_russe_charles_gounod.ogg"
+	volume = 1.25
+}
