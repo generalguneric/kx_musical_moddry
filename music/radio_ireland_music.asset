@@ -483,3 +483,16 @@ music = {
 	file = "radio_ireland/up_went_nelson.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "home_boys_home"
+	file = "radio_ireland/home_boys_home.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cup_of_tea"
+	file = "radio_ireland/cup_of_tea.ogg"
+	volume = 0.65
+}
+

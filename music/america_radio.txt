@@ -2435,6 +2435,20 @@ music = {
 	}
 }
 music = {
+	song = "why_and_wherefore"
+
+	chance = {
+		modifier = {
+			factor = 0
+			is_american_tag = no
+		}
+		modifier = {
+			factor = 20
+			is_american_tag = yes
+		}
+	}
+}
+music = {
 	song = "fightin_69"
 
 	chance = {
@@ -2456,3 +2470,26 @@ music = {
 		}
 	}
 }
+music = {
+	song = "streets_of_nyc"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = NYC
+					tag = IRE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+					tag = NYC
+					tag = IRE
+				}
+		}
+	}
+}
+

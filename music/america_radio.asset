@@ -658,3 +658,13 @@ music = {
 	file = "america_radio/fightin_69.ogg"
 	volume = 1.25
 }
+music = {
+	name = "why_and_wherefore"
+	file = "america_radio/why_and_wherefore.ogg"
+	volume = 1.25
+}
+music = {
+	name = "streets_of_nyc"
+	file = "america_radio/streets_of_nyc.ogg"
+	volume = 1.25
+}

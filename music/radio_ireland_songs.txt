@@ -1531,3 +1531,37 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "home_boys_home"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = IRE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = IRE
+		}
+	}
+}
+
+music = {
+	song = "cup_of_tea"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = IRE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = IRE
+		}
+	}
+}
