@@ -67,7 +67,7 @@ music = {
 	}
 }
 music = {
-	song = "der_machtigste_konig_im_luftrevier"
+	song = "KX_der_machtigste_konig_im_luftrevier"
 
 	chance = {
 		modifier = {

@@ -400,7 +400,7 @@ music = {
 	volume = 1.2
 }
 music = {
-	name = "der_machtigste_konig_im_luftrevier"
-	file = "reichspaktradio/der_machtigste_konig_im_luftrevier.ogg"
+	name = "KX_der_machtigste_konig_im_luftrevier"
+	file = "reichspaktradio/KX_der_machtigste_konig_im_luftrevier.ogg"
 	volume = 1.2
 }
