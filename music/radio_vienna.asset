@@ -466,3 +466,33 @@ music = {
 	file = "radio_vienna/tief_drin_im_bohmerwald.ogg"
 	volume = 1
 }
+
+music = {
+	name = "Thun-Hohenstein-Marsch"
+	file = "radio_vienna/Thun-Hohenstein-Marsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "gott_erhalte_franz_den_kaiser"
+	file = "radio_vienna/gott_erhalte_franz_den_kaiser.ogg"
+	volume = 1
+}
+
+music = {
+	name = "gott_erhalte_gott_beschutze"
+	file = "radio_vienna/gott_erhalte_gott_beschutze.ogg"
+	volume = 1
+}
+
+music = {
+	name = "isonzo_austria_theme"
+	file = "radio_vienna/isonzo_austria_theme.ogg"
+	volume = 1
+}
+
+music = {
+	name = "FurchtlosundTreuMarsch"
+	file = "radio_vienna/FurchtlosundTreuMarsch.ogg"
+	volume = 1
+}

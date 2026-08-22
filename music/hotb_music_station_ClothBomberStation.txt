@@ -3307,6 +3307,30 @@ music = {
 }
 
 music = {
+	song = "thourios"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = GRE
+					tag = CRE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GRE
+		}
+		modifier = {
+			factor = 20
+			tag = CRE
+		}
+	}
+}
+
+music = {
 	song = "columbia_gem_ocean_ezpatadantza"
 
 	chance = {

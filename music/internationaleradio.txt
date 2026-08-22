@@ -21,6 +21,84 @@ music = {
 	}
 }
 
+music = {
+	song = "chant_du_front_des_travailleurs"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = FRA
+			}		
+		}
+	}
+}
+
+music = {
+	song = "internationale_french"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = FRA
+			}		
+		}
+	}
+}
+
+music = {
+	song = "la_guerre_sacre"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = FRA
+			}		
+		}
+	}
+}
+
+music = {
+	song = "quand_fera_t_il_jour_camarade"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = FRA
+			}		
+		}
+	}
+}
+
+
+
 # ENG
 
 music = {
@@ -38,6 +116,25 @@ music = {
 			OR = {
 				tag = ENG
 			}
+		}
+	}
+}
+
+music = {
+	song = "internationale_english"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = ENG
+			}		
 		}
 	}
 }

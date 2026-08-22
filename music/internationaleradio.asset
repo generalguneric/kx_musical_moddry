@@ -4,6 +4,32 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "chant_du_front_des_travailleurs"
+	file = "internationaleradio/chant_du_front_des_travailleurs.ogg"
+	volume = 1.25
+}
+music = {
+	name = "internationale_french"
+	file = "internationaleradio/internationale_french.ogg"
+	volume = 1.25
+}
+music = {
+	name = "la_guerre_sacre"
+	file = "internationaleradio/la_guerre_sacre.ogg"
+	volume = 1.25
+}
+music = {
+	name = "quand_fera_t_il_jour_camarade"
+	file = "internationaleradio/quand_fera_t_il_jour_camarade.ogg"
+	volume = 1.25
+}
+music = {
+	name = "internationale_english"
+	file = "internationaleradio/internationale_english.ogg"
+	volume = 1.25
+}
+
+music = {
 	name = "brother_louie"
 	file = "internationaleradio/brother_louie.ogg"
 	volume = 1.25

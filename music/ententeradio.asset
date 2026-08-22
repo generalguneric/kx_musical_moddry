@@ -36,13 +36,39 @@ music = {
 music = {
 	name = "le_roy_engloys"
 	file = "ententeradio/le_roy_engloys.ogg"
-	volume = 1.25
+	volume = 1.35
 }
 music = {
 	name = "branle_de_montirande_danse_de_village"
 	file = "ententeradio/branle_de_montirande_danse_de_village.ogg"
+	volume = 1.6
+}
+music = {
+	name = "debout_les_gars"
+	file = "ententeradio/debout_les_gars.ogg"
 	volume = 1.25
 }
+music = {
+	name = "le_retour_des_princes_francais_a_paris"
+	file = "ententeradio/le_retour_des_princes_francais_a_paris.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marche_des_mousquetaires_du_roy"
+	file = "ententeradio/marche_des_mousquetaires_du_roy.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marche_du_regiment_du_roy"
+	file = "ententeradio/marche_du_regiment_du_roy.ogg"
+	volume = 1.25
+}
+music = {
+	name = "marche_pour_la_ceremonie_des_turcs"
+	file = "ententeradio/marche_pour_la_ceremonie_des_turcs.ogg"
+	volume = 1.5
+}
+
 music = {
 	name = "alsace_et_lorriane"
 	file = "ententeradio/alsace_et_lorriane.ogg"

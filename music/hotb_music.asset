@@ -760,6 +760,11 @@ music = {
 	file = "la_independencia.ogg"
 	volume = 1.25
 }
+music = {
+	name = "thourios"
+	file = "thourios.ogg"
+	volume = 1.25
+}
 
 
 

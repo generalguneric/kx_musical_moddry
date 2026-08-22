@@ -67,6 +67,22 @@ music = {
 	}
 }
 music = {
+	song = "der_machtigste_konig_im_luftrevier"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = GER		
+		}
+	}
+}
+music = {
 	song = "erika"
 
 	chance = {

@@ -109,6 +109,91 @@ music = {
 }
 
 music = {
+	song = "debout_les_gars"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "le_retour_des_princes_francais_a_paris"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "marche_des_mousquetaires_du_roy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "marche_du_regiment_du_roy"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
+	song = "marche_pour_la_ceremonie_des_turcs"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = NFA
+		}
+	}
+}
+
+music = {
 	song = "alsace_et_lorriane"
 
 	chance = {

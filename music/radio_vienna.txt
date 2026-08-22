@@ -1830,12 +1830,116 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				tag = CZE
+				OR = {
+					tag = AUS
+					tag = CZE
+					tag = PGU
+				}
 			}
 		}
 		modifier = {
 			factor = 20
 			tag = CZE
+		}
+		modifier = {
+			factor = 20
+			tag = PGU
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "FurchtlosundTreuMarsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					tag = AUS
+					tag = CZE
+				}
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+		modifier = {
+			factor = 20
+			tag = CZE
+		}
+	}
+}
+
+music = {
+	song = "isonzo_austria_theme"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "gott_erhalte_gott_beschutze"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "gott_erhalte_franz_den_kaiser"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
+
+music = {
+	song = "Thun-Hohenstein-Marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
 		}
 	}
 }
