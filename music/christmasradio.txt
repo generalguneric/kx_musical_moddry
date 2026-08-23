@@ -26,7 +26,7 @@ music = {
 }
 
 music = {
-	song = "belfast"
+	song = "belfast_irish_rovers"
 
 	chance = {
 		modifier = {

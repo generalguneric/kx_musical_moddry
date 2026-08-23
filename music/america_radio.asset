@@ -419,8 +419,8 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "san_antonio"
-	file = "america_radio/san_antonio.ogg"
+	name = "san_antonio_hillbilly"
+	file = "america_radio/san_antonio_hillbilly.ogg"
 	volume = 1.25
 }
 music = {

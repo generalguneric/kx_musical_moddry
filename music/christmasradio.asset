@@ -12,8 +12,8 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "belfast"
-	file = "christmas/belfast.ogg"
+	name = "belfast_irish_rovers"
+	file = "christmas/belfast_irish_rovers.ogg"
 	volume = 1.25
 }
 music = {

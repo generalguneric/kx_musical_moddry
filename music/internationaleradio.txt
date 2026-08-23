@@ -197,7 +197,7 @@ music = {
 }
 
 music = {
-	song = "jerusalem"
+	song = "jerusalem_robeson"
 
 	chance = {
 		modifier = {

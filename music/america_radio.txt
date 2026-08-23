@@ -1614,7 +1614,7 @@ music = {
 }
 
 music = {
-	song = "san_antonio"
+	song = "san_antonio_hillbilly"
 
 	chance = {
 		modifier = {

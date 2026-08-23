@@ -145,8 +145,8 @@ music = {
 	volume = 1.25
 }
 music = {
-	name = "jerusalem"
-	file = "internationaleradio/jerusalem.ogg"
+	name = "jerusalem_robeson"
+	file = "internationaleradio/jerusalem_robeson.ogg"
 	volume = 1.25
 }
 music = {
