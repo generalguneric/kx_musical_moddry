@@ -628,6 +628,48 @@ music = {
 	}
 }
 
+music = {
+	song = "hello_general_pershing"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NEE
+				tag = USA
+			}
+		}
+	}
+}
+
+music = {
+	song = "just_like_washington"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NEE
+				tag = USA
+			}
+		}
+	}
+}
+
 # NYC
 
 music = {
@@ -2492,4 +2534,3 @@ music = {
 		}
 	}
 }
-
