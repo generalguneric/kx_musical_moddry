@@ -3380,3 +3380,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "viken_tidens_flyktiga_minnen"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = SWE
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = SWE
+		}
+	}
+}

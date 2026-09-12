@@ -783,3 +783,8 @@ music = {
 	file = "downtown.ogg"
 	volume = 1.25
 }
+music = {
+	name = "viken_tidens_flyktiga_minnen"
+	file = "viken_tidens_flyktiga_minnen.ogg"
+	volume = 1.25
+}
