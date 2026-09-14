@@ -496,3 +496,9 @@ music = {
 	file = "radio_vienna/FurchtlosundTreuMarsch.ogg"
 	volume = 1
 }
+
+music = {
+	name = "rainer_marsch"
+	file = "radio_vienna/rainer_marsch.ogg"
+	volume = 1
+}

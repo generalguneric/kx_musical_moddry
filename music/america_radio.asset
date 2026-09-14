@@ -678,3 +678,8 @@ music = {
 	file = "america_radio/streets_of_nyc.ogg"
 	volume = 1.25
 }
+music = {
+	name = "what_you_wont_do_for_love"
+	file = "america_radio/what_you_wont_do_for_love.ogg"
+	volume = 1.25
+}

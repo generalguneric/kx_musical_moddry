@@ -1943,3 +1943,20 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "rainer_marsch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = AUS
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = AUS
+		}
+	}
+}
