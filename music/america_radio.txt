@@ -748,11 +748,15 @@ music = {
 			factor = 0
 			NOT = {
 				tag = NYC
+				tag = FIU
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = NYC
+			OR = {
+				tag = NYC
+				tag = FIU
+			}
 		}
 	}
 }
@@ -765,11 +769,15 @@ music = {
 			factor = 0
 			NOT = {
 				tag = NYC
+				tag = FIU
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = NYC
+			OR = {
+				tag = NYC
+				tag = FIU
+			}
 		}
 	}
 }
@@ -781,11 +789,15 @@ music = {
 			factor = 0
 			NOT = {
 				tag = NYC
+				tag = FIU
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = NYC
+			OR = {
+				tag = NYC
+				tag = FIU
+			}
 		}
 	}
 }

@@ -215,6 +215,52 @@ music = {
 }
 
 music = {
+	song = "le_reve_passe"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_soldiers_dream"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NFA
+				tag = FRA
+				tag = ENG
+				tag = CAN
+			}
+		}
+		modifier = {
+			factor = 20
+			OR = {
+				tag = NFA
+				tag = FRA
+				tag = ENG
+				tag = CAN
+			}
+		}
+	}
+}
+
+music = {
 	song = "bonjour_mon_vieux_paris"
 
 	chance = {

@@ -916,11 +916,15 @@ music = {
 			factor = 0
 			NOT = {
 				tag = AUS
+				tag = FIU
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = AUS
+			OR = {
+				tag = AUS
+				tag = FIU
+			}
 		}
 	}
 }
@@ -1227,19 +1231,22 @@ music = {
 		modifier = {
 			factor = 0
 			NOT = {
-				OR = {
-					tag = AUS
-					tag = CRO
-				}
+				tag = AUS
+				tag = CRO
+				tag = SKS
+				tag = BOS
+				tag = SER
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = CRO
-		}
-		modifier = {
-			factor = 20
-			tag = AUS
+			OR = {
+				tag = CRO
+				tag = AUS
+				tag = SKS
+				tag = BOS
+				tag = SER
+			}
 		}
 	}
 }
@@ -1780,11 +1787,15 @@ music = {
 			factor = 0
 			NOT = {
 				tag = AUS
+				tag = FIU
 			}
 		}
 		modifier = {
 			factor = 20
-			tag = AUS
+			OR = {
+				tag = AUS
+				tag = FIU
+			}
 		}
 	}
 }

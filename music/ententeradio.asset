@@ -75,6 +75,16 @@ music = {
 	volume = 1.25
 }
 music = {
+	name = "le_reve_passe"
+	file = "ententeradio/le_reve_passe.ogg"
+	volume = 1.25
+}
+music = {
+	name = "the_soldiers_dream"
+	file = "ententeradio/the_soldiers_dream.ogg"
+	volume = 1.25
+}
+music = {
 	name = "bonjour_mon_vieux_paris"
 	file = "ententeradio/bonjour_mon_vieux_paris.ogg"
 	volume = 1.25
