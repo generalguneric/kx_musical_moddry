@@ -303,6 +303,23 @@ music = {
 }
 
 music = {
+	song = "ievan_polkka"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = FIN
+			}
+		}
+		modifier = {
+			factor = 20
+			tag = FIN
+		}
+	}
+}
+
+music = {
 	song = "njet_molotoff"
 
 	chance = {
